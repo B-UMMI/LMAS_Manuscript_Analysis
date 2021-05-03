@@ -1,0 +1,501 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Staphylococcus aureus" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 3 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2021 } } } ,
+        create-date
+          std {
+            year 2021 ,
+            month 5 ,
+            day 3 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "Staphylococcus_aureus_plasmid1" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 6337 ,
+            seq-data
+              iupacna "AGTGTACAACGAAACGTACAGCAATCTGTACAGCGTTATGATACAATGATTTATA
+AGTGAGGTGGCATATGAAGGAGAAAATTTATACAATAAAAAACTTATGTGATGAATTAAATCAACCAAGACAAAAAGT
+AAGAAGAAGACTTGAAAAGCTTGAAATTAAAGCTATTAATGAAGATACAAGAACTTATGAAAATGAACCTCTGGAGTA
+TAATCACCAAGCTTTTTTGAAATTAGCAGAAGAATTTGATGTACGAATTGACAATAAAGAGTGTACAGCAAGTGTACA
+ACAGCGTACAACGAATGAACAGCACCGTACAGCAGAAGAAACAAGCAAAGATAAACTGATAAAGGTACTAGAAGAGCA
+GTTAGAAGAAGCGAATAAATCAAGAGCAAATTTAGAAAAACTTTTAGATCAACAACAACAATTAACTTTGATTTCTAA
+TAGAAAAATAGAAGCATTAAAACTAGAATTTGAAAAAAAGGAAATGGAAAAAAAAGTTGGTAATGGGATAAATAAAAA
+AGAAAAAACCAAATGGTACGAATTTCTTTTTAAAAAAAAGAATTAAGAAAATAAAAAGGAGAATTAAAATGTCTTTGA
+AAGCAAATCTAAAATTATCTGAAAAGGGAATGAGAATAGTGAATGGACCAATAATAATGACTAGAGAAGAAAGAATGA
+AGATTGTTCATGAAATTAAGGAACGAATATTGGATAAATATGGGGATGATGTTAAGGCTATTGGTGTTTATGGCTCTC
+TTGGTCGTCAGACTGATGGGCCCTATTCGGATATTGAGATGATGTGTGTCATGTCAACAGAGGAAGCAGAGTTCAGCC
+ATGAATGGACAACCGGTGAGTGGAAGGTGGAAGTGAATTTTGATAGCGAAGAGATTCTACTAGATTATGCATCTCAGG
+TGGAATCAGATTGGCCGCTTACACATGGTCAATTTTTCTCTATTTTGCCGATTTATGATTCAGGTGGATACTTAGAGA
+AAGTGTATCAAACTGCTAAATCGGTAGAAGCCCAAACGTTCCACGATGCGATTTGTGCCCTTATCGTAGAAGAGCTGT
+TTGAATATGCAGGCAAATGGCGTAATATTCGTGTGCAAGGACCGACAACATTTCTACCATCCTTGACTGTACAGGTAG
+CAATGGCAGGTGCCATGTTGATTGGTCTGCATCATCGCATCTGTTATACGACGAGCGCTTCGGTCTTAACTGAAGCAG
+TTAAGCAATCAGATCTTCCTTCAGGTTATGACCATCTGTGCCAGTTCGTAATGTCTGGTCAACTTTCCGACTCTGAGA
+AACTTCTGGAATCGCTAGAGAATTTCTGGAATGGGATTCAGGAGTGGACAGAACGACACGGATATATAGTGGATGTGT
+CAAAACGCATACCATTTTGAACGATGACCTCTAATAATTGTTAATCATGTTGGTTACGTATTTATTAACTTCTCCTAG
+TATTAGTAATTATCATGGCTGTCATGGCGCATTAACGGAATAAAGGGTGTGCTTAAATCGGGCCATATTGTTGTATAA
+GTGATGAAATACTGAATTTAAAACTTAGTTTATATGTGGTAAAATGTTTTAATCAAGTTTAGGAGGAATTAATTATGA
+AGTGTAATGAATGTAACAGGGTTCAATTAAAAGAGGGAAGCGTATCATTAACCCTATAAACTACGTCTGCCCTCATTA
+TTGGAGGGTGAAATGTGAATACATCCTATTCACAATCGAATTTACGACACAACCAAATTTTAATTTGGCTTTGCATTT
+TATCTTTTTTTAGCGTATTAAATGAAATGGTTTTGAACGTCTCATTACCTGATATTGCAAATGATTTTAATAAACCAC
+CTGCGAGTACAAACTGGGTGAACACAGCCTTTATGTTAACCTTTTCCATTGGAACAGCTGTATATGGAAAGCTATCTG
+ATCAATTAGGCATCAAAAGGTTACTCCTATTTGGAATTATAATAAATTGTTTCGGGTCGGTAATTGGGTTTGTTGGCC
+ATTCTTTCTTTTCCTTACTTATTATGGCTCGTTTTATTCAAGGGGCTGGTGCAGCTGCATTTCCAGCACTCGTAATGG
+TTGTAGTTGCGCGCTATATTCCAAAGGAAAATAGGGGTAAAGCATTTGGTCTTATTGGATCGATAGTAGCCATGGGAG
+AAGGAGTCGGTCCAGCGATTGGTGGAATGATAGCCCATTATATTCATTGGTCCTATCTTCTACTCATTCCTATGATAA
+CAATTATCACTGTTCCGTTTCTTATGAAATTATTAAAGAAAGAAGTAAGGATAAAAGGTCATTTTGATATCAAAGGAA
+TTATACTAATGTCTGTAGGCATTGTATTTTTTATGTTGTTTACAACATCATATAGCATTTCTTTTCTTATCGTTAGCG
+TGCTGTCATTCCTGATATTTGTAAAACATATCAGGAAAGTAACAGATCCTTTTGTTGATCCCGGATTAGGGAAAAATA
+TACCTTTTATGATTGGAGTTCTTTGTGGGGGAATTATATTTGGAACAGTAGCAGGGTTTGTCTCTATGGTTCCTTATA
+TGATGAAAGATGTTCACCAGCTAAGTACTGCCGAAATCGGAAGTGTAATTATTTTCCCTGGAACAATGAGTGTCATTA
+TTTTCGGCTACATTGGTGGGATACTTGTTGATAGAAGAGGTCCTTTATACGTGTTAAACATCGGAGTTACATTTCTTT
+CTGTTAGCTTTTTAACTGCTTCCTTTCTTTTAGAAACAACATCATGGTTCATGACAATTATAATCGTATTTGTTTTAG
+GTGGGCTTTCGTTCACCAAAACAGTTATATCAACAATTGTTTCAAGTAGCTTGAAACAGCAGGAAGCTGGTGCTGGAA
+TGAGTTTGCTTAACTTTACCAGCTTTTTATCAGAGGGAACAGGTATTGCAATTGTAGGTGGTTTATTATCCATACCCT
+TACTTGATCAAAGGTTGTTACCTATGGAAGTTGATCAGTCAACTTATCTGTATAGTAATTTGTTATTACTTTTTTCAG
+GAATCATTGTCATTAGTTGGCTGGTTACCTTGAATGTATATAAACATTCTCAAAGGGATTTCTAAATCGTTAAGGGAT
+CAACTTTGGGAGAGAGTTCAAAATTGATCCTTTTTTTATAACAGGAATTCAAATCTTTTTGTTCCATTAAAGGGCGCG
+ATTGCTGAATAAAAGATACGAGAGACCTCTCTTGTATCTTTTTTATTTTGAGTGGTTTTGTCCGTTACACTAGAAAAC
+CGAAAGACAATAAAAATTTTATTCTTGCTGAGTCTGGCTTTCGGTAAGCTAGACAAAACGGACAAAATAAAAATTGGC
+AAGGGTTTAAAGGTGGAGATTTTTTGAGTGATCTTCTCAAAAAATACTACCTGTCCCTTGCTGATTTTTAAACGAGCA
+CGAGAGCAAAACCCCCCTTTGCTGAGGTGGCAGAGGGCAGGTTTTTTTGTTTCTTTTTTCTCGTAAAAAAAGAAAGGT
+CTTAAAGGTTTTATGGTTTTGGTCGGCACTGCCGACAGCCTCGCAGAGCACACACTTTATGAATATAAAGTATAGTGT
+GTTTTATACTTTACATGGAAGGTGTGCCCGTACAAAGCAAGAAAGGGGTTGTTTTTTATGTCAATGATTGTTGCTAGA
+ATGCAAAAAATGAAAGCTGAAAATTTAGTAGGAATTGGAAACCATAATCAAAGAAAAACAAAAAATCATTCAAATCCT
+GACATCGATACTTCTCTTTCAAAACTGAATTATGATTTAGTAGATCGTACTCAAAATTATAAAACTGATATTGAAAAT
+TTTATTAATGAAAACAAATCAACTACAAGGGCAGTTAGAAAAGATGCAGTTTTAGTTAATGAATGGATTATTTCAAGT
+GATAAAGATTTTTTTGATAATCTAACTGAAAGTGAAATAGAGAATTTTTTTGAAAGGTCAAAAGATTATTTTGCTGAA
+AAATTTGGAGAGAAAAATATTCGATATGCAACTGTTCATTTAGATGAAAGCACTCCACATATGCATATGGGTATTGTT
+CCCTTTGATAAAGATAATAAATTAAGTGCTAAGAGAGTTTTTAATCGACAAGCTCTTCGTGATGTTCAAGAAGAATTG
+CCTAAGTACTTACAAGATTTTCAATTTGAAATTGCAAGAGGACAAAAAGGATCTGAAAGAAAAAATTTAACTGTTCCA
+GAATTTAAAAAATTAAAAGAAGAAGAACTAGAAATAAAAAAAGAATTACAAATAAAAAAAGATGAACTAATAGCTTAC
+ACAAAAGAAAATCAAATTGATAAAAAACTTGATATAACACCAATAAAAGAAATGGAAGATATAGAGATTGAAACAGAT
+GAAAAAACTCTATTTGGAAAAAATAAAACTGAAATAGTTAGACAATGGACTGGCAATATAATTTTATCTGAAAACGAT
+TATTTAAAATTAAATAAAGAAATCAAAAAAGGGAAAAAAACAGAGGGAAGATTAGCAGCTATTTTAGAAACTGATGTT
+TACCAGGAAAACAAAGAGCTAAAAAATGAATTAAAAGATCAGATAGATAAAAATGATAAAGATATTGATGATTATAAT
+GATCTTGTTAAAAGATATAATAATTTATATGAAGAAAACACTTCTTTAAAGAGCCAGATTGGCGATTTAAAAGAAGAA
+ATTAAGTTAATATACCAATCTACTAAAAGATTCTTAAAAGACCGTATAAGCGATTTTAAAGCCTTTAAAGAAGTATTT
+AAAGAGTTAGCTGACAACATATCTAATATCTCAAGAGAAAAGGGATTAGATAGTAGTTTCAAGAAAGAATTTGATAGA
+GAAAACAAGAAAAAGCAAACTAGAGGAATAAGGTGATAAACTATGTATACTCTGTAAACGGTGTATACATAGTTTACT
+GCGTATACAATATAAAAGCGTTCAATTATCTATTGATAATCTAAGTCCCCCTAGTAGTCTTTAGGGGTATTGTTTTAA
+AAGGGTGATTTATATGAGTAATAATATAAAGAATAAGAAGAAGAATTATAGGGAAGTAGAAGAGCTATTAGCTTTTCA
+TTACCAAGAAATAGAAGGGGAAGAATTTTATAAATATATATTTCCTAATAATCAAGATGAAGGAGAAATGTCGGGAGA
+TTATTCTAAACCTAATGCTATTTATTTATATAAGGATCCTAAAGATGAAGGCACAGAAAGGAAGTTAAGAAGAAGAAT
+AATGCTTAATGATACCTGGGAAGAAGACTATAGAGATTTTGTAGAGGATAATCCTATGACTTTATGTTCAGGTTTAGC
+TTATAGAGGTCGTATAAATCGCTTAGAGTATTCTCAACAGATGAATGCTTTGGTGTTTGACCTTGATGCAGTAGGTAA
+AAATGAGTTAATTAATTTCTTTTCAAGAATAGGAAAAAAGCCAGGGCTAAGAACGCTTCCTCAGCCGACTTTTATTGT
+AATGAGTGGTACAGGTCTCCATATTTACTATGTATTTAAAGAACCTATTGCTTTATATCCAAATATTAAGCTTCAAAT
+GAAGCAGTTAAAGTATGATTTAACCTTTAAAATGTGGGAGTATAAGGCAACTTCTCAAGAAAAACAGATACAGTATCA
+GTCAATCAATCAAGGTTTTAGAATGGTTGGTTCTAGAAATGATAAATATGACTTACCAGTAAAGGCTTTTAAAACTGG
+AGAGAGAGTTACTTTAGATTATATTAATTCTTATGCAGATGAAGAAAAAAATAGAGTAGATATAAATAAGCGATTTAG
+ACCAACTCAATATAGTTTAGAAGAAGCAGAAGAGAAGTTTCCTGAGTGGTATGAGAGAGTAATTGTTCAAGGAGATAA
+GAGAGCTAAAAGATGGGATATAAAGAGAGATCTTTATGATTGGTGGTTAAGACAGTCTTATAAAGTTAAAGGTGGACA
+TCGTTATTTTTATTTGATGTGTATGGCAATTTATGCTGTAAAGTGTAATATTCCAAAAAATGAAGTTCGAGAAGATAT
+GTATAAAATTTTTGATGAATTAAAGGAAATAGAACATTCTAATCCTTTAGAAGAAGATGATATTAAATCAGCTTTAGA
+AACCTATGACAGACAATATTATAATTTTACCATTGATGACATTGTAAAATTAACAGATATCCCTATTGAAAAAAACAA
+AAGAAATTATAGAAAACAAGATCAACATTTAAAACTTGCAAGAGGACAATTAGAATTACTTAAAGAGATGGGAGAAGT
+AGAAGTAGGTAGACCTTCAAAAGAGAGTCTTGTTAGGGAATATTTAGAAGATAATCCTGAGCATTCTCCAACAGAAAT
+AGCTAGAAATTTAGGAATCAGTCGTACAACAGTATATAAGTA" } } ,
+        seq {
+          id {
+            local
+              str "Staphylococcus_aureus_plasmid1_1" } ,
+          descr {
+            title "hypothetical protein Zymos_Sa_p1_00001 [Staphylococcus
+ aureus]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 166 ,
+            seq-data
+              ncbieaa "MKEKIYTIKNLCDELNQPRQKVRRRLEKLEIKAINEDTRTYENEPLEYNHQAFLK
+LAEEFDVRIDNKECTASVQQRTTNEQHRTAEETSKDKLIKVLEEQLEEANKSRANLEKLLDQQQQLTLISNRKIEALK
+LEFEKKEMEKKVGNGINKKEKTKWYEFLFKKKN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 6 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 165 ,
+                        id
+                          local
+                            str "Staphylococcus_aureus_plasmid1_1" } } } } } } ,
+        seq {
+          id {
+            local
+              str "Staphylococcus_aureus_plasmid1_2" } ,
+          descr {
+            title "Kanamycin nucleotidyltransferase [Staphylococcus aureus]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 269 ,
+            seq-data
+              ncbieaa "MSLKANLKLSEKGMRIVNGPIIMTREERMKIVHEIKERILDKYGDDVKAIGVYGS
+LGRQTDGPYSDIEMMCVMSTEEAEFSHEWTTGEWKVEVNFDSEEILLDYASQVESDWPLTHGQFFSILPIYDSGGYLE
+KVYQTAKSVEAQTFHDAICALIVEELFEYAGKWRNIRVQGPTTFLPSLTVQVAMAGAMLIGLHHRICYTTSASVLTEA
+VKQSDLPSGYDHLCQFVMSGQLSDSEKLLESLENFWNGIQEWTERHGYIVDVSKRIPF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      prot {
+                        name {
+                          "Kanamycin nucleotidyltransferase" } ,
+                        ec {
+                          "2.7.7.-" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 268 ,
+                        id
+                          local
+                            str "Staphylococcus_aureus_plasmid1_2" } } } } } } ,
+        seq {
+          id {
+            local
+              str "Staphylococcus_aureus_plasmid1_3" } ,
+          descr {
+            title "tetracycline efflux MFS transporter Tet(L) [Staphylococcus
+ aureus]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 458 ,
+            seq-data
+              ncbieaa "MNTSYSQSNLRHNQILIWLCILSFFSVLNEMVLNVSLPDIANDFNKPPASTNWVN
+TAFMLTFSIGTAVYGKLSDQLGIKRLLLFGIIINCFGSVIGFVGHSFFSLLIMARFIQGAGAAAFPALVMVVVARYIP
+KENRGKAFGLIGSIVAMGEGVGPAIGGMIAHYIHWSYLLLIPMITIITVPFLMKLLKKEVRIKGHFDIKGIILMSVGI
+VFFMLFTTSYSISFLIVSVLSFLIFVKHIRKVTDPFVDPGLGKNIPFMIGVLCGGIIFGTVAGFVSMVPYMMKDVHQL
+STAEIGSVIIFPGTMSVIIFGYIGGILVDRRGPLYVLNIGVTFLSVSFLTASFLLETTSWFMTIIIVFVLGGLSFTKT
+VISTIVSSSLKQQEAGAGMSLLNFTSFLSEGTGIAIVGGLLSIPLLDQRLLPMEVDQSTYLYSNLLLLFSGIIVISWL
+VTLNVYKHSQRDF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      prot {
+                        name {
+                          "tetracycline efflux MFS transporter Tet(L)" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 457 ,
+                        id
+                          local
+                            str "Staphylococcus_aureus_plasmid1_3" } } } } } } ,
+        seq {
+          id {
+            local
+              str "Staphylococcus_aureus_plasmid1_4" } ,
+          descr {
+            title "hypothetical protein Zymos_Sa_p1_00004 [Staphylococcus
+ aureus]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 127 ,
+            seq-data
+              ncbieaa "MPTKTIKPLRPFFFYEKKETKKPALCHLSKGGFCSRARLKISKGQVVFFEKITQK
+ISTFKPLPIFILSVLSSLPKARLSKNKIFIVFRFSSVTDKTTQNKKDTREVSRIFYSAIAPFNGTKRFEFLL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 126 ,
+                        id
+                          local
+                            str "Staphylococcus_aureus_plasmid1_4" } } } } } } ,
+        seq {
+          id {
+            local
+              str "Staphylococcus_aureus_plasmid1_5" } ,
+          descr {
+            title "hypothetical protein Zymos_Sa_p1_00005 [Staphylococcus
+ aureus]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 408 ,
+            seq-data
+              ncbieaa "MSMIVARMQKMKAENLVGIGNHNQRKTKNHSNPDIDTSLSKLNYDLVDRTQNYKT
+DIENFINENKSTTRAVRKDAVLVNEWIISSDKDFFDNLTESEIENFFERSKDYFAEKFGEKNIRYATVHLDESTPHMH
+MGIVPFDKDNKLSAKRVFNRQALRDVQEELPKYLQDFQFEIARGQKGSERKNLTVPEFKKLKEEELEIKKELQIKKDE
+LIAYTKENQIDKKLDITPIKEMEDIEIETDEKTLFGKNKTEIVRQWTGNIILSENDYLKLNKEIKKGKKTEGRLAAIL
+ETDVYQENKELKNELKDQIDKNDKDIDDYNDLVKRYNNLYEENTSLKSQIGDLKEEIKLIYQSTKRFLKDRISDFKAF
+KEVFKELADNISNISREKGLDSSFKKEFDRENKKKQTRGIR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 407 ,
+                        id
+                          local
+                            str "Staphylococcus_aureus_plasmid1_5" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "Staphylococcus_aureus_plasmid1_1" ,
+                location
+                  int {
+                    from 68 ,
+                    to 568 ,
+                    strand plus ,
+                    id
+                      local
+                        str "Staphylococcus_aureus_plasmid1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "Zymos_Sa_p1_00001" } } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "Staphylococcus_aureus_plasmid1_2" ,
+                location
+                  int {
+                    from 591 ,
+                    to 1400 ,
+                    strand plus ,
+                    id
+                      local
+                        str "Staphylococcus_aureus_plasmid1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P05057" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "knt" ,
+                        locus-tag "Zymos_Sa_p1_00002" } } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "Staphylococcus_aureus_plasmid1_3" ,
+                location
+                  int {
+                    from 1707 ,
+                    to 3083 ,
+                    strand plus ,
+                    id
+                      local
+                        str "Staphylococcus_aureus_plasmid1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:BARRGD:NG_048203.1" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "tet(L)" ,
+                        locus-tag "Zymos_Sa_p1_00003" } } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "Staphylococcus_aureus_plasmid1_4" ,
+                location
+                  int {
+                    from 3132 ,
+                    to 3515 ,
+                    strand minus ,
+                    id
+                      local
+                        str "Staphylococcus_aureus_plasmid1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "Zymos_Sa_p1_00004" } } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "Staphylococcus_aureus_plasmid1_5" ,
+                location
+                  int {
+                    from 3622 ,
+                    to 4848 ,
+                    strand plus ,
+                    id
+                      local
+                        str "Staphylococcus_aureus_plasmid1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "Zymos_Sa_p1_00005" } } } } } } } } } }

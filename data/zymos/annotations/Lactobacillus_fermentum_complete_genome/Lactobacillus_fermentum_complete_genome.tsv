@@ -1,0 +1,1938 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Zymos_Lf_00001	CDS	528		1.-.-.-		putative oxidoreductase
+Zymos_Lf_00002	CDS	300	dkgB	1.1.1.346	COG0656	2,5-diketo-D-gluconic acid reductase B
+Zymos_Lf_00003	CDS	390	ytbE	1.-.-.-	COG0656	putative oxidoreductase YtbE
+Zymos_Lf_00004	CDS	195				hypothetical protein
+Zymos_Lf_00005	CDS	153				hypothetical protein
+Zymos_Lf_00006	CDS	93				hypothetical protein
+Zymos_Lf_00007	CDS	1287				ISL3 family transposase ISL3
+Zymos_Lf_00008	CDS	456				hypothetical protein
+Zymos_Lf_00009	CDS	1251				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_00010	CDS	567				hypothetical protein
+Zymos_Lf_00011	CDS	792				hypothetical protein
+Zymos_Lf_00012	CDS	1539				hypothetical protein
+Zymos_Lf_00013	CDS	1863				hypothetical protein
+Zymos_Lf_00014	CDS	792				hypothetical protein
+Zymos_Lf_00015	CDS	879	isdE			High-affinity heme uptake system protein IsdE
+Zymos_Lf_00016	CDS	927	isdF			putative heme-iron transport system permease protein IsdF
+Zymos_Lf_00017	CDS	762	fepC		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+Zymos_Lf_00018	CDS	1305	kgtP			Alpha-ketoglutarate permease
+Zymos_Lf_00019	CDS	813				hypothetical protein
+Zymos_Lf_00020	CDS	930				hypothetical protein
+Zymos_Lf_00021	CDS	840	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+Zymos_Lf_00022	rRNA	1573				16S ribosomal RNA
+Zymos_Lf_00023	rRNA	2917				23S ribosomal RNA
+Zymos_Lf_00024	rRNA	112				5S ribosomal RNA
+Zymos_Lf_00025	CDS	972		1.1.1.-		Putative 2-hydroxyacid dehydrogenase
+Zymos_Lf_00026	CDS	339	pucG_1	2.6.1.112	COG0075	(S)-ureidoglycine--glyoxylate transaminase
+Zymos_Lf_00027	CDS	807	pucG_2	2.6.1.112	COG0075	(S)-ureidoglycine--glyoxylate transaminase
+Zymos_Lf_00028	CDS	297				hypothetical protein
+Zymos_Lf_00029	CDS	228				hypothetical protein
+Zymos_Lf_00030	CDS	258				hypothetical protein
+Zymos_Lf_00031	CDS	936	arcC1_1	2.7.2.2		Carbamate kinase 1
+Zymos_Lf_00032	CDS	528	rihA_1	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+Zymos_Lf_00033	CDS	213	rihA_2	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+Zymos_Lf_00034	CDS	648	cnbA	1.7.1.16		Chloronitrobenzene nitroreductase
+Zymos_Lf_00035	CDS	732				hypothetical protein
+Zymos_Lf_00036	CDS	315				hypothetical protein
+Zymos_Lf_00037	CDS	1041	adh_1	1.1.1.1	COG1063	Alcohol dehydrogenase
+Zymos_Lf_00038	CDS	2526	pepN	3.4.11.2		Aminopeptidase N
+Zymos_Lf_00039	CDS	456				hypothetical protein
+Zymos_Lf_00040	CDS	1251				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_00041	CDS	417				hypothetical protein
+Zymos_Lf_00042	CDS	546				hypothetical protein
+Zymos_Lf_00043	CDS	765	nfrA1	1.5.1.38	COG0778	FMN reductase (NADPH)
+Zymos_Lf_00044	tRNA	76				tRNA-Thr(ggt)
+Zymos_Lf_00045	CDS	849			COG1464	Membrane lipoprotein TpN32
+Zymos_Lf_00046	CDS	1164	napA			Na(+)/H(+) antiporter
+Zymos_Lf_00047	CDS	2319	helD_1	3.6.4.12	COG3973	DNA helicase IV
+Zymos_Lf_00048	CDS	939	ppx_1	3.6.1.11	COG0248	Exopolyphosphatase
+Zymos_Lf_00049	CDS	1278	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+Zymos_Lf_00050	CDS	984				hypothetical protein
+Zymos_Lf_00051	CDS	699	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+Zymos_Lf_00052	CDS	1176	tetA			Tetracycline resistance protein, class B
+Zymos_Lf_00053	CDS	843				hypothetical protein
+Zymos_Lf_00054	CDS	2001	metG	6.1.1.10		Methionine--tRNA ligase
+Zymos_Lf_00055	CDS	789	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+Zymos_Lf_00056	CDS	570	rnmV	3.1.26.8	COG1658	Ribonuclease M5
+Zymos_Lf_00057	CDS	888	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+Zymos_Lf_00058	CDS	852	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Zymos_Lf_00059	CDS	1251				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_00060	CDS	456				hypothetical protein
+Zymos_Lf_00061	CDS	906	fimA		COG0803	Manganese ABC transporter substrate-binding lipoprotein
+Zymos_Lf_00062	CDS	534	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+Zymos_Lf_00063	CDS	795	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+Zymos_Lf_00064	CDS	837	purR_1		COG0503	Pur operon repressor
+Zymos_Lf_00065	CDS	1368	glmU		COG1207	Bifunctional protein GlmU
+Zymos_Lf_00066	CDS	987	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Zymos_Lf_00067	CDS	729				hypothetical protein
+Zymos_Lf_00068	CDS	822	yidA_1	3.1.3.23	COG0561	Sugar phosphatase YidA
+Zymos_Lf_00069	CDS	1356				hypothetical protein
+Zymos_Lf_00070	CDS	426				hypothetical protein
+Zymos_Lf_00071	CDS	588	rpoE			DNA-directed RNA polymerase subunit delta
+Zymos_Lf_00072	CDS	1602	pyrG	6.3.4.2	COG0504	CTP synthase
+Zymos_Lf_00073	CDS	1269	murA1	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Zymos_Lf_00074	CDS	246	rpmE2		COG0254	50S ribosomal protein L31 type B
+Zymos_Lf_00075	CDS	342	mdtG			Multidrug resistance protein MdtG
+Zymos_Lf_00076	CDS	702	strA	3.4.22.-	COG3764	Sortase A
+Zymos_Lf_00077	CDS	465	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+Zymos_Lf_00078	CDS	558	lemA		COG1704	Protein LemA
+Zymos_Lf_00079	CDS	900	htpX	3.4.24.-	COG0501	Protease HtpX 
+Zymos_Lf_00080	CDS	1380	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Zymos_Lf_00081	CDS	1479	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+Zymos_Lf_00082	CDS	360	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+Zymos_Lf_00083	CDS	1122	alr	5.1.1.1	COG0787	Alanine racemase
+Zymos_Lf_00084	CDS	354	ndoA	3.1.27.-	COG2337	Endoribonuclease EndoA
+Zymos_Lf_00085	CDS	636				hypothetical protein
+Zymos_Lf_00086	CDS	561	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+Zymos_Lf_00087	CDS	3543	mfd	3.6.4.-		Transcription-repair-coupling factor
+Zymos_Lf_00088	CDS	273				hypothetical protein
+Zymos_Lf_00089	CDS	357				hypothetical protein
+Zymos_Lf_00090	CDS	507	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+Zymos_Lf_00091	CDS	1350	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+Zymos_Lf_00092	CDS	549	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+Zymos_Lf_00093	CDS	2169	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+Zymos_Lf_00094	CDS	882	hslO		COG1281	33 kDa chaperonin
+Zymos_Lf_00095	CDS	1002	dusB	1.3.1.-	COG0042	tRNA-dihydrouridine synthase B
+Zymos_Lf_00096	CDS	1494	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+Zymos_Lf_00097	rRNA	1573				16S ribosomal RNA
+Zymos_Lf_00098	tRNA	77				tRNA-Ile(gat)
+Zymos_Lf_00099	tRNA	75				tRNA-Ala(tgc)
+Zymos_Lf_00100	rRNA	2917				23S ribosomal RNA
+Zymos_Lf_00101	rRNA	112				5S ribosomal RNA
+Zymos_Lf_00102	tRNA	75				tRNA-Asn(gtt)
+Zymos_Lf_00103	tRNA	75				tRNA-Thr(cgt)
+Zymos_Lf_00104	CDS	1176				IS200/IS605 family transposase ISLhe65
+Zymos_Lf_00105	CDS	2226	smc_1			Chromosome partition protein Smc
+Zymos_Lf_00106	CDS	1497	dtpT_1		COG3104	Di-/tripeptide transporter
+Zymos_Lf_00107	CDS	846				hypothetical protein
+Zymos_Lf_00108	tRNA	83				tRNA-Tyr(gta)
+Zymos_Lf_00109	tRNA	73				tRNA-Gln(ttg)
+Zymos_Lf_00110	CDS	642				hypothetical protein
+Zymos_Lf_00111	CDS	714		5.1.1.13	COG1794	Aspartate racemase
+Zymos_Lf_00112	CDS	702	nagR		COG2188	HTH-type transcriptional repressor NagR
+Zymos_Lf_00113	CDS	1461	pncB_1	6.3.4.21		Nicotinate phosphoribosyltransferase
+Zymos_Lf_00114	CDS	831	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+Zymos_Lf_00115	CDS	2178	yhgF		COG2183	Protein YhgF
+Zymos_Lf_00116	CDS	456				Protein SprT-like protein
+Zymos_Lf_00117	tRNA	86				tRNA-Leu(aag)
+Zymos_Lf_00118	CDS	1881	lacL	3.2.1.23	COG3250	Beta-galactosidase large subunit
+Zymos_Lf_00119	CDS	963	lacM	3.2.1.23	COG3250	Beta-galactosidase small subunit
+Zymos_Lf_00120	CDS	957				hypothetical protein
+Zymos_Lf_00121	CDS	678	gpmA_1	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Zymos_Lf_00122	CDS	876				hypothetical protein
+Zymos_Lf_00123	CDS	1338	pepC	3.4.22.40	COG3579	Aminopeptidase C
+Zymos_Lf_00124	CDS	615	lacA_1	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+Zymos_Lf_00125	CDS	687	rpiA_1	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+Zymos_Lf_00126	CDS	312				hypothetical protein
+Zymos_Lf_00127	CDS	540	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+Zymos_Lf_00128	CDS	1374	radA	3.6.4.-	COG1066	DNA repair protein RadA
+Zymos_Lf_00129	CDS	1134	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+Zymos_Lf_00130	CDS	1497	gltX	6.1.1.17		Glutamate--tRNA ligase
+Zymos_Lf_00131	CDS	570				hypothetical protein
+Zymos_Lf_00132	CDS	1419	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+Zymos_Lf_00133	CDS	414	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+Zymos_Lf_00134	CDS	756		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+Zymos_Lf_00135	CDS	579	sigH		COG1595	RNA polymerase sigma-H factor
+Zymos_Lf_00136	CDS	147	rpmG3		COG0267	50S ribosomal protein L33 3
+Zymos_Lf_00137	CDS	177				hypothetical protein
+Zymos_Lf_00138	CDS	546	nusG		COG0250	Transcription termination/antitermination protein NusG
+Zymos_Lf_00139	CDS	321	rplK		COG0080	50S ribosomal protein L11
+Zymos_Lf_00140	CDS	693	rplA			50S ribosomal protein L1
+Zymos_Lf_00141	CDS	987			COG2826	IS30 family transposase ISSlu1
+Zymos_Lf_00142	CDS	1329	steT		COG0531	Serine/threonine exchanger SteT
+Zymos_Lf_00143	CDS	504	rplJ			50S ribosomal protein L10
+Zymos_Lf_00144	CDS	366	rplL		COG0222	50S ribosomal protein L7/L12
+Zymos_Lf_00145	CDS	1437	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+Zymos_Lf_00146	CDS	1017	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+Zymos_Lf_00147	CDS	1731	cydD		COG4988	ATP-binding/permease protein CydD
+Zymos_Lf_00148	CDS	1752			COG1132	putative ABC transporter ATP-binding/permease protein
+Zymos_Lf_00149	CDS	2604	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+Zymos_Lf_00150	CDS	1380	brnQ_1		COG1114	Branched-chain amino acid transport system 2 carrier protein
+Zymos_Lf_00151	CDS	1002	nrdF_1	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 2 subunit beta
+Zymos_Lf_00152	CDS	2172	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 2 subunit alpha
+Zymos_Lf_00153	CDS	222	nrdH		COG0695	Glutaredoxin-like protein NrdH
+Zymos_Lf_00154	CDS	525	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+Zymos_Lf_00155	CDS	159				hypothetical protein
+Zymos_Lf_00156	CDS	1692	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+Zymos_Lf_00157	CDS	309			COG0718	Nucleoid-associated protein
+Zymos_Lf_00158	CDS	600	recR		COG0353	Recombination protein RecR
+Zymos_Lf_00159	CDS	249				hypothetical protein
+Zymos_Lf_00160	CDS	645	tmk	2.7.4.9	COG0125	Thymidylate kinase
+Zymos_Lf_00161	CDS	321	darA		COG3870	Cyclic di-AMP receptor A
+Zymos_Lf_00162	CDS	1041				hypothetical protein
+Zymos_Lf_00163	CDS	336	yabA		COG4467	Initiation-control protein YabA
+Zymos_Lf_00164	CDS	861	rsmI	2.1.1.198		Ribosomal RNA small subunit methyltransferase I
+Zymos_Lf_00165	CDS	756				hypothetical protein
+Zymos_Lf_00166	CDS	1503	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+Zymos_Lf_00167	CDS	2229	ppk	2.7.4.1	COG0855	Polyphosphate kinase
+Zymos_Lf_00168	CDS	954	ppx_2	3.6.1.11	COG0248	Exopolyphosphatase
+Zymos_Lf_00169	CDS	996	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+Zymos_Lf_00170	CDS	852				hypothetical protein
+Zymos_Lf_00171	CDS	1002	argF	2.1.3.3		Ornithine carbamoyltransferase
+Zymos_Lf_00172	CDS	930	arcC1_2	2.7.2.2		Carbamate kinase 1
+Zymos_Lf_00173	CDS	1224	arcA	3.5.3.6		Arginine deiminase
+Zymos_Lf_00174	CDS	1419	arcD1		COG0531	Arginine/ornithine antiporter ArcD1
+Zymos_Lf_00175	CDS	1122				hypothetical protein
+Zymos_Lf_00176	CDS	1119	vioD_1	4.2.1.145		Capreomycidine synthase
+Zymos_Lf_00177	CDS	732	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Zymos_Lf_00178	CDS	600	mshD	2.3.1.189		Mycothiol acetyltransferase
+Zymos_Lf_00179	CDS	1035	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+Zymos_Lf_00180	CDS	483				hypothetical protein
+Zymos_Lf_00181	CDS	438	fabZ_1	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Zymos_Lf_00182	CDS	441				hypothetical protein
+Zymos_Lf_00183	CDS	960	fabH	2.3.1.180		3-oxoacyl-[acyl-carrier-protein] synthase 3
+Zymos_Lf_00184	CDS	249	acpP_1		COG0236	Acyl carrier protein
+Zymos_Lf_00185	CDS	948	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+Zymos_Lf_00186	CDS	732	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Zymos_Lf_00187	CDS	1239	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+Zymos_Lf_00188	CDS	447	accB_1		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Zymos_Lf_00189	CDS	435	fabZ_2	4.2.1.59		3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Zymos_Lf_00190	CDS	1398	accC_1	6.3.4.14	COG0439	Biotin carboxylase
+Zymos_Lf_00191	CDS	849	accD	2.1.3.15	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+Zymos_Lf_00192	CDS	774	accA	2.1.3.15	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Zymos_Lf_00193	CDS	765	fabI	1.3.1.39		Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+Zymos_Lf_00194	CDS	546	bioY		COG1268	Biotin transporter BioY
+Zymos_Lf_00195	CDS	963	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+Zymos_Lf_00196	CDS	1944	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+Zymos_Lf_00197	CDS	651	rex		COG2344	Redox-sensing transcriptional repressor Rex
+Zymos_Lf_00198	CDS	282	groS		COG0234	10 kDa chaperonin
+Zymos_Lf_00199	CDS	1632	groL			60 kDa chaperonin
+Zymos_Lf_00200	CDS	1839	kimA		COG0531	Potassium transporter KimA
+Zymos_Lf_00201	CDS	255				hypothetical protein
+Zymos_Lf_00202	CDS	639	yigZ		COG1739	IMPACT family member YigZ
+Zymos_Lf_00203	CDS	1317	comFA	3.6.4.12	COG4098	ComF operon protein 1
+Zymos_Lf_00204	CDS	675				hypothetical protein
+Zymos_Lf_00205	CDS	546	hpf			Ribosome hibernation promotion factor
+Zymos_Lf_00206	CDS	2370	secA		COG0653	Protein translocase subunit SecA
+Zymos_Lf_00207	CDS	1068	prfB			Peptide chain release factor 2
+Zymos_Lf_00208	CDS	330				hypothetical protein
+Zymos_Lf_00209	CDS	354				hypothetical protein
+Zymos_Lf_00210	CDS	963	hprK	2.7.11.-	COG1493	HPr kinase/phosphorylase
+Zymos_Lf_00211	CDS	846	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Zymos_Lf_00212	CDS	1014	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+Zymos_Lf_00213	CDS	912	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+Zymos_Lf_00214	CDS	780	yafV	3.5.1.3		Omega-amidase YafV
+Zymos_Lf_00215	CDS	1179	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+Zymos_Lf_00216	CDS	975	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+Zymos_Lf_00217	CDS	417				hypothetical protein
+Zymos_Lf_00218	CDS	942	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+Zymos_Lf_00219	CDS	813	cysE	2.3.1.30		Serine O-acetyltransferase
+Zymos_Lf_00220	CDS	927	cysK	2.5.1.47		Cysteine synthase
+Zymos_Lf_00221	CDS	1029	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+Zymos_Lf_00222	CDS	942		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+Zymos_Lf_00223	CDS	777	yidA_2	3.1.3.23	COG0561	Sugar phosphatase YidA
+Zymos_Lf_00224	CDS	1725	pgcA	5.4.2.2		Phosphoglucomutase
+Zymos_Lf_00225	CDS	636	yfbR	3.1.3.89	COG1896	5'-deoxynucleotidase YfbR
+Zymos_Lf_00226	CDS	231				hypothetical protein
+Zymos_Lf_00227	CDS	2016	uvrB		COG0556	UvrABC system protein B
+Zymos_Lf_00228	CDS	2862	uvrA			UvrABC system protein A
+Zymos_Lf_00229	CDS	1086				hypothetical protein
+Zymos_Lf_00230	CDS	870	yvcJ		COG1660	Nucleotide-binding protein YvcJ
+Zymos_Lf_00231	CDS	978			COG0391	Putative gluconeogenesis factor
+Zymos_Lf_00232	CDS	939	whiA		COG1481	putative cell division protein WhiA
+Zymos_Lf_00233	CDS	312	tenA	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+Zymos_Lf_00234	CDS	333				hypothetical protein
+Zymos_Lf_00235	CDS	591	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+Zymos_Lf_00236	CDS	135				hypothetical protein
+Zymos_Lf_00237	tRNA	72				tRNA-Arg(ccg)
+Zymos_Lf_00238	tRNA	85				tRNA-Leu(cag)
+Zymos_Lf_00239	CDS	132				hypothetical protein
+Zymos_Lf_00240	CDS	1014	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+Zymos_Lf_00241	CDS	1206	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+Zymos_Lf_00242	CDS	768	tpiA_1	5.3.1.1		Triosephosphate isomerase
+Zymos_Lf_00243	CDS	1323	eno2	4.2.1.11	COG0148	Enolase 2
+Zymos_Lf_00244	CDS	1395	yifK_1		COG1113	putative transport protein YifK
+Zymos_Lf_00245	CDS	1551	clcA_1		COG0038	H(+)/Cl(-) exchange transporter ClcA
+Zymos_Lf_00246	CDS	240	secG		COG1314	putative protein-export membrane protein SecG
+Zymos_Lf_00247	CDS	2394	rnr	3.1.13.1	COG0557	Ribonuclease R
+Zymos_Lf_00248	CDS	474	smpB		COG0691	SsrA-binding protein
+Zymos_Lf_00249	CDS	582				hypothetical protein
+Zymos_Lf_00250	CDS	690	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+Zymos_Lf_00251	CDS	975	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+Zymos_Lf_00252	CDS	453	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+Zymos_Lf_00253	CDS	516				hypothetical protein
+Zymos_Lf_00254	CDS	540	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+Zymos_Lf_00255	CDS	897	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+Zymos_Lf_00256	CDS	846	dacA_1	2.7.7.85	COG1624	Diadenylate cyclase
+Zymos_Lf_00257	CDS	879				hypothetical protein
+Zymos_Lf_00258	CDS	1359	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+Zymos_Lf_00259	CDS	1821	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Zymos_Lf_00260	CDS	1287				ISL3 family transposase ISL3
+Zymos_Lf_00261	CDS	312				hypothetical protein
+Zymos_Lf_00262	CDS	1851	oatA	2.3.1.-		O-acetyltransferase OatA
+Zymos_Lf_00263	CDS	819		3.1.3.-		Putative phosphatase
+Zymos_Lf_00264	CDS	615				hypothetical protein
+Zymos_Lf_00265	CDS	1029				hypothetical protein
+Zymos_Lf_00266	CDS	906	cmpR			HTH-type transcriptional activator CmpR
+Zymos_Lf_00267	CDS	963	yvyI	5.3.1.8	COG1482	Putative mannose-6-phosphate isomerase YvyI
+Zymos_Lf_00268	CDS	840			COG1307	DegV domain-containing protein
+Zymos_Lf_00269	CDS	513				hypothetical protein
+Zymos_Lf_00270	CDS	942	yfeX	1.11.1.-	COG2837	Dye-decolorizing peroxidase YfeX
+Zymos_Lf_00271	CDS	228	manX_1	2.7.1.191		PTS system mannose-specific EIIAB component
+Zymos_Lf_00272	CDS	846				IS3 family transposase ISEnfa5
+Zymos_Lf_00273	CDS	789	manX_2	2.7.1.191		PTS system mannose-specific EIIAB component
+Zymos_Lf_00274	CDS	804	sorA		COG3715	PTS system sorbose-specific EIIC component
+Zymos_Lf_00275	CDS	921	manZ		COG3716	PTS system mannose-specific EIID component
+Zymos_Lf_00276	CDS	324				hypothetical protein
+Zymos_Lf_00277	CDS	1287				ISL3 family transposase ISL3
+Zymos_Lf_00278	tmRNA	370	ssrA			transfer-messenger RNA, SsrA
+Zymos_Lf_00279	CDS	924			COG2826	IS30 family transposase IS1070
+Zymos_Lf_00280	CDS	723	srrA		COG0745	Transcriptional regulatory protein SrrA
+Zymos_Lf_00281	CDS	1503	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+Zymos_Lf_00282	CDS	861	glcU		COG4975	Glucose uptake protein GlcU
+Zymos_Lf_00283	CDS	180				hypothetical protein
+Zymos_Lf_00284	CDS	888				IS3 family transposase ISLsa2
+Zymos_Lf_00285	CDS	879				IS3 family transposase ISBce13
+Zymos_Lf_00286	CDS	288				hypothetical protein
+Zymos_Lf_00287	CDS	564	ahpC	1.11.1.15		Alkyl hydroperoxide reductase C
+Zymos_Lf_00288	CDS	1665		1.18.1.2		Ferredoxin--NADP reductase
+Zymos_Lf_00289	CDS	1353	pgi_1	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Zymos_Lf_00290	CDS	198				hypothetical protein
+Zymos_Lf_00291	CDS	483				hypothetical protein
+Zymos_Lf_00292	CDS	702				hypothetical protein
+Zymos_Lf_00293	CDS	849	dkgA_1	1.1.1.274	COG0656	2,5-diketo-D-gluconic acid reductase A
+Zymos_Lf_00294	CDS	777	tpiA_2	5.3.1.1		Triosephosphate isomerase
+Zymos_Lf_00295	CDS	714	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+Zymos_Lf_00296	tRNA	74				tRNA-Glu(ctc)
+Zymos_Lf_00297	CDS	330				hypothetical protein
+Zymos_Lf_00298	tRNA	76				tRNA-Gln(ctg)
+Zymos_Lf_00299	CDS	645				hypothetical protein
+Zymos_Lf_00300	CDS	462				hypothetical protein
+Zymos_Lf_00301	CDS	1752			COG1132	putative ABC transporter ATP-binding protein
+Zymos_Lf_00302	CDS	1833		7.6.2.-	COG1132	Fatty acid ABC transporter ATP-binding/permease protein
+Zymos_Lf_00303	CDS	1020	yfeW	3.4.16.4	COG1680	Putative D-alanyl-D-alanine carboxypeptidase
+Zymos_Lf_00304	CDS	1488	cls	2.7.8.-		Cardiolipin synthase
+Zymos_Lf_00305	CDS	306				hypothetical protein
+Zymos_Lf_00306	CDS	732	gatD	6.3.5.13	COG3442	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+Zymos_Lf_00307	CDS	1338	murT	6.3.5.13	COG0769	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+Zymos_Lf_00308	CDS	582	tdk	2.7.1.21	COG1435	Thymidine kinase
+Zymos_Lf_00309	CDS	1089	prfA		COG0216	Peptide chain release factor 1
+Zymos_Lf_00310	CDS	852	prmC	2.1.1.297		Release factor glutamine methyltransferase
+Zymos_Lf_00311	CDS	1032	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+Zymos_Lf_00312	CDS	1236	glyA	2.1.2.1		Serine hydroxymethyltransferase
+Zymos_Lf_00313	CDS	636	upp	2.4.2.9		Uracil phosphoribosyltransferase
+Zymos_Lf_00314	CDS	1119				hypothetical protein
+Zymos_Lf_00315	CDS	774				hypothetical protein
+Zymos_Lf_00316	CDS	1269	pyrP			Uracil permease
+Zymos_Lf_00317	CDS	711	atpB			ATP synthase subunit a
+Zymos_Lf_00318	CDS	213	atpE			ATP synthase subunit c
+Zymos_Lf_00319	CDS	507	atpF		COG0711	ATP synthase subunit b
+Zymos_Lf_00320	CDS	546	atpH		COG0712	ATP synthase subunit delta
+Zymos_Lf_00321	CDS	1539	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+Zymos_Lf_00322	CDS	936	atpG		COG0224	ATP synthase gamma chain
+Zymos_Lf_00323	CDS	1422	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+Zymos_Lf_00324	CDS	423	atpC		COG0355	ATP synthase epsilon chain
+Zymos_Lf_00325	CDS	222				hypothetical protein
+Zymos_Lf_00326	CDS	1224	murA	2.5.1.7		UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Zymos_Lf_00327	CDS	1017	mbl		COG1077	Cell shape-determining protein Mbl
+Zymos_Lf_00328	CDS	225				hypothetical protein
+Zymos_Lf_00329	CDS	1203	rodA	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase RodA
+Zymos_Lf_00330	CDS	288	gcvH			Glycine cleavage system H protein
+Zymos_Lf_00331	CDS	978				hypothetical protein
+Zymos_Lf_00332	CDS	1134	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+Zymos_Lf_00333	CDS	846				hypothetical protein
+Zymos_Lf_00334	CDS	480				Putative universal stress protein
+Zymos_Lf_00335	CDS	285				hypothetical protein
+Zymos_Lf_00336	CDS	1293			COG2256	putative AAA domain-containing protein
+Zymos_Lf_00337	CDS	474				hypothetical protein
+Zymos_Lf_00338	CDS	411				hypothetical protein
+Zymos_Lf_00339	CDS	747				hypothetical protein
+Zymos_Lf_00340	CDS	846				hypothetical protein
+Zymos_Lf_00341	CDS	285				hypothetical protein
+Zymos_Lf_00342	CDS	1188				IS256 family transposase IS1310
+Zymos_Lf_00343	CDS	606	rpsD		COG0522	30S ribosomal protein S4
+Zymos_Lf_00344	CDS	1710	ezrA			Septation ring formation regulator EzrA
+Zymos_Lf_00345	CDS	1149	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+Zymos_Lf_00346	CDS	1221	thiI	2.8.1.4	COG0301	putative tRNA sulfurtransferase
+Zymos_Lf_00347	CDS	1296	dsdX			D-serine transporter DsdX
+Zymos_Lf_00348	CDS	1143	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+Zymos_Lf_00349	CDS	261	tpx_1	1.11.1.15	COG2077	Thiol peroxidase
+Zymos_Lf_00350	CDS	195	tpx_2	1.11.1.15		Thiol peroxidase
+Zymos_Lf_00351	CDS	2655	valS	6.1.1.9		Valine--tRNA ligase
+Zymos_Lf_00352	CDS	1323	fpgS	6.3.2.17		Folylpolyglutamate synthase
+Zymos_Lf_00353	CDS	627				hypothetical protein
+Zymos_Lf_00354	CDS	1011	mreB		COG1077	Cell shape-determining protein MreB
+Zymos_Lf_00355	CDS	852	mreC		COG1792	Cell shape-determining protein MreC
+Zymos_Lf_00356	CDS	534				hypothetical protein
+Zymos_Lf_00357	CDS	648	yecS_1		COG0765	L-cystine transport system permease protein YecS
+Zymos_Lf_00358	CDS	645	glnQ_1		COG1126	Glutamine transport ATP-binding protein GlnQ
+Zymos_Lf_00359	CDS	858	fliY		COG0834	L-cystine-binding protein FliY
+Zymos_Lf_00360	CDS	1275				hypothetical protein
+Zymos_Lf_00361	CDS	1302				hypothetical protein
+Zymos_Lf_00362	CDS	1005				hypothetical protein
+Zymos_Lf_00363	CDS	585	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Zymos_Lf_00364	CDS	1245	cinA		COG1058	Putative competence-damage inducible protein
+Zymos_Lf_00365	CDS	1062	recA		COG0468	Protein RecA
+Zymos_Lf_00366	CDS	1560	rny	3.1.-.-	COG1418	Ribonuclease Y
+Zymos_Lf_00367	CDS	2643	mutS		COG0249	DNA mismatch repair protein MutS
+Zymos_Lf_00368	CDS	1944	mutL		COG0323	DNA mismatch repair protein MutL
+Zymos_Lf_00369	CDS	603	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+Zymos_Lf_00370	CDS	1020	ruvB_2	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+Zymos_Lf_00371	CDS	930				hypothetical protein
+Zymos_Lf_00372	CDS	423				hypothetical protein
+Zymos_Lf_00373	CDS	960	nrnA	3.1.-.-	COG0618	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+Zymos_Lf_00374	CDS	1383	cshB	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshB
+Zymos_Lf_00375	CDS	2649	alaS	6.1.1.7		Alanine--tRNA ligase
+Zymos_Lf_00376	CDS	264				hypothetical protein
+Zymos_Lf_00377	CDS	438	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+Zymos_Lf_00378	CDS	306				hypothetical protein
+Zymos_Lf_00379	CDS	906	rnhC	3.1.26.4	COG1039	Ribonuclease HIII
+Zymos_Lf_00380	CDS	528				hypothetical protein
+Zymos_Lf_00381	CDS	2376	mutS2	3.1.-.-		Endonuclease MutS2
+Zymos_Lf_00382	CDS	315	trxA_1		COG0526	Thioredoxin
+Zymos_Lf_00383	CDS	1263	clcB			Voltage-gated ClC-type chloride channel ClcB
+Zymos_Lf_00384	CDS	543				hypothetical protein
+Zymos_Lf_00385	CDS	807	murI	5.1.1.3		Glutamate racemase
+Zymos_Lf_00386	CDS	594	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Zymos_Lf_00387	CDS	513				hypothetical protein
+Zymos_Lf_00388	CDS	843	ybiV	3.1.3.23	COG0561	Sugar phosphatase YbiV
+Zymos_Lf_00389	CDS	879	ykuT		COG0668	putative MscS family protein YkuT
+Zymos_Lf_00390	CDS	414				hypothetical protein
+Zymos_Lf_00391	CDS	432				hypothetical protein
+Zymos_Lf_00392	CDS	1104	pepQ	3.4.13.9	COG0006	Xaa-Pro dipeptidase
+Zymos_Lf_00393	CDS	1023	ccpA_1		COG1609	Catabolite control protein A
+Zymos_Lf_00394	CDS	858				hypothetical protein
+Zymos_Lf_00395	CDS	744	yebC		COG0217	putative transcriptional regulatory protein YebC
+Zymos_Lf_00396	CDS	1041				hypothetical protein
+Zymos_Lf_00397	CDS	585				hypothetical protein
+Zymos_Lf_00398	CDS	1449				hypothetical protein
+Zymos_Lf_00399	CDS	960	comGA		COG2804	ComG operon protein 1
+Zymos_Lf_00400	CDS	1032	epsF		COG1459	Type II secretion system protein F
+Zymos_Lf_00401	CDS	318				hypothetical protein
+Zymos_Lf_00402	CDS	486				hypothetical protein
+Zymos_Lf_00403	CDS	297				hypothetical protein
+Zymos_Lf_00404	CDS	438				hypothetical protein
+Zymos_Lf_00405	CDS	240				hypothetical protein
+Zymos_Lf_00406	CDS	870				hypothetical protein
+Zymos_Lf_00407	CDS	1197	ackA	2.7.2.1	COG0282	Acetate kinase
+Zymos_Lf_00408	CDS	624				hypothetical protein
+Zymos_Lf_00409	CDS	537				hypothetical protein
+Zymos_Lf_00410	CDS	783	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+Zymos_Lf_00411	CDS	681				hypothetical protein
+Zymos_Lf_00412	CDS	651	dedA_1		COG0586	Protein DedA
+Zymos_Lf_00413	rRNA	1582				16S ribosomal RNA
+Zymos_Lf_00414	rRNA	2917				23S ribosomal RNA
+Zymos_Lf_00415	rRNA	112				5S ribosomal RNA
+Zymos_Lf_00416	tRNA	75				tRNA-Val(tac)
+Zymos_Lf_00417	tRNA	75				tRNA-Lys(ttt)
+Zymos_Lf_00418	tRNA	73				tRNA-Thr(tgt)
+Zymos_Lf_00419	tRNA	72				tRNA-Gly(gcc)
+Zymos_Lf_00420	tRNA	89				tRNA-Leu(taa)
+Zymos_Lf_00421	tRNA	74				tRNA-Arg(acg)
+Zymos_Lf_00422	tRNA	74				tRNA-Pro(tgg)
+Zymos_Lf_00423	tRNA	76				tRNA-Met(cat)
+Zymos_Lf_00424	tRNA	77				tRNA-Met(cat)
+Zymos_Lf_00425	tRNA	88				tRNA-Ser(tga)
+Zymos_Lf_00426	tRNA	76				tRNA-Met(cat)
+Zymos_Lf_00427	tRNA	76				tRNA-Asp(gtc)
+Zymos_Lf_00428	tRNA	75				tRNA-Phe(gaa)
+Zymos_Lf_00429	tRNA	71				tRNA-Gly(tcc)
+Zymos_Lf_00430	tRNA	76				tRNA-Ile(gat)
+Zymos_Lf_00431	tRNA	90				tRNA-Ser(gct)
+Zymos_Lf_00432	tRNA	73				tRNA-Glu(ttc)
+Zymos_Lf_00433	tRNA	76				tRNA-Met(cat)
+Zymos_Lf_00434	tRNA	77				tRNA-Asp(gtc)
+Zymos_Lf_00435	CDS	495				hypothetical protein
+Zymos_Lf_00436	CDS	987			COG2826	IS30 family transposase ISSlu1
+Zymos_Lf_00437	CDS	1287				ISL3 family transposase ISL3
+Zymos_Lf_00438	CDS	405	spxA_1		COG1393	Regulatory protein Spx
+Zymos_Lf_00439	CDS	714	mecA		COG4862	Adapter protein MecA 1
+Zymos_Lf_00440	CDS	1023				hypothetical protein
+Zymos_Lf_00441	CDS	627				hypothetical protein
+Zymos_Lf_00442	CDS	681	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+Zymos_Lf_00443	CDS	810	nadK	2.7.1.23	COG0061	NAD kinase
+Zymos_Lf_00444	CDS	891		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+Zymos_Lf_00445	CDS	1029	pgl_1	3.1.1.31	COG2706	6-phosphogluconolactonase
+Zymos_Lf_00446	CDS	855	rlmA	2.1.1.187	COG0500	23S rRNA (guanine(745)-N(1))-methyltransferase
+Zymos_Lf_00447	CDS	507	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+Zymos_Lf_00448	CDS	2310	spoIIIE		COG1674	DNA translocase SpoIIIE
+Zymos_Lf_00449	CDS	117				hypothetical protein
+Zymos_Lf_00450	CDS	342				hypothetical protein
+Zymos_Lf_00451	CDS	426	mraZ			Transcriptional regulator MraZ
+Zymos_Lf_00452	CDS	945	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+Zymos_Lf_00453	CDS	369	ftsL			Cell division protein FtsL
+Zymos_Lf_00454	CDS	2157	pbpB		COG0768	Penicillin-binding protein 2B
+Zymos_Lf_00455	CDS	960	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Zymos_Lf_00456	CDS	1377	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Zymos_Lf_00457	CDS	1107	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Zymos_Lf_00458	CDS	846	divIB		COG1589	Cell division protein DivIB
+Zymos_Lf_00459	CDS	1383	ftsA		COG0849	Cell division protein FtsA
+Zymos_Lf_00460	CDS	1290	ftsZ			Cell division protein FtsZ
+Zymos_Lf_00461	CDS	471	sepF			Cell division protein SepF
+Zymos_Lf_00462	CDS	279				hypothetical protein
+Zymos_Lf_00463	CDS	786				hypothetical protein
+Zymos_Lf_00464	CDS	687				hypothetical protein
+Zymos_Lf_00465	CDS	261				hypothetical protein
+Zymos_Lf_00466	CDS	2793	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+Zymos_Lf_00467	CDS	213	csp		COG1278	Cold shock-like protein
+Zymos_Lf_00468	CDS	549	act	3.-.-.-		Methanol dehydrogenase activator
+Zymos_Lf_00469	CDS	237				hypothetical protein
+Zymos_Lf_00470	CDS	708	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+Zymos_Lf_00471	CDS	345				hypothetical protein
+Zymos_Lf_00472	CDS	1134	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+Zymos_Lf_00473	CDS	1596	nfdA	3.5.1.91		N-substituted formamide deformylase
+Zymos_Lf_00474	CDS	933		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+Zymos_Lf_00475	CDS	657	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+Zymos_Lf_00476	CDS	690				hypothetical protein
+Zymos_Lf_00477	CDS	2547	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+Zymos_Lf_00478	CDS	969	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+Zymos_Lf_00479	CDS	1287				ISL3 family transposase ISL3
+Zymos_Lf_00480	CDS	429	spxA_2		COG1393	Regulatory protein Spx
+Zymos_Lf_00481	CDS	975	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+Zymos_Lf_00482	CDS	216				hypothetical protein
+Zymos_Lf_00483	CDS	447				hypothetical protein
+Zymos_Lf_00484	CDS	570	def_1	3.5.1.88	COG0242	Peptide deformylase
+Zymos_Lf_00485	CDS	288				hypothetical protein
+Zymos_Lf_00486	CDS	765	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+Zymos_Lf_00487	CDS	1848	typA		COG1217	GTP-binding protein TypA/BipA
+Zymos_Lf_00488	CDS	1200	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+Zymos_Lf_00489	CDS	297				hypothetical protein
+Zymos_Lf_00490	CDS	561	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+Zymos_Lf_00491	CDS	522	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+Zymos_Lf_00492	CDS	1050	ylbL		COG3480	putative protein YlbL
+Zymos_Lf_00493	CDS	669	comEA		COG1555	ComE operon protein 1
+Zymos_Lf_00494	CDS	480	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+Zymos_Lf_00495	CDS	2238	comEC		COG0658	ComE operon protein 3
+Zymos_Lf_00496	CDS	1029	yqeN		COG1466	putative protein YqeN
+Zymos_Lf_00497	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+Zymos_Lf_00498	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+Zymos_Lf_00499	CDS	267				hypothetical protein
+Zymos_Lf_00500	CDS	1164				IS200/IS605 family transposase ISLhe65
+Zymos_Lf_00501	CDS	1800	rnj2	3.1.-.-		Ribonuclease J 2
+Zymos_Lf_00502	CDS	897				hypothetical protein
+Zymos_Lf_00503	CDS	1191	tuf			Elongation factor Tu
+Zymos_Lf_00504	CDS	1308	tig	5.2.1.8	COG0544	Trigger factor
+Zymos_Lf_00505	CDS	1251	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+Zymos_Lf_00506	CDS	594	engB		COG0218	putative GTP-binding protein EngB
+Zymos_Lf_00507	CDS	300				hypothetical protein
+Zymos_Lf_00508	CDS	147				hypothetical protein
+Zymos_Lf_00509	CDS	747	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+Zymos_Lf_00510	CDS	1812	uvrC		COG0322	UvrABC system protein C
+Zymos_Lf_00511	CDS	1308	obg	3.6.5.-	COG0536	GTPase Obg
+Zymos_Lf_00512	CDS	933	rnz	3.1.26.11	COG1234	Ribonuclease Z
+Zymos_Lf_00513	CDS	840	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+Zymos_Lf_00514	CDS	2298				hypothetical protein
+Zymos_Lf_00515	CDS	528	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+Zymos_Lf_00516	CDS	378				hypothetical protein
+Zymos_Lf_00517	CDS	999	ldhA	1.1.1.28	COG1052	D-lactate dehydrogenase
+Zymos_Lf_00518	CDS	810	mhpD	4.2.1.80		2-keto-4-pentenoate hydratase
+Zymos_Lf_00519	CDS	423	adhR		COG0789	HTH-type transcriptional regulator AdhR
+Zymos_Lf_00520	CDS	537	ywrO	1.6.99.-	COG2249	General stress protein 14
+Zymos_Lf_00521	CDS	282				hypothetical protein
+Zymos_Lf_00522	CDS	330				hypothetical protein
+Zymos_Lf_00523	CDS	309				hypothetical protein
+Zymos_Lf_00524	CDS	312				hypothetical protein
+Zymos_Lf_00525	CDS	1092	gldA	1.1.1.6		Glycerol dehydrogenase
+Zymos_Lf_00526	CDS	861				hypothetical protein
+Zymos_Lf_00527	CDS	561		2.3.1.-	COG0110	Putative acetyltransferase
+Zymos_Lf_00528	CDS	366				hypothetical protein
+Zymos_Lf_00529	CDS	369				hypothetical protein
+Zymos_Lf_00530	CDS	1110	ydhP		COG2814	Inner membrane transport protein YdhP
+Zymos_Lf_00531	CDS	123				hypothetical protein
+Zymos_Lf_00532	CDS	1590	asnB_1	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+Zymos_Lf_00533	CDS	534				hypothetical protein
+Zymos_Lf_00534	CDS	411				hypothetical protein
+Zymos_Lf_00535	CDS	132				hypothetical protein
+Zymos_Lf_00536	CDS	96				hypothetical protein
+Zymos_Lf_00537	CDS	1365				hypothetical protein
+Zymos_Lf_00538	CDS	441				hypothetical protein
+Zymos_Lf_00539	CDS	990	degA_1		COG1609	HTH-type transcriptional regulator DegA
+Zymos_Lf_00540	CDS	447				hypothetical protein
+Zymos_Lf_00541	CDS	621				hypothetical protein
+Zymos_Lf_00542	tRNA	89				tRNA-Ser(cga)
+Zymos_Lf_00543	CDS	567			COG2826	IS30 family transposase IS1070
+Zymos_Lf_00544	CDS	402				hypothetical protein
+Zymos_Lf_00545	CDS	1347				hypothetical protein
+Zymos_Lf_00546	CDS	1767	bbmA	3.2.1.-	COG0366	Intracellular maltogenic amylase
+Zymos_Lf_00547	CDS	825				IS3 family transposase ISEnfa5
+Zymos_Lf_00548	CDS	96				hypothetical protein
+Zymos_Lf_00549	CDS	258				hypothetical protein
+Zymos_Lf_00550	CDS	681				hypothetical protein
+Zymos_Lf_00551	CDS	888	sdhA	4.3.1.17		L-serine dehydratase, alpha chain
+Zymos_Lf_00552	CDS	315	sufT_1			Fe-S protein maturation auxiliary factor SufT
+Zymos_Lf_00553	CDS	933			COG2826	IS30 family transposase IS1070
+Zymos_Lf_00554	CDS	1224				hypothetical protein
+Zymos_Lf_00555	CDS	735				hypothetical protein
+Zymos_Lf_00556	CDS	282				hypothetical protein
+Zymos_Lf_00557	CDS	645				hypothetical protein
+Zymos_Lf_00558	CDS	618	lexA_1	3.4.21.88		LexA repressor
+Zymos_Lf_00559	CDS	402	lutA		COG0247	Lactate utilization protein A
+Zymos_Lf_00560	CDS	1170	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+Zymos_Lf_00561	CDS	627	lexA_2	3.4.21.88	COG1974	LexA repressor
+Zymos_Lf_00562	CDS	252				hypothetical protein
+Zymos_Lf_00563	CDS	228				hypothetical protein
+Zymos_Lf_00564	CDS	633	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+Zymos_Lf_00565	CDS	753	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+Zymos_Lf_00566	CDS	291				hypothetical protein
+Zymos_Lf_00567	CDS	780	rpsB		COG0052	30S ribosomal protein S2
+Zymos_Lf_00568	CDS	879	tsf			Elongation factor Ts
+Zymos_Lf_00569	CDS	726	pyrH	2.7.4.22	COG0528	Uridylate kinase
+Zymos_Lf_00570	CDS	561	frr			Ribosome-recycling factor
+Zymos_Lf_00571	CDS	768	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+Zymos_Lf_00572	CDS	789				hypothetical protein
+Zymos_Lf_00573	CDS	1272	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+Zymos_Lf_00574	CDS	1722	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+Zymos_Lf_00575	CDS	4344	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+Zymos_Lf_00576	CDS	1152	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+Zymos_Lf_00577	CDS	747	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+Zymos_Lf_00578	CDS	246	argJ_1			Arginine biosynthesis bifunctional protein ArgJ
+Zymos_Lf_00579	CDS	948	argJ_2		COG1364	Arginine biosynthesis bifunctional protein ArgJ
+Zymos_Lf_00580	CDS	1026	argC	1.2.1.38		N-acetyl-gamma-glutamyl-phosphate reductase
+Zymos_Lf_00581	CDS	1071	carA_1	6.3.5.5	COG0505	Carbamoyl-phosphate synthase arginine-specific small chain
+Zymos_Lf_00582	CDS	3090	carB_1	6.3.5.5	COG0458	Carbamoyl-phosphate synthase arginine-specific large chain
+Zymos_Lf_00583	CDS	480	rimP		COG0779	Ribosome maturation factor RimP
+Zymos_Lf_00584	CDS	1227	nusA		COG0195	Transcription termination/antitermination protein NusA
+Zymos_Lf_00585	CDS	303				hypothetical protein
+Zymos_Lf_00586	CDS	324	rplGA		COG1358	putative ribosomal protein YlxQ
+Zymos_Lf_00587	CDS	2340	infB			Translation initiation factor IF-2
+Zymos_Lf_00588	CDS	363	rbfA			Ribosome-binding factor A
+Zymos_Lf_00589	CDS	897	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+Zymos_Lf_00590	CDS	966	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+Zymos_Lf_00591	CDS	1389	emrB			Multidrug export protein EmrB
+Zymos_Lf_00592	CDS	933			COG2826	IS30 family transposase IS1070
+Zymos_Lf_00593	CDS	711				hypothetical protein
+Zymos_Lf_00594	CDS	855				IS3 family transposase ISEnfa5
+Zymos_Lf_00595	CDS	714				hypothetical protein
+Zymos_Lf_00596	CDS	1338				hypothetical protein
+Zymos_Lf_00597	CDS	1695	malL	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+Zymos_Lf_00598	CDS	987	ccpA_2		COG1609	Catabolite control protein A
+Zymos_Lf_00599	CDS	1293	dinB_1	2.7.7.7		DNA polymerase IV
+Zymos_Lf_00600	CDS	318				hypothetical protein
+Zymos_Lf_00601	CDS	1173	dhaT	1.1.1.202	COG1454	1,3-propanediol dehydrogenase
+Zymos_Lf_00602	CDS	414				hypothetical protein
+Zymos_Lf_00603	CDS	567			COG2826	IS30 family transposase IS1070
+Zymos_Lf_00604	CDS	366				hypothetical protein
+Zymos_Lf_00605	CDS	1047	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+Zymos_Lf_00606	CDS	588	grpE		COG0576	Protein GrpE
+Zymos_Lf_00607	CDS	1857	dnaK		COG0443	Chaperone protein DnaK
+Zymos_Lf_00608	CDS	1161	dnaJ		COG0484	Chaperone protein DnaJ
+Zymos_Lf_00609	CDS	171				hypothetical protein
+Zymos_Lf_00610	CDS	324	hisH_1	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+Zymos_Lf_00611	CDS	168	hisF_1	4.3.2.10		Imidazole glycerol phosphate synthase subunit HisF
+Zymos_Lf_00612	CDS	558	hisF_2	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+Zymos_Lf_00613	CDS	840	hisK	3.1.3.15	COG1387	Histidinol-phosphatase
+Zymos_Lf_00614	CDS	924			COG2826	IS30 family transposase IS1070
+Zymos_Lf_00615	CDS	1161	hisZ		COG3705	ATP phosphoribosyltransferase regulatory subunit
+Zymos_Lf_00616	CDS	615	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+Zymos_Lf_00617	CDS	1284	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+Zymos_Lf_00618	CDS	261	hisB_1		COG0131	Histidine biosynthesis bifunctional protein HisB
+Zymos_Lf_00619	CDS	303	hisB_2	4.2.1.19		Imidazoleglycerol-phosphate dehydratase
+Zymos_Lf_00620	CDS	450	hisH_2	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+Zymos_Lf_00621	CDS	726	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+Zymos_Lf_00622	CDS	786	hisF_3	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+Zymos_Lf_00623	CDS	318	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+Zymos_Lf_00624	CDS	321	hisE	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+Zymos_Lf_00625	CDS	1086	hisC	2.6.1.9		Histidinol-phosphate aminotransferase
+Zymos_Lf_00626	CDS	1833	lepA	3.6.5.-	COG0481	Elongation factor 4
+Zymos_Lf_00627	CDS	504				hypothetical protein
+Zymos_Lf_00628	CDS	624	gpmA_2	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Zymos_Lf_00629	CDS	1020	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+Zymos_Lf_00630	CDS	1074	serC	2.6.1.52		Phosphoserine aminotransferase
+Zymos_Lf_00631	CDS	1176	pdxB_1	1.1.1.290		Erythronate-4-phosphate dehydrogenase
+Zymos_Lf_00632	CDS	1752				hypothetical protein
+Zymos_Lf_00633	CDS	456	ywnA_1		COG1959	Putative HTH-type transcriptional regulator YwnA
+Zymos_Lf_00634	CDS	471	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+Zymos_Lf_00635	CDS	1194	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+Zymos_Lf_00636	CDS	609	ribE	2.5.1.9	COG0307	Riboflavin synthase
+Zymos_Lf_00637	CDS	1059	ribD		COG0117	Riboflavin biosynthesis protein RibD
+Zymos_Lf_00638	CDS	486				hypothetical protein
+Zymos_Lf_00639	CDS	1035	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+Zymos_Lf_00640	CDS	564	hssR			Heme response regulator HssR
+Zymos_Lf_00641	CDS	579				hypothetical protein
+Zymos_Lf_00642	CDS	999			COG2826	IS30 family transposase ISSlu1
+Zymos_Lf_00643	CDS	1173	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+Zymos_Lf_00644	CDS	198				hypothetical protein
+Zymos_Lf_00645	CDS	453				hypothetical protein
+Zymos_Lf_00646	CDS	1251				IS200/IS605 family transposase ISMmu1
+Zymos_Lf_00647	CDS	603				hypothetical protein
+Zymos_Lf_00648	CDS	681	ydfK_1		COG1811	putative membrane protein YdfK
+Zymos_Lf_00649	CDS	540	msrA_1	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+Zymos_Lf_00650	CDS	849	metQ_1		COG1464	D-methionine-binding lipoprotein MetQ
+Zymos_Lf_00651	CDS	522	msrA_2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+Zymos_Lf_00652	CDS	330				hypothetical protein
+Zymos_Lf_00653	CDS	432	psiE			Protein PsiE
+Zymos_Lf_00654	CDS	813	pdxK_1	2.7.1.35	COG0351	Pyridoxine kinase
+Zymos_Lf_00655	CDS	642	thiE	2.5.1.3		Thiamine-phosphate synthase
+Zymos_Lf_00656	CDS	798	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+Zymos_Lf_00657	CDS	765	thiM	2.7.1.50	COG2145	Hydroxyethylthiazole kinase
+Zymos_Lf_00658	CDS	1959				hypothetical protein
+Zymos_Lf_00659	CDS	4137	cas9-2	3.1.-.-		CRISPR-associated endonuclease Cas9 2
+Zymos_Lf_00660	CDS	906	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+Zymos_Lf_00661	CDS	321	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+Zymos_Lf_00662	CDS	672				hypothetical protein
+	CRISPR	828				
+Zymos_Lf_00663	CDS	111				hypothetical protein
+Zymos_Lf_00664	CDS	432	aes	3.1.1.-		Acetyl esterase
+Zymos_Lf_00665	CDS	393				hypothetical protein
+Zymos_Lf_00666	CDS	231				hypothetical protein
+Zymos_Lf_00667	CDS	663				hypothetical protein
+Zymos_Lf_00668	CDS	954	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+Zymos_Lf_00669	CDS	180				hypothetical protein
+Zymos_Lf_00670	CDS	318				hypothetical protein
+Zymos_Lf_00671	CDS	963	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+Zymos_Lf_00672	CDS	750	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+Zymos_Lf_00673	CDS	342				hypothetical protein
+Zymos_Lf_00674	CDS	2235	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+Zymos_Lf_00675	CDS	438	dtd	3.1.1.96		D-aminoacyl-tRNA deacylase
+Zymos_Lf_00676	CDS	489				hypothetical protein
+Zymos_Lf_00677	CDS	1197	metB_1	2.5.1.48	COG0626	Cystathionine gamma-synthase
+Zymos_Lf_00678	CDS	1128	metI	2.5.1.-	COG0626	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+Zymos_Lf_00679	CDS	168				hypothetical protein
+Zymos_Lf_00680	CDS	1014				hypothetical protein
+Zymos_Lf_00681	CDS	744	yxeO	3.6.3.-	COG1126	putative amino-acid import ATP-binding protein YxeO
+Zymos_Lf_00682	CDS	672	tcyL		COG0765	L-cystine transport system permease protein TcyL
+Zymos_Lf_00683	CDS	705	yxeN			putative amino-acid permease protein YxeN
+Zymos_Lf_00684	CDS	837	tcyJ		COG0834	L-cystine-binding protein TcyJ
+Zymos_Lf_00685	CDS	135				hypothetical protein
+Zymos_Lf_00686	CDS	660	glnP		COG0765	Glutamine transport system permease protein GlnP
+Zymos_Lf_00687	CDS	672	tcyB_1		COG0765	L-cystine transport system permease protein TcyB
+Zymos_Lf_00688	CDS	741	glnQ_2			Glutamine transport ATP-binding protein GlnQ
+Zymos_Lf_00689	CDS	855	glnH		COG0834	ABC transporter glutamine-binding protein GlnH
+Zymos_Lf_00690	CDS	744		1.1.1.51	COG1028	3-beta-hydroxysteroid dehydrogenase
+Zymos_Lf_00691	CDS	1161	hom_1	1.1.1.3	COG0460	Homoserine dehydrogenase
+Zymos_Lf_00692	CDS	825	metAA	2.3.1.31	COG1897	Homoserine O-acetyltransferase
+Zymos_Lf_00693	CDS	1419	rocC		COG0833	Amino-acid permease RocC
+Zymos_Lf_00694	CDS	933	mmuM	2.1.1.10	COG2040	Homocysteine S-methyltransferase
+Zymos_Lf_00695	CDS	840		2.7.1.-	COG3001	putative ketoamine kinase
+Zymos_Lf_00696	CDS	981				hypothetical protein
+Zymos_Lf_00697	CDS	1029		6.3.1.20		Lipoate--protein ligase 2
+Zymos_Lf_00698	CDS	1296	hisS	6.1.1.21		Histidine--tRNA ligase
+Zymos_Lf_00699	CDS	1776	aspS	6.1.1.12		Aspartate--tRNA ligase
+Zymos_Lf_00700	CDS	684				hypothetical protein
+Zymos_Lf_00701	CDS	189	rpsU			30S ribosomal protein S21
+Zymos_Lf_00702	CDS	450	yqeY		COG1610	putative protein YqeY
+Zymos_Lf_00703	CDS	984			COG1702	PhoH-like protein
+Zymos_Lf_00704	CDS	474	ybeY	3.1.-.-		Endoribonuclease YbeY
+Zymos_Lf_00705	CDS	399	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+Zymos_Lf_00706	CDS	906	era		COG1159	GTPase Era
+Zymos_Lf_00707	CDS	819	recO		COG1381	DNA repair protein RecO
+Zymos_Lf_00708	CDS	975	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+Zymos_Lf_00709	CDS	2079	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+Zymos_Lf_00710	CDS	1896	dnaG	2.7.7.-		DNA primase
+Zymos_Lf_00711	CDS	1143	sigA		COG0568	RNA polymerase sigma factor SigA
+Zymos_Lf_00712	CDS	843				IS3 family transposase ISBce13
+Zymos_Lf_00713	CDS	252				IS3 family transposase IS153
+Zymos_Lf_00714	CDS	561				hypothetical protein
+Zymos_Lf_00715	CDS	543				Stress response regulator gls24 
+Zymos_Lf_00716	CDS	252				hypothetical protein
+Zymos_Lf_00717	CDS	141				hypothetical protein
+Zymos_Lf_00718	CDS	924			COG2826	IS30 family transposase IS1070
+Zymos_Lf_00719	CDS	999			COG2826	IS30 family transposase ISSlu1
+Zymos_Lf_00720	CDS	1287				ISL3 family transposase ISL3
+Zymos_Lf_00721	CDS	912	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+Zymos_Lf_00722	CDS	1008	dapF	5.1.1.7		Diaminopimelate epimerase
+Zymos_Lf_00723	CDS	1359	yclM	2.7.2.4	COG0527	Aspartokinase 3
+Zymos_Lf_00724	CDS	1320	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+Zymos_Lf_00725	CDS	714	dapH_1	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+Zymos_Lf_00726	CDS	1155	ykuR	3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+Zymos_Lf_00727	CDS	936	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+Zymos_Lf_00728	CDS	780	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+Zymos_Lf_00729	CDS	1185	dapX_1	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+Zymos_Lf_00730	CDS	1053	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+Zymos_Lf_00731	CDS	1341	ntpJ			Potassium/sodium uptake protein NtpJ
+Zymos_Lf_00732	CDS	675	ktrA		COG0569	Ktr system potassium uptake protein A
+Zymos_Lf_00733	CDS	702	trmK	2.1.1.217	COG2384	tRNA (adenine(22)-N(1))-methyltransferase
+Zymos_Lf_00734	CDS	822			COG0327	GTP cyclohydrolase 1 type 2 
+Zymos_Lf_00735	CDS	1242	pepT	3.4.11.4		Peptidase T
+Zymos_Lf_00736	CDS	204				hypothetical protein
+Zymos_Lf_00737	CDS	3300	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Zymos_Lf_00738	CDS	1422	pyk	2.7.1.40	COG0469	Pyruvate kinase
+Zymos_Lf_00739	CDS	888	cvfB			Conserved virulence factor B
+Zymos_Lf_00740	CDS	879	xerD_1			Tyrosine recombinase XerD
+Zymos_Lf_00741	CDS	384				hypothetical protein
+Zymos_Lf_00742	CDS	789	scpA		COG1354	Segregation and condensation protein A
+Zymos_Lf_00743	CDS	588	scpB			Segregation and condensation protein B
+Zymos_Lf_00744	CDS	726	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+Zymos_Lf_00745	CDS	579	ribU			Riboflavin transporter RibU
+Zymos_Lf_00746	CDS	1038				hypothetical protein
+Zymos_Lf_00747	CDS	1458	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+Zymos_Lf_00748	CDS	555				hypothetical protein
+Zymos_Lf_00749	CDS	681	cmk	2.7.4.25	COG0283	Cytidylate kinase
+Zymos_Lf_00750	CDS	1233	rps1		COG0539	30S ribosomal protein S1
+Zymos_Lf_00751	CDS	1314	der		COG1160	GTPase Der
+Zymos_Lf_00752	CDS	276	hup		COG0776	DNA-binding protein HU
+Zymos_Lf_00753	CDS	1263	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+Zymos_Lf_00754	CDS	858	xerC			Tyrosine recombinase XerC
+Zymos_Lf_00755	CDS	1203	cca	2.7.7.72		CCA-adding enzyme
+Zymos_Lf_00756	CDS	1887	ettA_1		COG0488	Energy-dependent translational throttle protein EttA
+Zymos_Lf_00757	CDS	960	thyA	2.1.1.45	COG0207	Thymidylate synthase
+Zymos_Lf_00758	CDS	504	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+Zymos_Lf_00759	CDS	630				hypothetical protein
+Zymos_Lf_00760	CDS	843			COG1307	DegV domain-containing protein
+Zymos_Lf_00761	CDS	1179	pdxB_2	1.1.1.290		Erythronate-4-phosphate dehydrogenase
+Zymos_Lf_00762	CDS	627	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+Zymos_Lf_00763	CDS	918				hypothetical protein
+Zymos_Lf_00764	CDS	594				hypothetical protein
+Zymos_Lf_00765	CDS	225				hypothetical protein
+Zymos_Lf_00766	CDS	873	rbgA		COG1161	Ribosome biogenesis GTPase A
+Zymos_Lf_00767	CDS	771	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+Zymos_Lf_00768	CDS	876				hypothetical protein
+Zymos_Lf_00769	CDS	2127	topA	5.6.2.1		DNA topoisomerase 1
+Zymos_Lf_00770	CDS	843	xerD_2			Tyrosine recombinase XerD
+Zymos_Lf_00771	CDS	879	lacX			Protein LacX, plasmid
+Zymos_Lf_00772	CDS	612	plsY	2.3.1.275	COG0344	Glycerol-3-phosphate acyltransferase
+Zymos_Lf_00773	CDS	1998	parE	5.6.2.2	COG0187	DNA topoisomerase 4 subunit B
+Zymos_Lf_00774	CDS	2469	parC	5.6.2.2	COG0188	DNA topoisomerase 4 subunit A
+Zymos_Lf_00775	CDS	516	yagU		COG3477	Inner membrane protein YagU
+Zymos_Lf_00776	CDS	933	ppaC	3.6.1.1	COG1227	putative manganese-dependent inorganic pyrophosphatase
+Zymos_Lf_00777	CDS	393				hypothetical protein
+Zymos_Lf_00778	CDS	426	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+Zymos_Lf_00779	CDS	510	ywnH	2.3.1.183	COG1247	Putative phosphinothricin acetyltransferase YwnH
+Zymos_Lf_00780	CDS	459	msrC	1.8.4.14	COG1956	Free methionine-R-sulfoxide reductase
+Zymos_Lf_00781	CDS	1359	pucI		COG1953	putative allantoin permease
+Zymos_Lf_00782	CDS	1239	codA	3.5.4.1	COG0402	Cytosine deaminase
+Zymos_Lf_00783	CDS	1710				hypothetical protein
+Zymos_Lf_00784	CDS	351				hypothetical protein
+Zymos_Lf_00785	CDS	1347	rarA		COG2256	Replication-associated recombination protein A
+Zymos_Lf_00786	CDS	681	ydfK_2		COG1811	putative membrane protein YdfK
+Zymos_Lf_00787	CDS	1350	yhjX			putative MFS-type transporter YhjX
+Zymos_Lf_00788	CDS	204				hypothetical protein
+Zymos_Lf_00789	CDS	291				hypothetical protein
+Zymos_Lf_00790	CDS	864	clcA_2			H(+)/Cl(-) exchange transporter ClcA
+Zymos_Lf_00791	CDS	306	clcA_3			H(+)/Cl(-) exchange transporter ClcA
+Zymos_Lf_00792	CDS	1227	odh	1.5.1.28		Opine dehydrogenase
+Zymos_Lf_00793	CDS	765				hypothetical protein
+Zymos_Lf_00794	CDS	1479	arcD		COG0531	Arginine/ornithine antiporter
+Zymos_Lf_00795	CDS	1032	ilvE_2	2.6.1.42		putative branched-chain-amino-acid aminotransferase
+Zymos_Lf_00796	CDS	642	lacA_2	2.3.1.18	COG0110	Galactoside O-acetyltransferase
+Zymos_Lf_00797	CDS	567	maa_1	2.3.1.79	COG0110	Maltose O-acetyltransferase
+Zymos_Lf_00798	CDS	504				hypothetical protein
+Zymos_Lf_00799	CDS	558	pyrE_1	2.4.2.10		Orotate phosphoribosyltransferase
+Zymos_Lf_00800	CDS	1095	ygcS			Inner membrane metabolite transport protein YgcS
+Zymos_Lf_00801	CDS	249				hypothetical protein
+Zymos_Lf_00802	CDS	1068		1.5.1.49	COG2423	Delta(1)-pyrroline-2-carboxylate reductase
+Zymos_Lf_00803	CDS	1137	vioD_2	4.2.1.145		Capreomycidine synthase
+Zymos_Lf_00804	CDS	141				hypothetical protein
+Zymos_Lf_00805	CDS	210				hypothetical protein
+Zymos_Lf_00806	CDS	897				hypothetical protein
+Zymos_Lf_00807	CDS	855				hypothetical protein
+Zymos_Lf_00808	CDS	525				hypothetical protein
+Zymos_Lf_00809	CDS	90				hypothetical protein
+Zymos_Lf_00810	CDS	183				hypothetical protein
+Zymos_Lf_00811	CDS	927				hypothetical protein
+Zymos_Lf_00812	CDS	873	yvgN_1	1.1.1.-	COG0656	Glyoxal reductase
+Zymos_Lf_00813	CDS	486	hmpT		COG4720	Thiamine precursor transporter HmpT
+Zymos_Lf_00814	CDS	831	pdxK_2	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+Zymos_Lf_00815	CDS	588	icd_1	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+Zymos_Lf_00816	CDS	519	icd_2	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+Zymos_Lf_00817	CDS	612				hypothetical protein
+Zymos_Lf_00818	CDS	1080	xerS		COG0582	Tyrosine recombinase XerS
+Zymos_Lf_00819	CDS	927	yxeI_1		COG3049	putative protein YxeI
+Zymos_Lf_00820	CDS	1179	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+Zymos_Lf_00821	CDS	1164				IS200/IS605 family transposase ISLhe65
+Zymos_Lf_00822	CDS	1053	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+Zymos_Lf_00823	CDS	960				hypothetical protein
+Zymos_Lf_00824	CDS	630	opuCB_1		COG1174	Carnitine transport permease protein OpuCB
+Zymos_Lf_00825	CDS	768	opuCA	7.6.2.9	COG1125	Carnitine transport ATP-binding protein OpuCA
+Zymos_Lf_00826	CDS	645	opuCB_2		COG1174	Carnitine transport permease protein OpuCB
+Zymos_Lf_00827	CDS	903	yehZ		COG1732	Glycine betaine-binding protein YehZ
+Zymos_Lf_00828	CDS	345	ywnA_2		COG1959	Putative HTH-type transcriptional regulator YwnA
+Zymos_Lf_00829	CDS	426				hypothetical protein
+Zymos_Lf_00830	CDS	537	paiA_1	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+Zymos_Lf_00831	CDS	594				hypothetical protein
+Zymos_Lf_00832	CDS	399				hypothetical protein
+Zymos_Lf_00833	CDS	1251				IS200/IS605 family transposase ISMmu1
+Zymos_Lf_00834	CDS	453				hypothetical protein
+Zymos_Lf_00835	CDS	357				hypothetical protein
+Zymos_Lf_00836	CDS	591	betI			HTH-type transcriptional regulator BetI
+Zymos_Lf_00837	CDS	585				hypothetical protein
+Zymos_Lf_00838	CDS	786	ydjP	3.-.-.-	COG0596	AB hydrolase superfamily protein YdjP
+Zymos_Lf_00839	CDS	1434	citG	2.4.2.52		2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+Zymos_Lf_00840	CDS	837	sorC		COG2390	Sorbitol operon regulator
+Zymos_Lf_00841	CDS	1122	xylB_1	1.1.1.90		Aryl-alcohol dehydrogenase
+Zymos_Lf_00842	CDS	246				hypothetical protein
+Zymos_Lf_00843	CDS	945		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+Zymos_Lf_00844	CDS	579				hypothetical protein
+Zymos_Lf_00845	CDS	384		3.1.2.-	COG2050	Putative esterase
+Zymos_Lf_00846	CDS	822	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+Zymos_Lf_00847	CDS	1425	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+Zymos_Lf_00848	CDS	1194	sauU			putative sulfoacetate transporter SauU
+Zymos_Lf_00849	CDS	1071	adh_2	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+Zymos_Lf_00850	CDS	1143	metB_2	2.5.1.48	COG0626	Cystathionine gamma-synthase
+Zymos_Lf_00851	CDS	912	cysM	2.5.1.47	COG0031	Cysteine synthase
+Zymos_Lf_00852	CDS	267				hypothetical protein
+Zymos_Lf_00853	CDS	1344				hypothetical protein
+Zymos_Lf_00854	CDS	933				hypothetical protein
+Zymos_Lf_00855	CDS	393				FMN-binding protein
+Zymos_Lf_00856	CDS	369				hypothetical protein
+Zymos_Lf_00857	CDS	882				hypothetical protein
+Zymos_Lf_00858	CDS	183				hypothetical protein
+Zymos_Lf_00859	CDS	363				hypothetical protein
+Zymos_Lf_00860	CDS	918	yicL_1		COG0697	putative inner membrane transporter YicL
+Zymos_Lf_00861	CDS	585				hypothetical protein
+Zymos_Lf_00862	CDS	1854	urdA_1	1.3.99.33		Urocanate reductase
+Zymos_Lf_00863	CDS	927	argP			HTH-type transcriptional regulator ArgP
+Zymos_Lf_00864	CDS	858				hypothetical protein
+Zymos_Lf_00865	CDS	1173	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+Zymos_Lf_00866	CDS	1101				hypothetical protein
+Zymos_Lf_00867	CDS	741				hypothetical protein
+Zymos_Lf_00868	CDS	498	ypjQ		COG1267	putative protein YpjQ
+Zymos_Lf_00869	CDS	1053	pbpX		COG1680	Putative penicillin-binding protein PbpX
+Zymos_Lf_00870	CDS	1200				hypothetical protein
+Zymos_Lf_00871	CDS	177				hypothetical protein
+Zymos_Lf_00872	CDS	858				hypothetical protein
+Zymos_Lf_00873	CDS	2349				hypothetical protein
+Zymos_Lf_00874	CDS	888	mmgB	1.1.1.157	COG1250	putative 3-hydroxybutyryl-CoA dehydrogenase
+Zymos_Lf_00875	CDS	888	endA	3.1.30.-		DNA-entry nuclease
+Zymos_Lf_00876	CDS	1371	pepDA_1	3.4.-.-	COG4690	Dipeptidase A
+Zymos_Lf_00877	CDS	696				hypothetical protein
+Zymos_Lf_00878	CDS	1386	yifK_2		COG1113	putative transport protein YifK
+Zymos_Lf_00879	CDS	963				hypothetical protein
+Zymos_Lf_00880	CDS	1779	dxs_1	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+Zymos_Lf_00881	CDS	1236				hypothetical protein
+Zymos_Lf_00882	CDS	681				hypothetical protein
+Zymos_Lf_00883	CDS	438	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+Zymos_Lf_00884	CDS	549				hypothetical protein
+Zymos_Lf_00885	CDS	552	padC	4.1.1.102	COG3479	Phenolic acid decarboxylase PadC
+Zymos_Lf_00886	CDS	273				hypothetical protein
+Zymos_Lf_00887	CDS	1113				hypothetical protein
+Zymos_Lf_00888	tRNA	86				tRNA-Leu(aag)
+Zymos_Lf_00889	CDS	1164				IS200/IS605 family transposase ISLhe65
+Zymos_Lf_00890	CDS	831	artP_1		COG0834	Arginine-binding extracellular protein ArtP
+Zymos_Lf_00891	CDS	1374	gshAB_1			Glutathione biosynthesis bifunctional protein GshAB
+Zymos_Lf_00892	CDS	1185	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+Zymos_Lf_00893	CDS	711	guaD_1	3.5.4.3	COG0402	Guanine deaminase
+Zymos_Lf_00894	CDS	597	guaD_2	3.5.4.3	COG0402	Guanine deaminase
+Zymos_Lf_00895	CDS	1152	dapE_1	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+Zymos_Lf_00896	CDS	150				hypothetical protein
+Zymos_Lf_00897	CDS	267				hypothetical protein
+Zymos_Lf_00898	CDS	417	arsC	1.20.4.4		Arsenate reductase
+Zymos_Lf_00899	CDS	453				hypothetical protein
+Zymos_Lf_00900	CDS	1251				IS200/IS605 family transposase ISMmu1
+Zymos_Lf_00901	CDS	345	glpQ1	3.1.4.46	COG0584	putative glycerophosphodiester phosphodiesterase 1
+Zymos_Lf_00902	CDS	339				hypothetical protein
+Zymos_Lf_00903	CDS	507				hypothetical protein
+Zymos_Lf_00904	CDS	768	fetB		COG0390	putative iron export permease protein FetB
+Zymos_Lf_00905	CDS	642	fetA	3.6.3.-	COG4619	putative iron export ATP-binding protein FetA
+Zymos_Lf_00906	CDS	1251				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_00907	CDS	456				hypothetical protein
+Zymos_Lf_00908	CDS	1683	alsS	2.2.1.6	COG0028	Acetolactate synthase
+Zymos_Lf_00909	CDS	1725				hypothetical protein
+Zymos_Lf_00910	CDS	732				hypothetical protein
+Zymos_Lf_00911	CDS	561				hypothetical protein
+Zymos_Lf_00912	CDS	204				hypothetical protein
+Zymos_Lf_00913	CDS	1296	arsB		COG1055	Arsenical pump membrane protein
+Zymos_Lf_00914	CDS	1734	arsA	7.3.2.7		Arsenical pump-driving ATPase
+Zymos_Lf_00915	CDS	324				hypothetical protein
+Zymos_Lf_00916	CDS	855				IS3 family transposase ISEnfa5
+Zymos_Lf_00917	CDS	714				hypothetical protein
+Zymos_Lf_00918	CDS	915			COG2826	IS30 family transposase ISCth3
+Zymos_Lf_00919	CDS	333	crcB_1		COG0239	Putative fluoride ion transporter CrcB
+Zymos_Lf_00920	CDS	366	crcB_2			Putative fluoride ion transporter CrcB
+Zymos_Lf_00921	CDS	393			COG0346	Virulence protein
+Zymos_Lf_00922	CDS	558				hypothetical protein
+Zymos_Lf_00923	CDS	1713	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+Zymos_Lf_00924	CDS	699	ascD	1.17.1.-		CDP-6-deoxy-L-threo-D-glycero-4-hexulose-3-dehydrase reductase
+Zymos_Lf_00925	CDS	918	bglK	2.7.1.85	COG1940	Beta-glucoside kinase
+Zymos_Lf_00926	CDS	276				hypothetical protein
+Zymos_Lf_00927	CDS	459	copY			Transcriptional repressor CopY
+Zymos_Lf_00928	CDS	93				hypothetical protein
+Zymos_Lf_00929	CDS	456				hypothetical protein
+Zymos_Lf_00930	CDS	942				hypothetical protein
+Zymos_Lf_00931	CDS	1521	xylB_2	2.7.1.17	COG1070	Xylulose kinase
+Zymos_Lf_00932	CDS	1347	gntT		COG2610	High-affinity gluconate transporter
+Zymos_Lf_00933	CDS	1005	kdgR_1		COG1609	HTH-type transcriptional regulator KdgR
+Zymos_Lf_00934	CDS	342				hypothetical protein
+Zymos_Lf_00935	CDS	1188	aspB	2.6.1.14	COG0436	Asparagine--oxo-acid transaminase
+Zymos_Lf_00936	CDS	534				hypothetical protein
+Zymos_Lf_00937	CDS	1506	gshAB_2			Glutathione biosynthesis bifunctional protein GshAB
+Zymos_Lf_00938	CDS	645				hypothetical protein
+Zymos_Lf_00939	CDS	258				hypothetical protein
+Zymos_Lf_00940	CDS	429				hypothetical protein
+Zymos_Lf_00941	CDS	966				hypothetical protein
+Zymos_Lf_00942	CDS	1251				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_00943	CDS	456				hypothetical protein
+Zymos_Lf_00944	CDS	690	narX		COG2180	Nitrate reductase-like protein NarX
+Zymos_Lf_00945	CDS	630				hypothetical protein
+Zymos_Lf_00946	CDS	1560	narH	1.7.5.1	COG1140	Respiratory nitrate reductase 1 beta chain
+Zymos_Lf_00947	CDS	3666	narG	1.7.5.1	COG5013	Respiratory nitrate reductase 1 alpha chain
+Zymos_Lf_00948	CDS	993				hypothetical protein
+Zymos_Lf_00949	CDS	498	moaB			Molybdenum cofactor biosynthesis protein B
+Zymos_Lf_00950	CDS	1215	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+Zymos_Lf_00951	CDS	987	moaC			Cyclic pyranopterin monophosphate synthase
+Zymos_Lf_00952	CDS	546	mobA	2.7.7.77	COG0746	putative molybdenum cofactor guanylyltransferase
+Zymos_Lf_00953	CDS	264				hypothetical protein
+Zymos_Lf_00954	CDS	435				hypothetical protein
+Zymos_Lf_00955	CDS	1053	nreB	2.7.13.3		Oxygen sensor histidine kinase NreB
+Zymos_Lf_00956	CDS	654	nreC		COG2197	Oxygen regulatory protein NreC
+Zymos_Lf_00957	CDS	264				hypothetical protein
+Zymos_Lf_00958	CDS	984				hypothetical protein
+Zymos_Lf_00959	CDS	918				hypothetical protein
+Zymos_Lf_00960	CDS	234				hypothetical protein
+Zymos_Lf_00961	CDS	717	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+Zymos_Lf_00962	CDS	888				hypothetical protein
+Zymos_Lf_00963	CDS	339				hypothetical protein
+Zymos_Lf_00964	CDS	1197	narT		COG2223	putative nitrate transporter NarT
+Zymos_Lf_00965	CDS	999	moaA1	4.1.99.22	COG2896	GTP 3',8-cyclase 1
+Zymos_Lf_00966	CDS	246				hypothetical protein
+Zymos_Lf_00967	CDS	402	moaE1	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit 1
+Zymos_Lf_00968	CDS	999			COG0609	putative ABC transporter permease protein
+Zymos_Lf_00969	CDS	771			COG1120	putative ABC transporter ATP-binding protein
+Zymos_Lf_00970	CDS	1224		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+Zymos_Lf_00971	CDS	318	sufT_2			Fe-S protein maturation auxiliary factor SufT
+Zymos_Lf_00972	CDS	234				hypothetical protein
+Zymos_Lf_00973	CDS	1332				hypothetical protein
+Zymos_Lf_00974	CDS	840				hypothetical protein
+Zymos_Lf_00975	CDS	999			COG2826	IS30 family transposase ISSlu1
+Zymos_Lf_00976	CDS	1065			COG0614	putative protein
+Zymos_Lf_00977	CDS	1407				hypothetical protein
+Zymos_Lf_00978	CDS	471	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+Zymos_Lf_00979	CDS	1239	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+Zymos_Lf_00980	CDS	1296				hypothetical protein
+Zymos_Lf_00981	CDS	798				putative ABC transporter ATP-binding protein
+Zymos_Lf_00982	CDS	210				hypothetical protein
+Zymos_Lf_00983	CDS	1992	feoB		COG0370	Fe(2+) transporter FeoB
+Zymos_Lf_00984	CDS	171				hypothetical protein
+Zymos_Lf_00985	CDS	900	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+Zymos_Lf_00986	CDS	987	hexs-b	2.5.1.83		Hexaprenyl-diphosphate synthase large subunit ((2E,6E)-farnesyl-diphosphate specific)
+Zymos_Lf_00987	CDS	984		1.1.1.28		D-lactate dehydrogenase
+Zymos_Lf_00988	CDS	1161	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+Zymos_Lf_00989	CDS	522	aroK	2.7.1.71	COG0703	Shikimate kinase
+Zymos_Lf_00990	CDS	1086				hypothetical protein
+Zymos_Lf_00991	CDS	1299	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+Zymos_Lf_00992	CDS	546				hypothetical protein
+Zymos_Lf_00993	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+Zymos_Lf_00994	CDS	270				hypothetical protein
+Zymos_Lf_00995	CDS	1197	ydiM			Inner membrane transport protein YdiM
+Zymos_Lf_00996	CDS	159				hypothetical protein
+Zymos_Lf_00997	CDS	1491	dtpT_2		COG3104	Di-/tripeptide transporter
+Zymos_Lf_00998	CDS	93				hypothetical protein
+Zymos_Lf_00999	tRNA	74				tRNA-Gln(ttg)
+Zymos_Lf_01000	CDS	816	ybjI_1	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+Zymos_Lf_01001	CDS	294				hypothetical protein
+Zymos_Lf_01002	CDS	513				hypothetical protein
+Zymos_Lf_01003	CDS	264				hypothetical protein
+Zymos_Lf_01004	CDS	588				hypothetical protein
+Zymos_Lf_01005	CDS	1458	hsrA_1			putative transport protein HsrA
+Zymos_Lf_01006	CDS	237				hypothetical protein
+Zymos_Lf_01007	CDS	2901				hypothetical protein
+Zymos_Lf_01008	CDS	321				hypothetical protein
+Zymos_Lf_01009	CDS	2010	kup			Low affinity potassium transport system protein kup
+Zymos_Lf_01010	CDS	447				hypothetical protein
+Zymos_Lf_01011	CDS	1512	glpK	2.7.1.30	COG0554	Glycerol kinase
+Zymos_Lf_01012	CDS	186		5.3.2.-		putative tautomerase
+Zymos_Lf_01013	CDS	1872				hypothetical protein
+Zymos_Lf_01014	CDS	1413	pepD	3.4.-.-	COG4690	Dipeptidase
+Zymos_Lf_01015	CDS	900				hypothetical protein
+Zymos_Lf_01016	CDS	1311	gmuC		COG1455	PTS system oligo-beta-mannoside-specific EIIC component
+Zymos_Lf_01017	CDS	270	rpsN2		COG0199	Alternate 30S ribosomal protein S14
+Zymos_Lf_01018	CDS	864				hypothetical protein
+Zymos_Lf_01019	CDS	513	hsrA_2			putative transport protein HsrA
+Zymos_Lf_01020	CDS	843				hypothetical protein
+Zymos_Lf_01021	CDS	1227	sbnD			Staphyloferrin B transporter
+Zymos_Lf_01022	CDS	1389				hypothetical protein
+Zymos_Lf_01023	CDS	741	gbpR			HTH-type transcriptional regulator GbpR
+Zymos_Lf_01024	CDS	1122				hypothetical protein
+Zymos_Lf_01025	CDS	1020	lplJ_1	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+Zymos_Lf_01026	CDS	1407	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+Zymos_Lf_01027	CDS	1290	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+Zymos_Lf_01028	CDS	978	pdhB	1.2.4.1		Pyruvate dehydrogenase E1 component subunit beta
+Zymos_Lf_01029	CDS	1092	pdhA	1.2.4.1		Pyruvate dehydrogenase E1 component subunit alpha
+Zymos_Lf_01030	CDS	321				hypothetical protein
+Zymos_Lf_01031	CDS	327				hypothetical protein
+Zymos_Lf_01032	CDS	654				hypothetical protein
+Zymos_Lf_01033	CDS	1509	thrC	4.2.3.1	COG0498	Threonine synthase
+Zymos_Lf_01034	CDS	1278	hom_2	1.1.1.3	COG0460	Homoserine dehydrogenase
+Zymos_Lf_01035	CDS	861	thrB	2.7.1.39	COG0083	Homoserine kinase
+Zymos_Lf_01036	CDS	525				hypothetical protein
+Zymos_Lf_01037	CDS	642	yhfK	4.-.-.-	COG0702	putative sugar epimerase YhfK
+Zymos_Lf_01038	CDS	657	yedJ		COG1418	putative protein YedJ
+Zymos_Lf_01039	CDS	744	yaaA		COG3022	Peroxide stress resistance protein YaaA
+Zymos_Lf_01040	CDS	612				hypothetical protein
+Zymos_Lf_01041	CDS	879	degV		COG1307	Protein DegV
+Zymos_Lf_01042	CDS	1692	rqcH		COG1293	Rqc2 RqcH
+Zymos_Lf_01043	CDS	1296	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+Zymos_Lf_01044	CDS	660				hypothetical protein
+Zymos_Lf_01045	CDS	546		2.3.1.-	COG0110	Putative acetyltransferase
+Zymos_Lf_01046	CDS	402	dkgA_2	1.1.1.346		2,5-diketo-D-gluconic acid reductase A
+Zymos_Lf_01047	CDS	366		1.-.-.-		putative oxidoreductase
+Zymos_Lf_01048	CDS	636				hypothetical protein
+Zymos_Lf_01049	CDS	2505	carB_2			Carbamoyl-phosphate synthase large chain
+Zymos_Lf_01050	CDS	1083	carA_2	6.3.5.5		Carbamoyl-phosphate synthase small chain
+Zymos_Lf_01051	CDS	915	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+Zymos_Lf_01052	CDS	438	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+Zymos_Lf_01053	CDS	435				hypothetical protein
+Zymos_Lf_01054	CDS	402	rnhA		COG0328	14.7 kDa ribonuclease H-like protein
+Zymos_Lf_01055	CDS	603				hypothetical protein
+Zymos_Lf_01056	CDS	864	yckB		COG0834	putative ABC transporter extracellular-binding protein YckB
+Zymos_Lf_01057	CDS	690	yecS_2		COG0765	L-cystine transport system permease protein YecS
+Zymos_Lf_01058	CDS	567	glyG			Glycosyltransferase GlyG
+Zymos_Lf_01059	CDS	288				hypothetical protein
+Zymos_Lf_01060	CDS	879				IS3 family transposase ISBce13
+Zymos_Lf_01061	CDS	717				hypothetical protein
+Zymos_Lf_01062	CDS	1470	nylA	3.5.2.12		6-aminohexanoate-cyclic-dimer hydrolase
+Zymos_Lf_01063	CDS	858				hypothetical protein
+Zymos_Lf_01064	CDS	1134	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+Zymos_Lf_01065	CDS	450				hypothetical protein
+Zymos_Lf_01066	CDS	1152				hypothetical protein
+Zymos_Lf_01067	CDS	1935	tetO			Tetracycline resistance protein TetO
+Zymos_Lf_01068	CDS	360	gpsB		COG3599	Cell cycle protein GpsB
+Zymos_Lf_01069	CDS	597				hypothetical protein
+Zymos_Lf_01070	CDS	636	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+Zymos_Lf_01071	CDS	2265	ponA		COG0744	Penicillin-binding protein 1A
+Zymos_Lf_01072	CDS	912	yicL_2		COG0697	putative inner membrane transporter YicL
+Zymos_Lf_01073	CDS	1014	gpr	1.1.1.-	COG0667	L-glyceraldehyde 3-phosphate reductase
+Zymos_Lf_01074	CDS	1008				hypothetical protein
+Zymos_Lf_01075	CDS	729	dnaD		COG3935	DNA replication protein DnaD
+Zymos_Lf_01076	CDS	1296	asnS	6.1.1.22		Asparagine--tRNA ligase
+Zymos_Lf_01077	CDS	519				hypothetical protein
+Zymos_Lf_01078	CDS	2841	dinG	3.1.-.-		3'-5' exonuclease DinG
+Zymos_Lf_01079	CDS	936	galK_1	2.7.1.6		Galactokinase
+Zymos_Lf_01080	CDS	990				hypothetical protein
+Zymos_Lf_01081	CDS	1110		2.7.4.2		Phosphomevalonate kinase
+Zymos_Lf_01082	CDS	1086	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+Zymos_Lf_01083	CDS	246	pstB3_1	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+Zymos_Lf_01084	CDS	459	pstB3_2	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+Zymos_Lf_01085	CDS	714				hypothetical protein
+Zymos_Lf_01086	CDS	855				IS3 family transposase ISEnfa5
+Zymos_Lf_01087	CDS	630				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_01088	CDS	456				hypothetical protein
+Zymos_Lf_01089	CDS	1374	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+Zymos_Lf_01090	CDS	807	yitU	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+Zymos_Lf_01091	CDS	918	pyrDB	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+Zymos_Lf_01092	CDS	3180	carB_3	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+Zymos_Lf_01093	CDS	1083	carA_3	6.3.5.5		Carbamoyl-phosphate synthase small chain
+Zymos_Lf_01094	CDS	1290	pyrC	3.5.2.3		Dihydroorotase
+Zymos_Lf_01095	CDS	966	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+Zymos_Lf_01096	CDS	420		4.2.1.-	COG4336	Putative hydro-lyase
+Zymos_Lf_01097	CDS	4833				hypothetical protein
+Zymos_Lf_01098	CDS	999			COG2826	IS30 family transposase ISSlu1
+Zymos_Lf_01099	CDS	360	rplS		COG0335	50S ribosomal protein L19
+Zymos_Lf_01100	CDS	1428	yhdG_1		COG0531	putative amino acid permease YhdG
+Zymos_Lf_01101	CDS	759	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+Zymos_Lf_01102	CDS	510	rimM			Ribosome maturation factor RimM
+Zymos_Lf_01103	CDS	261				hypothetical protein
+Zymos_Lf_01104	CDS	276	rpsP		COG0228	30S ribosomal protein S16
+Zymos_Lf_01105	CDS	705	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+Zymos_Lf_01106	CDS	756	pstB3_3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+Zymos_Lf_01107	CDS	882				hypothetical protein
+Zymos_Lf_01108	CDS	900				hypothetical protein
+Zymos_Lf_01109	CDS	876	pstS1		COG0226	Phosphate-binding protein PstS 1
+Zymos_Lf_01110	CDS	705	phoP_1		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Zymos_Lf_01111	CDS	777				hypothetical protein
+Zymos_Lf_01112	CDS	516				hypothetical protein
+Zymos_Lf_01113	CDS	1431	ffh		COG0541	Signal recognition particle protein
+Zymos_Lf_01114	CDS	342				hypothetical protein
+Zymos_Lf_01115	CDS	1581	ftsY			Signal recognition particle receptor FtsY
+Zymos_Lf_01116	CDS	3564	smc_2		COG1196	Chromosome partition protein Smc
+Zymos_Lf_01117	CDS	699	rnc	3.1.26.3	COG0571	Ribonuclease 3
+Zymos_Lf_01118	CDS	246	acpP_2		COG0236	Acyl carrier protein
+Zymos_Lf_01119	CDS	1038	plsX	2.3.1.274	COG0416	Phosphate acyltransferase
+Zymos_Lf_01120	CDS	2037	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+Zymos_Lf_01121	CDS	1656				putative protein
+Zymos_Lf_01122	CDS	363				putative protein
+Zymos_Lf_01123	CDS	189	rpmB			50S ribosomal protein L28
+Zymos_Lf_01124	CDS	660	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+Zymos_Lf_01125	CDS	654	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+Zymos_Lf_01126	CDS	891	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+Zymos_Lf_01127	CDS	1923	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+Zymos_Lf_01128	CDS	738		3.1.3.16		Putative protein phosphatase 2C-type
+Zymos_Lf_01129	CDS	1347	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+Zymos_Lf_01130	CDS	951	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+Zymos_Lf_01131	CDS	2418	priA	3.6.4.-		primosomal protein N'
+Zymos_Lf_01132	CDS	1230	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+Zymos_Lf_01133	CDS	285	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+Zymos_Lf_01134	CDS	621	gmk_1	2.7.4.8	COG0194	Guanylate kinase
+Zymos_Lf_01135	CDS	318				hypothetical protein
+Zymos_Lf_01136	CDS	987			COG2826	IS30 family transposase ISSlu1
+Zymos_Lf_01137	CDS	1695	recN		COG0497	DNA repair protein RecN
+Zymos_Lf_01138	CDS	450	argR_1		COG1438	Arginine repressor
+Zymos_Lf_01139	CDS	816	tlyA		COG1189	Hemolysin A
+Zymos_Lf_01140	CDS	876				hypothetical protein
+Zymos_Lf_01141	CDS	294	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+Zymos_Lf_01142	CDS	1449	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+Zymos_Lf_01143	CDS	858	folD			Bifunctional protein FolD protein
+Zymos_Lf_01144	CDS	420	nusB		COG0781	Transcription antitermination protein NusB
+Zymos_Lf_01145	CDS	441				hypothetical protein
+Zymos_Lf_01146	CDS	1077	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+Zymos_Lf_01147	CDS	282	rpmA		COG0211	50S ribosomal protein L27
+Zymos_Lf_01148	CDS	324				hypothetical protein
+Zymos_Lf_01149	CDS	309	rplU		COG0261	50S ribosomal protein L21
+Zymos_Lf_01150	CDS	642				hypothetical protein
+Zymos_Lf_01151	tRNA	74				tRNA-Arg(tct)
+Zymos_Lf_01152	CDS	534				hypothetical protein
+Zymos_Lf_01153	CDS	960				hypothetical protein
+Zymos_Lf_01154	CDS	894				hypothetical protein
+Zymos_Lf_01155	CDS	129				hypothetical protein
+Zymos_Lf_01156	CDS	1353	glnA	6.3.1.2		Glutamine synthetase
+Zymos_Lf_01157	CDS	924	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+Zymos_Lf_01158	CDS	177				hypothetical protein
+Zymos_Lf_01159	CDS	420	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+Zymos_Lf_01160	CDS	963	glcK	2.7.1.2	COG1940	Glucokinase
+Zymos_Lf_01161	CDS	237				hypothetical protein
+Zymos_Lf_01162	CDS	666	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+Zymos_Lf_01163	CDS	555	yqgN		COG0212	putative protein YqgN
+Zymos_Lf_01164	CDS	150	rpmGA			50S ribosomal protein L33 1
+Zymos_Lf_01165	CDS	2085	penA		COG0768	Penicillin-binding protein 2B
+Zymos_Lf_01166	CDS	2628				hypothetical protein
+Zymos_Lf_01167	CDS	477	greA_1		COG0782	Transcription elongation factor GreA
+Zymos_Lf_01168	CDS	651	udk	2.7.1.48	COG0572	Uridine kinase
+Zymos_Lf_01169	CDS	2439	pheT	6.1.1.20		Phenylalanine--tRNA ligase beta subunit
+Zymos_Lf_01170	CDS	1047	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+Zymos_Lf_01171	CDS	333	yodB		COG1733	HTH-type transcriptional regulator YodB
+Zymos_Lf_01172	CDS	516				hypothetical protein
+Zymos_Lf_01173	CDS	807	trmH	2.1.1.34		tRNA (guanosine(18)-2'-O)-methyltransferase
+Zymos_Lf_01174	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+Zymos_Lf_01175	CDS	912	yidC			Membrane protein insertase YidC
+Zymos_Lf_01176	CDS	411	def_2	3.5.1.88	COG0242	Peptide deformylase
+Zymos_Lf_01177	CDS	1317	mepA_1			Multidrug export protein MepA
+Zymos_Lf_01178	CDS	1506	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+Zymos_Lf_01179	CDS	687	arlR		COG0745	Response regulator ArlR
+Zymos_Lf_01180	CDS	177	rpmF			50S ribosomal protein L32
+Zymos_Lf_01181	CDS	552				hypothetical protein
+Zymos_Lf_01182	CDS	1128	tmcAL	6.3.4.-	COG1323	tRNA(Met) cytidine acetate ligase
+Zymos_Lf_01183	CDS	753	cmoM	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+Zymos_Lf_01184	CDS	360	rsfS		COG0799	Ribosomal silencing factor RsfS
+Zymos_Lf_01185	CDS	612				hypothetical protein
+Zymos_Lf_01186	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+Zymos_Lf_01187	CDS	312			COG1534	RNA-binding protein
+Zymos_Lf_01188	CDS	1125	yqeH		COG1161	putative protein YqeH
+Zymos_Lf_01189	CDS	540				hypothetical protein
+Zymos_Lf_01190	CDS	414				hypothetical protein
+Zymos_Lf_01191	CDS	357				hypothetical protein
+Zymos_Lf_01192	CDS	354	rplT		COG0292	50S ribosomal protein L20
+Zymos_Lf_01193	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+Zymos_Lf_01194	CDS	510	infC			Translation initiation factor IF-3
+Zymos_Lf_01195	CDS	945	dnaI		COG1484	Primosomal protein DnaI
+Zymos_Lf_01196	CDS	1362	dnaB		COG3611	Replication initiation and membrane attachment protein
+Zymos_Lf_01197	CDS	459	nrdR		COG1327	Transcriptional repressor NrdR
+Zymos_Lf_01198	CDS	621	coaE	2.7.1.24		Dephospho-CoA kinase
+Zymos_Lf_01199	CDS	840	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+Zymos_Lf_01200	CDS	2661	polA	2.7.7.7		DNA polymerase I
+Zymos_Lf_01201	CDS	750				hypothetical protein
+Zymos_Lf_01202	CDS	711	ybhL		COG0670	Inner membrane protein YbhL
+Zymos_Lf_01203	CDS	1314	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+Zymos_Lf_01204	CDS	633				hypothetical protein
+Zymos_Lf_01205	CDS	318	ytpP			Thioredoxin-like protein YtpP
+Zymos_Lf_01206	CDS	333				hypothetical protein
+Zymos_Lf_01207	CDS	648	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+Zymos_Lf_01208	CDS	1185				hypothetical protein
+Zymos_Lf_01209	CDS	726	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+Zymos_Lf_01210	CDS	429	hit		COG0537	Protein hit
+Zymos_Lf_01211	CDS	234				hypothetical protein
+Zymos_Lf_01212	CDS	942	prsA	5.2.1.8		Foldase protein PrsA
+Zymos_Lf_01213	CDS	957	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+Zymos_Lf_01214	CDS	363				hypothetical protein
+Zymos_Lf_01215	CDS	2118	pbpF		COG0744	Penicillin-binding protein 1F
+Zymos_Lf_01216	CDS	1689	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+Zymos_Lf_01217	tRNA	71				tRNA-Gly(ccc)
+Zymos_Lf_01218	CDS	360				hypothetical protein
+Zymos_Lf_01219	CDS	339				hypothetical protein
+Zymos_Lf_01220	CDS	1134				hypothetical protein
+Zymos_Lf_01221	CDS	594		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+Zymos_Lf_01222	CDS	1281	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+Zymos_Lf_01223	CDS	573	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+Zymos_Lf_01224	CDS	519				hypothetical protein
+Zymos_Lf_01225	CDS	372	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+Zymos_Lf_01226	CDS	684				hypothetical protein
+Zymos_Lf_01227	CDS	1008	degA_2		COG1609	HTH-type transcriptional regulator DegA
+Zymos_Lf_01228	CDS	609				hypothetical protein
+Zymos_Lf_01229	CDS	633		2.7.1.113	COG1428	Deoxyguanosine kinase
+Zymos_Lf_01230	CDS	1119				hypothetical protein
+Zymos_Lf_01231	CDS	1389				hypothetical protein
+Zymos_Lf_01232	CDS	501				Putative universal stress protein
+Zymos_Lf_01233	CDS	1401		3.4.13.-		Putative dipeptidase
+Zymos_Lf_01234	CDS	876	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+Zymos_Lf_01235	CDS	378				hypothetical protein
+Zymos_Lf_01236	CDS	1647	murJ		COG2244	Lipid II flippase MurJ
+Zymos_Lf_01237	CDS	264				hypothetical protein
+Zymos_Lf_01238	CDS	2418	leuS	6.1.1.4		Leucine--tRNA ligase
+Zymos_Lf_01239	CDS	708				hypothetical protein
+Zymos_Lf_01240	CDS	1242	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+Zymos_Lf_01241	CDS	792	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+Zymos_Lf_01242	CDS	1188	metK	2.5.1.6		S-adenosylmethionine synthase
+Zymos_Lf_01243	CDS	732				hypothetical protein
+Zymos_Lf_01244	CDS	537	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+Zymos_Lf_01245	CDS	1434	ribZ_1			Riboflavin transporter RibZ
+Zymos_Lf_01246	CDS	456	perR		COG0735	Peroxide-responsive repressor PerR
+Zymos_Lf_01247	CDS	1368	cycA_1		COG1113	D-serine/D-alanine/glycine transporter
+Zymos_Lf_01248	CDS	159				hypothetical protein
+Zymos_Lf_01249	CDS	618				hypothetical protein
+Zymos_Lf_01250	CDS	696				hypothetical protein
+Zymos_Lf_01251	CDS	432				Acid shock protein
+Zymos_Lf_01252	CDS	504				hypothetical protein
+Zymos_Lf_01253	CDS	849				hypothetical protein
+Zymos_Lf_01254	CDS	1056	adh_3	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+Zymos_Lf_01255	CDS	1338				Nucleobase transporter PlUacP
+Zymos_Lf_01256	CDS	873				hypothetical protein
+Zymos_Lf_01257	CDS	582				hypothetical protein
+Zymos_Lf_01258	CDS	2211	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+Zymos_Lf_01259	CDS	684	artQ		COG0765	Arginine transport system permease protein ArtQ
+Zymos_Lf_01260	CDS	822	artP_2		COG0834	Arginine-binding extracellular protein ArtP
+Zymos_Lf_01261	CDS	321	emrE		COG2076	Multidrug transporter EmrE
+Zymos_Lf_01262	CDS	150				hypothetical protein
+Zymos_Lf_01263	CDS	246				hypothetical protein
+Zymos_Lf_01264	tRNA	86				tRNA-Leu(caa)
+Zymos_Lf_01265	tRNA	71				tRNA-Cys(gca)
+Zymos_Lf_01266	tRNA	76				tRNA-His(gtg)
+Zymos_Lf_01267	tRNA	72				tRNA-Trp(cca)
+Zymos_Lf_01268	tRNA	84				tRNA-Tyr(gta)
+Zymos_Lf_01269	tRNA	75				tRNA-Phe(gaa)
+Zymos_Lf_01270	tRNA	76				tRNA-Val(tac)
+Zymos_Lf_01271	tRNA	73				tRNA-Glu(ttc)
+Zymos_Lf_01272	tRNA	94				tRNA-Ser(gga)
+Zymos_Lf_01273	rRNA	112				5S ribosomal RNA
+Zymos_Lf_01274	rRNA	2917				23S ribosomal RNA
+Zymos_Lf_01275	tRNA	75				tRNA-Ala(tgc)
+Zymos_Lf_01276	tRNA	77				tRNA-Ile(gat)
+Zymos_Lf_01277	rRNA	1573				16S ribosomal RNA
+Zymos_Lf_01278	CDS	249				hypothetical protein
+Zymos_Lf_01279	CDS	1020				hypothetical protein
+Zymos_Lf_01280	CDS	1026	cpoA	2.4.1.-	COG0438	Alpha-galactosylglucosyldiacylglycerol synthase
+Zymos_Lf_01281	CDS	1218		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+Zymos_Lf_01282	CDS	1731	ptsI_1	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+Zymos_Lf_01283	CDS	267	ptsH		COG1925	Phosphocarrier protein HPr
+Zymos_Lf_01284	CDS	189				hypothetical protein
+Zymos_Lf_01285	CDS	2247	clpE		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpE
+Zymos_Lf_01286	CDS	708				hypothetical protein
+Zymos_Lf_01287	CDS	576	rutB	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+Zymos_Lf_01288	CDS	1428	pncB_2	6.3.4.21		Nicotinate phosphoribosyltransferase
+Zymos_Lf_01289	CDS	594				hypothetical protein
+Zymos_Lf_01290	CDS	720				hypothetical protein
+Zymos_Lf_01291	CDS	789	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+Zymos_Lf_01292	CDS	885				hypothetical protein
+Zymos_Lf_01293	CDS	1242		6.3.1.12		D-aspartate ligase
+Zymos_Lf_01294	CDS	144				hypothetical protein
+Zymos_Lf_01295	CDS	699				hypothetical protein
+Zymos_Lf_01296	CDS	861	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+Zymos_Lf_01297	CDS	378	ytrA		COG1725	HTH-type transcriptional repressor YtrA
+Zymos_Lf_01298	CDS	933	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+Zymos_Lf_01299	CDS	1746				hypothetical protein
+Zymos_Lf_01300	CDS	909				hypothetical protein
+Zymos_Lf_01301	CDS	1053	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+Zymos_Lf_01302	CDS	1581	prfC			Peptide chain release factor 3
+Zymos_Lf_01303	CDS	978	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+Zymos_Lf_01304	CDS	1110	yhhT		COG0628	Putative transport protein YhhT
+Zymos_Lf_01305	CDS	933	csbB	2.4.-.-	COG0463	Putative glycosyltransferase CsbB
+Zymos_Lf_01306	CDS	564				hypothetical protein
+Zymos_Lf_01307	CDS	1596				hypothetical protein
+Zymos_Lf_01308	CDS	471	atl			Bifunctional autolysin
+Zymos_Lf_01309	CDS	273				hypothetical protein
+Zymos_Lf_01310	CDS	1290				hypothetical protein
+Zymos_Lf_01311	CDS	1059	wecH	2.3.1.-		O-acetyltransferase WecH
+Zymos_Lf_01312	CDS	1419	rfbX		COG2244	Putative O-antigen transporter
+Zymos_Lf_01313	CDS	1122	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+Zymos_Lf_01314	CDS	618				hypothetical protein
+Zymos_Lf_01315	CDS	1224				hypothetical protein
+Zymos_Lf_01316	CDS	762				hypothetical protein
+Zymos_Lf_01317	CDS	654	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+Zymos_Lf_01318	CDS	819	recX			Regulatory protein RecX
+Zymos_Lf_01319	CDS	207				hypothetical protein
+Zymos_Lf_01320	CDS	216				hypothetical protein
+Zymos_Lf_01321	CDS	897				hypothetical protein
+Zymos_Lf_01322	CDS	2106				hypothetical protein
+Zymos_Lf_01323	CDS	1251				IS200/IS605 family transposase ISMmu1
+Zymos_Lf_01324	CDS	453				hypothetical protein
+Zymos_Lf_01325	CDS	639				hypothetical protein
+Zymos_Lf_01326	CDS	858	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+Zymos_Lf_01327	CDS	447				Flavodoxin
+Zymos_Lf_01328	CDS	435				hypothetical protein
+Zymos_Lf_01329	tRNA	75				tRNA-Arg(cct)
+Zymos_Lf_01330	CDS	1314	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+Zymos_Lf_01331	CDS	1011	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+Zymos_Lf_01332	CDS	366				hypothetical protein
+Zymos_Lf_01333	CDS	570				hypothetical protein
+Zymos_Lf_01334	CDS	903		1.1.1.-		L-2-hydroxyisocaproate dehydrogenase
+Zymos_Lf_01335	CDS	1509	gshAB_3			Glutathione biosynthesis bifunctional protein GshAB
+Zymos_Lf_01336	CDS	780				hypothetical protein
+Zymos_Lf_01337	CDS	354				hypothetical protein
+Zymos_Lf_01338	CDS	1626	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+Zymos_Lf_01339	CDS	468	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+Zymos_Lf_01340	CDS	561				hypothetical protein
+Zymos_Lf_01341	CDS	1260	tagU_1	2.7.8.-		Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+Zymos_Lf_01342	CDS	549				hypothetical protein
+Zymos_Lf_01343	CDS	549	fsr			Fosmidomycin resistance protein
+Zymos_Lf_01344	CDS	378				hypothetical protein
+Zymos_Lf_01345	CDS	168				hypothetical protein
+Zymos_Lf_01346	CDS	594				hypothetical protein
+Zymos_Lf_01347	CDS	222				hypothetical protein
+Zymos_Lf_01348	CDS	690	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+Zymos_Lf_01349	CDS	573				hypothetical protein
+Zymos_Lf_01350	CDS	318				hypothetical protein
+Zymos_Lf_01351	CDS	1539	mco	1.-.-.-		Multicopper oxidase mco
+Zymos_Lf_01352	CDS	501	proX		COG3760	Prolyl-tRNA editing protein ProX
+Zymos_Lf_01353	CDS	783		3.5.3.18	COG1834	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+Zymos_Lf_01354	CDS	93				hypothetical protein
+Zymos_Lf_01355	CDS	1398	nhaC		COG1757	Na(+)/H(+) antiporter NhaC
+Zymos_Lf_01356	CDS	1122				hypothetical protein
+Zymos_Lf_01357	CDS	264				hypothetical protein
+Zymos_Lf_01358	CDS	255				hypothetical protein
+Zymos_Lf_01359	CDS	699				hypothetical protein
+Zymos_Lf_01360	CDS	843				IS3 family transposase ISSth1b
+Zymos_Lf_01361	CDS	1353			COG3385	IS4 family transposase ISLre1
+Zymos_Lf_01362	CDS	1371	npr	1.11.1.1	COG0446	NADH peroxidase
+Zymos_Lf_01363	CDS	444				hypothetical protein
+Zymos_Lf_01364	CDS	219				hypothetical protein
+Zymos_Lf_01365	CDS	984				hypothetical protein
+Zymos_Lf_01366	CDS	504				IS256 family transposase IS1310
+Zymos_Lf_01367	CDS	714				hypothetical protein
+Zymos_Lf_01368	CDS	855				IS3 family transposase ISEnfa5
+Zymos_Lf_01369	CDS	651	fixK		COG0664	Nitrogen fixation regulation protein FixK
+Zymos_Lf_01370	CDS	279				hypothetical protein
+Zymos_Lf_01371	CDS	228	copZ_1			Copper chaperone CopZ
+Zymos_Lf_01372	CDS	1929	cadA_1	3.6.3.3		Cadmium-transporting ATPase
+Zymos_Lf_01373	CDS	855				IS3 family transposase ISEnfa5
+Zymos_Lf_01374	CDS	714				hypothetical protein
+Zymos_Lf_01375	CDS	201				hypothetical protein
+Zymos_Lf_01376	CDS	336				hypothetical protein
+Zymos_Lf_01377	CDS	1893				hypothetical protein
+Zymos_Lf_01378	CDS	1293				hypothetical protein
+Zymos_Lf_01379	CDS	2976				hypothetical protein
+Zymos_Lf_01380	CDS	1932				hypothetical protein
+Zymos_Lf_01381	CDS	246				hypothetical protein
+Zymos_Lf_01382	CDS	552				hypothetical protein
+Zymos_Lf_01383	CDS	654			COG2826	IS30 family transposase ISStin2
+Zymos_Lf_01384	CDS	1377	rlmCD_1	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+Zymos_Lf_01385	CDS	1014	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+Zymos_Lf_01386	CDS	1425	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+Zymos_Lf_01387	CDS	1464	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+Zymos_Lf_01388	CDS	321	gatC_1	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit C
+Zymos_Lf_01389	CDS	1113				hypothetical protein
+Zymos_Lf_01390	CDS	2040	ligA	6.5.1.2	COG0272	DNA ligase
+Zymos_Lf_01391	CDS	2271	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+Zymos_Lf_01392	CDS	1173	purK_1	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+Zymos_Lf_01393	CDS	588	xpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase
+Zymos_Lf_01394	CDS	615	lytG_1	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+Zymos_Lf_01395	CDS	774	budC	1.1.1.304		Diacetyl reductase [(S)-acetoin forming]
+Zymos_Lf_01396	CDS	1104				hypothetical protein
+Zymos_Lf_01397	CDS	396	rpsI		COG0103	30S ribosomal protein S9
+Zymos_Lf_01398	CDS	444	rplM			50S ribosomal protein L13
+Zymos_Lf_01399	CDS	777	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+Zymos_Lf_01400	CDS	804	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+Zymos_Lf_01401	CDS	867	ecfA2	3.6.3.-		Energy-coupling factor transporter ATP-binding protein EcfA2
+Zymos_Lf_01402	CDS	837	ecfA1_1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+Zymos_Lf_01403	CDS	381	rplQ			50S ribosomal protein L17
+Zymos_Lf_01404	CDS	945	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+Zymos_Lf_01405	CDS	390	rpsK			30S ribosomal protein S11
+Zymos_Lf_01406	CDS	366	rpsM		COG0099	30S ribosomal protein S13
+Zymos_Lf_01407	CDS	117	rpmJ		COG0257	50S ribosomal protein L36
+Zymos_Lf_01408	CDS	219	infA			Translation initiation factor IF-1
+Zymos_Lf_01409	CDS	660	adk	2.7.4.3		Adenylate kinase
+Zymos_Lf_01410	CDS	1299	secY			Protein translocase subunit SecY
+Zymos_Lf_01411	CDS	435	rplO			50S ribosomal protein L15
+Zymos_Lf_01412	CDS	183	rpmD			50S ribosomal protein L30
+Zymos_Lf_01413	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+Zymos_Lf_01414	CDS	357	rplR			50S ribosomal protein L18
+Zymos_Lf_01415	CDS	537	rplF		COG0097	50S ribosomal protein L6
+Zymos_Lf_01416	CDS	399	rpsH		COG0096	30S ribosomal protein S8
+Zymos_Lf_01417	CDS	186	rpsZ		COG0199	30S ribosomal protein S14 type Z
+Zymos_Lf_01418	CDS	543	rplE		COG0094	50S ribosomal protein L5
+Zymos_Lf_01419	CDS	309	rplX			50S ribosomal protein L24
+Zymos_Lf_01420	CDS	369	rplN		COG0093	50S ribosomal protein L14
+Zymos_Lf_01421	CDS	267	rpsQ			30S ribosomal protein S17
+Zymos_Lf_01422	CDS	207	rpmC			50S ribosomal protein L29
+Zymos_Lf_01423	CDS	435	rplP		COG0197	50S ribosomal protein L16
+Zymos_Lf_01424	CDS	660	rpsC		COG0092	30S ribosomal protein S3
+Zymos_Lf_01425	CDS	348	rplV		COG0091	50S ribosomal protein L22
+Zymos_Lf_01426	CDS	282	rpsS		COG0185	30S ribosomal protein S19
+Zymos_Lf_01427	CDS	846	rplB			50S ribosomal protein L2
+Zymos_Lf_01428	CDS	294	rplW		COG0089	50S ribosomal protein L23
+Zymos_Lf_01429	CDS	624	rplD		COG0088	50S ribosomal protein L4
+Zymos_Lf_01430	CDS	663	rplC		COG0087	50S ribosomal protein L3
+Zymos_Lf_01431	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+Zymos_Lf_01432	CDS	2085	fus			Elongation factor G
+Zymos_Lf_01433	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+Zymos_Lf_01434	CDS	414	rpsL		COG0048	30S ribosomal protein S12
+Zymos_Lf_01435	CDS	666	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+Zymos_Lf_01436	CDS	1176				hypothetical protein
+Zymos_Lf_01437	CDS	729		2.4.2.-	COG2071	Putative glutamine amidotransferase
+Zymos_Lf_01438	CDS	1287				ISL3 family transposase ISL3
+Zymos_Lf_01439	CDS	3648	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+Zymos_Lf_01440	CDS	3573	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+Zymos_Lf_01441	CDS	594				hypothetical protein
+Zymos_Lf_01442	CDS	2505	clpC_1		COG0542	Negative regulator of genetic competence ClpC/MecB
+Zymos_Lf_01443	CDS	471	ctsR		COG4463	Transcriptional regulator CtsR
+Zymos_Lf_01444	CDS	1020	adhA_1	1.1.1.1		Alcohol dehydrogenase 1
+Zymos_Lf_01445	CDS	717				hypothetical protein
+Zymos_Lf_01446	CDS	666				hypothetical protein
+Zymos_Lf_01447	CDS	258	maa_2	2.3.1.79	COG0110	Maltose O-acetyltransferase
+Zymos_Lf_01448	CDS	1164				IS200/IS605 family transposase ISLhe65
+Zymos_Lf_01449	CDS	267				hypothetical protein
+Zymos_Lf_01450	CDS	426				hypothetical protein
+Zymos_Lf_01451	CDS	504				hypothetical protein
+Zymos_Lf_01452	CDS	258				hypothetical protein
+Zymos_Lf_01453	CDS	216				hypothetical protein
+Zymos_Lf_01454	CDS	831	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+Zymos_Lf_01455	CDS	396		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+Zymos_Lf_01456	CDS	171	hdhA	1.1.1.159		7-alpha-hydroxysteroid dehydrogenase
+Zymos_Lf_01457	tRNA	77				tRNA-Pro(cgg)
+Zymos_Lf_01458	tRNA	74				tRNA-Arg(acg)
+Zymos_Lf_01459	tRNA	72				tRNA-Gly(gcc)
+Zymos_Lf_01460	tRNA	85				tRNA-Leu(tag)
+Zymos_Lf_01461	tRNA	75				tRNA-Val(tac)
+Zymos_Lf_01462	CDS	642		2.7.1.113	COG1428	Deoxyguanosine kinase
+Zymos_Lf_01463	CDS	1491	lysP_1		COG0833	Lysine-specific permease
+Zymos_Lf_01464	CDS	468				hypothetical protein
+Zymos_Lf_01465	CDS	810				hypothetical protein
+Zymos_Lf_01466	CDS	669				hypothetical protein
+Zymos_Lf_01467	CDS	489				hypothetical protein
+Zymos_Lf_01468	CDS	750				hypothetical protein
+Zymos_Lf_01469	CDS	201	cspLA		COG1278	Cold shock-like protein CspLA
+Zymos_Lf_01470	CDS	660	mntR			HTH-type transcriptional regulator MntR
+Zymos_Lf_01471	CDS	906	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+Zymos_Lf_01472	CDS	192				hypothetical protein
+Zymos_Lf_01473	CDS	453				hypothetical protein
+Zymos_Lf_01474	CDS	1251				IS200/IS605 family transposase ISMmu1
+Zymos_Lf_01475	CDS	444				hypothetical protein
+Zymos_Lf_01476	CDS	684				hypothetical protein
+Zymos_Lf_01477	CDS	477				Putative universal stress protein
+Zymos_Lf_01478	CDS	435	elaA		COG2153	Protein ElaA
+Zymos_Lf_01479	CDS	1215				hypothetical protein
+Zymos_Lf_01480	CDS	1833	rnj1	3.1.-.-		Ribonuclease J 1
+Zymos_Lf_01481	CDS	342				hypothetical protein
+Zymos_Lf_01482	CDS	438				hypothetical protein
+Zymos_Lf_01483	CDS	1485	emrY			putative multidrug resistance protein EmrY
+Zymos_Lf_01484	CDS	705				hypothetical protein
+Zymos_Lf_01485	CDS	777	araA	5.3.1.4		L-arabinose isomerase
+Zymos_Lf_01486	CDS	885				hypothetical protein
+Zymos_Lf_01487	tRNA	76				tRNA-Asp(gtc)
+Zymos_Lf_01488	CDS	2589	mprF	2.3.2.3		Phosphatidylglycerol lysyltransferase
+Zymos_Lf_01489	CDS	585	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+Zymos_Lf_01490	CDS	996				hypothetical protein
+Zymos_Lf_01491	CDS	672	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+Zymos_Lf_01492	CDS	1338				hypothetical protein
+Zymos_Lf_01493	CDS	894	oxyR_1			Hydrogen peroxide-inducible genes activator
+Zymos_Lf_01494	CDS	1422	yflS		COG0471	Putative malate transporter YflS
+Zymos_Lf_01495	CDS	1392	ifcA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+Zymos_Lf_01496	CDS	1389	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+Zymos_Lf_01497	CDS	366	urdA_2	1.3.99.33	COG0431	Urocanate reductase
+Zymos_Lf_01498	CDS	249				hypothetical protein
+Zymos_Lf_01499	CDS	1359				hypothetical protein
+Zymos_Lf_01500	CDS	1659	mleS	4.1.1.101	COG0281	Malolactic enzyme
+Zymos_Lf_01501	CDS	885	oxyR_2			Hydrogen peroxide-inducible genes activator
+Zymos_Lf_01502	CDS	699				hypothetical protein
+Zymos_Lf_01503	CDS	843				IS3 family transposase ISSth1b
+Zymos_Lf_01504	CDS	588		5.2.1.8		Putative peptidyl-prolyl cis-trans isomerase
+Zymos_Lf_01505	CDS	1959				hypothetical protein
+Zymos_Lf_01506	CDS	1035	adhA_2	1.1.1.1	COG1064	putative alcohol dehydrogenase AdhA
+Zymos_Lf_01507	CDS	1473	scrB	3.2.1.26		Sucrose-6-phosphate hydrolase
+Zymos_Lf_01508	CDS	1377				hypothetical protein
+Zymos_Lf_01509	CDS	909	hdfR			HTH-type transcriptional regulator HdfR
+Zymos_Lf_01510	CDS	870		2.7.4.1	COG2326	Polyphosphate:ADP phosphotransferase
+Zymos_Lf_01511	CDS	606				hypothetical protein
+Zymos_Lf_01512	CDS	171				hypothetical protein
+Zymos_Lf_01513	CDS	1497	yjeM_1			Inner membrane transporter YjeM
+Zymos_Lf_01514	CDS	921				hypothetical protein
+Zymos_Lf_01515	CDS	1254	dacA_2	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+Zymos_Lf_01516	CDS	549				hypothetical protein
+Zymos_Lf_01517	CDS	825	pgl_2	3.1.1.31	COG2706	6-phosphogluconolactonase
+Zymos_Lf_01518	CDS	588				hypothetical protein
+Zymos_Lf_01519	CDS	312				hypothetical protein
+Zymos_Lf_01520	CDS	2997				hypothetical protein
+Zymos_Lf_01521	CDS	417	mutT2	3.6.1.55	COG0494	Putative 8-oxo-dGTP diphosphatase 2
+Zymos_Lf_01522	CDS	546				hypothetical protein
+Zymos_Lf_01523	CDS	1437	ribZ_2			Riboflavin transporter RibZ
+Zymos_Lf_01524	CDS	756				hypothetical protein
+Zymos_Lf_01525	CDS	216				hypothetical protein
+Zymos_Lf_01526	CDS	729				hypothetical protein
+Zymos_Lf_01527	CDS	234				hypothetical protein
+Zymos_Lf_01528	CDS	477	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+Zymos_Lf_01529	CDS	1116				hypothetical protein
+Zymos_Lf_01530	CDS	1251				IS200/IS605 family transposase ISMmu1
+Zymos_Lf_01531	CDS	453				hypothetical protein
+Zymos_Lf_01532	CDS	420	yjjG	3.1.3.5	COG1011	Pyrimidine 5'-nucleotidase YjjG
+Zymos_Lf_01533	CDS	252	asnA_1	6.3.1.1	COG2502	Aspartate--ammonia ligase
+Zymos_Lf_01534	CDS	723	asnA_2	6.3.1.1	COG2502	Aspartate--ammonia ligase
+Zymos_Lf_01535	CDS	597	lytG_2	3.2.1.-	COG1705	Exo-glucosaminidase LytG
+Zymos_Lf_01536	CDS	513				hypothetical protein
+Zymos_Lf_01537	CDS	1521	dinB_2	2.7.7.7		DNA polymerase IV
+Zymos_Lf_01538	CDS	459				hypothetical protein
+Zymos_Lf_01539	CDS	423			COG0789	putative HTH-type transcriptional regulator
+Zymos_Lf_01540	CDS	717	pxpB	3.5.2.9	COG2049	5-oxoprolinase subunit B
+Zymos_Lf_01541	CDS	1017	pxpC	3.5.2.9	COG1984	5-oxoprolinase subunit C
+Zymos_Lf_01542	CDS	429	accB_2			Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Zymos_Lf_01543	CDS	1389	accC_2	6.3.4.14	COG0439	Biotin carboxylase
+Zymos_Lf_01544	CDS	750	pxpA	3.5.2.9	COG1540	5-oxoprolinase subunit A
+Zymos_Lf_01545	CDS	1212	mntH_1			Divalent metal cation transporter MntH
+Zymos_Lf_01546	CDS	1170	sotB			sugar efflux transporter
+Zymos_Lf_01547	CDS	1332	garB	1.8.1.16		Glutathione amide reductase
+Zymos_Lf_01548	CDS	315	trxA_2		COG0526	Thioredoxin
+Zymos_Lf_01549	CDS	927				hypothetical protein
+Zymos_Lf_01550	CDS	249				hypothetical protein
+Zymos_Lf_01551	CDS	1353		5.1.1.21	COG0160	Isoleucine 2-epimerase
+Zymos_Lf_01552	CDS	1455	yhdG_2		COG0531	putative amino acid permease YhdG
+Zymos_Lf_01553	CDS	414				hypothetical protein
+Zymos_Lf_01554	CDS	192				hypothetical protein
+Zymos_Lf_01555	CDS	105				hypothetical protein
+Zymos_Lf_01556	CDS	831		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+Zymos_Lf_01557	CDS	417		2.3.1.-	COG0110	Putative acetyltransferase
+Zymos_Lf_01558	CDS	1383	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+Zymos_Lf_01559	CDS	1290	argG	6.3.4.5		Argininosuccinate synthase
+Zymos_Lf_01560	CDS	1878				hypothetical protein
+Zymos_Lf_01561	CDS	573				hypothetical protein
+Zymos_Lf_01562	CDS	249			COG1136	putative ABC transporter ATP-binding protein
+Zymos_Lf_01563	CDS	954				hypothetical protein
+Zymos_Lf_01564	CDS	468				hypothetical protein
+Zymos_Lf_01565	CDS	1986	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+Zymos_Lf_01566	CDS	699				hypothetical protein
+Zymos_Lf_01567	CDS	1668	dxs_2	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+Zymos_Lf_01568	CDS	321				hypothetical protein
+Zymos_Lf_01569	CDS	606				hypothetical protein
+Zymos_Lf_01570	CDS	102				hypothetical protein
+Zymos_Lf_01571	CDS	951	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Zymos_Lf_01572	CDS	321	arsR		COG0640	Arsenical resistance operon repressor
+Zymos_Lf_01573	CDS	573				hypothetical protein
+Zymos_Lf_01574	CDS	705				hypothetical protein
+Zymos_Lf_01575	CDS	207				hypothetical protein
+Zymos_Lf_01576	CDS	2766	pacL	7.2.2.10	COG0474	Calcium-transporting ATPase
+Zymos_Lf_01577	CDS	2343				hypothetical protein
+Zymos_Lf_01578	CDS	1554	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+Zymos_Lf_01579	CDS	612				hypothetical protein
+Zymos_Lf_01580	CDS	672	mprA			Response regulator MprA
+Zymos_Lf_01581	CDS	789	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+Zymos_Lf_01582	CDS	924	coaA	2.7.1.33	COG1072	Pantothenate kinase
+Zymos_Lf_01583	CDS	552				hypothetical protein
+Zymos_Lf_01584	CDS	2094	ltaS1_1		COG1368	Lipoteichoic acid synthase 1
+Zymos_Lf_01585	CDS	906				hypothetical protein
+Zymos_Lf_01586	CDS	2295	helD_2	3.6.4.12	COG3973	DNA helicase IV
+Zymos_Lf_01587	CDS	657	dedA_2		COG0586	Protein DedA
+Zymos_Lf_01588	CDS	645	gpmA_3	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Zymos_Lf_01589	CDS	1278	hflX		COG2262	GTPase HflX
+Zymos_Lf_01590	CDS	1110	menC	4.2.1.113	COG4948	o-succinylbenzoate synthase
+Zymos_Lf_01591	CDS	723				hypothetical protein
+Zymos_Lf_01592	CDS	1599	yveA		COG0531	Aspartate-proton symporter
+Zymos_Lf_01593	CDS	498	paiA_2	2.3.1.57	COG0454	Spermidine/spermine N(1)-acetyltransferase
+Zymos_Lf_01594	CDS	2712	smc_3			Chromosome partition protein Smc
+Zymos_Lf_01595	CDS	537				hypothetical protein
+Zymos_Lf_01596	CDS	1044		5.1.3.21	COG2017	Maltose epimerase
+Zymos_Lf_01597	CDS	918				hypothetical protein
+Zymos_Lf_01598	CDS	462				hypothetical protein
+Zymos_Lf_01599	CDS	450	zur		COG0735	Zinc-specific metallo-regulatory protein
+Zymos_Lf_01600	CDS	585	gmk_2	2.7.4.8	COG0194	Guanylate kinase
+Zymos_Lf_01601	CDS	417	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+Zymos_Lf_01602	CDS	1389	yhdG_3		COG0531	putative amino acid permease YhdG
+Zymos_Lf_01603	CDS	2397	pepX	3.4.14.11		Xaa-Pro dipeptidyl-peptidase
+Zymos_Lf_01604	CDS	1251				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_01605	CDS	456				hypothetical protein
+Zymos_Lf_01606	CDS	942	fpaP	3.4.11.5		Proline iminopeptidase
+Zymos_Lf_01607	CDS	639	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+Zymos_Lf_01608	CDS	1737				hypothetical protein
+Zymos_Lf_01609	CDS	951	nrdF_2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 2 subunit beta
+Zymos_Lf_01610	CDS	921				hypothetical protein
+Zymos_Lf_01611	CDS	2166	nrdE2	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha 2
+Zymos_Lf_01612	CDS	462			COG1780	Putative NrdI-like protein
+Zymos_Lf_01613	CDS	600	yciB	2.-.-.-	COG1376	Putative L,D-transpeptidase YciB
+Zymos_Lf_01614	CDS	1074	nrnB	3.1.-.-	COG2404	Oligoribonuclease NrnB
+Zymos_Lf_01615	CDS	1545	uup		COG0488	ABC transporter ATP-binding protein uup
+Zymos_Lf_01616	CDS	993				hypothetical protein
+Zymos_Lf_01617	CDS	156				hypothetical protein
+Zymos_Lf_01618	CDS	699				hypothetical protein
+Zymos_Lf_01619	CDS	762	ecfA1_2	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+Zymos_Lf_01620	CDS	336				hypothetical protein
+Zymos_Lf_01621	CDS	1215	amtB			Ammonia channel
+Zymos_Lf_01622	CDS	1320	mepA_2		COG0534	Multidrug export protein MepA
+Zymos_Lf_01623	CDS	882	gmuE	2.7.1.4	COG1940	Putative fructokinase
+Zymos_Lf_01624	CDS	1353	pgi_2	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+Zymos_Lf_01625	CDS	984	ccpA_3		COG1609	Catabolite control protein A
+Zymos_Lf_01626	CDS	885	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+Zymos_Lf_01627	CDS	921	rbsK_1	2.7.1.15		Ribokinase
+Zymos_Lf_01628	CDS	321	trxA_3		COG0526	Thioredoxin
+Zymos_Lf_01629	CDS	810				hypothetical protein
+Zymos_Lf_01630	CDS	885				hypothetical protein
+Zymos_Lf_01631	CDS	921				hypothetical protein
+Zymos_Lf_01632	CDS	1332	pucK		COG2233	Uric acid permease PucK
+Zymos_Lf_01633	CDS	858	qorB	1.6.5.2	COG0702	Quinone oxidoreductase 2
+Zymos_Lf_01634	CDS	654	gpmA_4	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Zymos_Lf_01635	CDS	2130	ltaS1_2		COG1368	Lipoteichoic acid synthase 1
+Zymos_Lf_01636	CDS	477				hypothetical protein
+Zymos_Lf_01637	CDS	648	fnr		COG0664	Anaerobic regulatory protein
+Zymos_Lf_01638	CDS	549				hypothetical protein
+Zymos_Lf_01639	CDS	231	copZ_2			Copper chaperone CopZ
+Zymos_Lf_01640	CDS	465	zosA	3.6.3.-	COG2217	Zinc-transporting ATPase
+Zymos_Lf_01641	CDS	912	cadA_2	3.6.3.3		Cadmium-transporting ATPase
+Zymos_Lf_01642	CDS	507	cadA_3	3.6.3.3		Cadmium-transporting ATPase
+Zymos_Lf_01643	CDS	993	yumC	1.18.1.2	COG0492	Ferredoxin--NADP reductase 2
+Zymos_Lf_01644	CDS	960	rihA_3	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+Zymos_Lf_01645	CDS	633	ykoE		COG4721	Putative HMP/thiamine permease protein YkoE
+Zymos_Lf_01646	CDS	1383	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+Zymos_Lf_01647	CDS	654	ykoC			Putative HMP/thiamine permease protein YkoC
+Zymos_Lf_01648	CDS	360				hypothetical protein
+Zymos_Lf_01649	CDS	1962				hypothetical protein
+Zymos_Lf_01650	CDS	1014	lplJ_2	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+Zymos_Lf_01651	CDS	423				hypothetical protein
+Zymos_Lf_01652	CDS	963	menH_1	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+Zymos_Lf_01653	CDS	426				hypothetical protein
+Zymos_Lf_01654	CDS	852				hypothetical protein
+Zymos_Lf_01655	CDS	477				hypothetical protein
+Zymos_Lf_01656	CDS	399				hypothetical protein
+Zymos_Lf_01657	CDS	453				Putative universal stress protein
+Zymos_Lf_01658	CDS	351				hypothetical protein
+Zymos_Lf_01659	CDS	999				hypothetical protein
+Zymos_Lf_01660	CDS	1362	glpT		COG2271	Glycerol-3-phosphate transporter
+Zymos_Lf_01661	CDS	2004	tkt_1	2.2.1.1		Transketolase
+Zymos_Lf_01662	CDS	747	tal	2.2.1.2	COG0176	putative transaldolase
+Zymos_Lf_01663	CDS	681	rpiA_2	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+Zymos_Lf_01664	CDS	993	tkt_2	2.2.1.1		Transketolase
+Zymos_Lf_01665	CDS	969				IS256 family transposase IS1310
+Zymos_Lf_01666	CDS	981	nixA		COG3376	Nickel transporter NixA
+Zymos_Lf_01667	CDS	669	gla		COG0580	Glycerol facilitator-aquaporin gla
+Zymos_Lf_01668	CDS	837	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+Zymos_Lf_01669	CDS	1233	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+Zymos_Lf_01670	CDS	762	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+Zymos_Lf_01671	CDS	1281	larA	5.1.2.1	COG3875	Lactate racemase
+Zymos_Lf_01672	CDS	687	larR		COG0664	Lactate racemization regulatory protein
+Zymos_Lf_01673	CDS	789				ISL3 family transposase IS1165
+Zymos_Lf_01674	CDS	246				ISL3 family transposase IS1165
+Zymos_Lf_01675	CDS	198				hypothetical protein
+Zymos_Lf_01676	CDS	1722	ptsI_2	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+Zymos_Lf_01677	CDS	1329	fucP		COG0738	L-fucose-proton symporter
+Zymos_Lf_01678	CDS	396	rbsD	5.4.99.62	COG1869	D-ribose pyranase
+Zymos_Lf_01679	CDS	918	rbsK_2	2.7.1.15		Ribokinase
+Zymos_Lf_01680	CDS	924			COG2826	IS30 family transposase IS1070
+Zymos_Lf_01681	CDS	960	deoR		COG2390	Deoxyribonucleoside regulator
+Zymos_Lf_01682	CDS	654	deoC1	4.1.2.4		Deoxyribose-phosphate aldolase 1
+Zymos_Lf_01683	CDS	1017				hypothetical protein
+Zymos_Lf_01684	CDS	948	rbsK_3	2.7.1.15	COG0524	Ribokinase
+Zymos_Lf_01685	CDS	1425	gatC_2		COG3775	PTS system galactitol-specific EIIC component
+Zymos_Lf_01686	CDS	1005	kdgR_2		COG1609	HTH-type transcriptional regulator KdgR
+Zymos_Lf_01687	CDS	1506	yjeM_2			Inner membrane transporter YjeM
+Zymos_Lf_01688	CDS	435				hypothetical protein
+Zymos_Lf_01689	CDS	2400	xpkA	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+Zymos_Lf_01690	CDS	798	ybjI_2	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+Zymos_Lf_01691	CDS	660				hypothetical protein
+Zymos_Lf_01692	CDS	501	ybaK	4.2.-.-	COG2606	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+Zymos_Lf_01693	CDS	744				hypothetical protein
+Zymos_Lf_01694	CDS	1437	pepDA_2	3.4.-.-	COG4690	Dipeptidase A
+Zymos_Lf_01695	CDS	813				hypothetical protein
+Zymos_Lf_01696	CDS	516				hypothetical protein
+Zymos_Lf_01697	CDS	528				hypothetical protein
+Zymos_Lf_01698	CDS	1386				hypothetical protein
+Zymos_Lf_01699	CDS	465			COG1780	Putative NrdI-like protein
+Zymos_Lf_01700	CDS	432				hypothetical protein
+Zymos_Lf_01701	CDS	1170	yycB		COG2807	putative transporter YycB
+Zymos_Lf_01702	CDS	1482	zwf	1.1.1.363		Glucose-6-phosphate 1-dehydrogenase
+Zymos_Lf_01703	CDS	1440	gnd	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, decarboxylating
+Zymos_Lf_01704	CDS	474				Putative universal stress protein
+Zymos_Lf_01705	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+Zymos_Lf_01706	CDS	312	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+Zymos_Lf_01707	CDS	426	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+Zymos_Lf_01708	CDS	1002	kdgR_3		COG1609	HTH-type transcriptional regulator KdgR
+Zymos_Lf_01709	CDS	1809	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+Zymos_Lf_01710	CDS	1293	gltT			Proton/sodium-glutamate symport protein
+Zymos_Lf_01711	CDS	672				hypothetical protein
+Zymos_Lf_01712	CDS	204				IS3 family transposase IS1163
+Zymos_Lf_01713	CDS	768				IS3 family transposase IS1163
+Zymos_Lf_01714	CDS	807	insK		COG2801	Putative transposase InsK for insertion sequence element IS150
+Zymos_Lf_01715	CDS	699				hypothetical protein
+Zymos_Lf_01716	CDS	843				IS3 family transposase ISSth1b
+Zymos_Lf_01717	CDS	1944	lacS_1		COG2190	Lactose permease
+Zymos_Lf_01718	CDS	2223	agaA	3.2.1.22		Alpha-galactosidase AgaA
+Zymos_Lf_01719	CDS	1002	melR		COG1609	HTH-type transcriptional repressor MelR
+Zymos_Lf_01720	CDS	1455	galT	2.7.7.12		Galactose-1-phosphate uridylyltransferase
+Zymos_Lf_01721	CDS	1167	galK_2	2.7.1.6	COG0153	Galactokinase
+Zymos_Lf_01722	CDS	951				hypothetical protein
+Zymos_Lf_01723	CDS	789				hypothetical protein
+Zymos_Lf_01724	CDS	513				hypothetical protein
+Zymos_Lf_01725	CDS	225				hypothetical protein
+Zymos_Lf_01726	CDS	735	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+Zymos_Lf_01727	CDS	690	tcyB_2		COG0765	L-cystine transport system permease protein TcyB
+Zymos_Lf_01728	CDS	801			COG0834	putative amino-acid ABC transporter-binding protein
+Zymos_Lf_01729	CDS	327				hypothetical protein
+Zymos_Lf_01730	CDS	939	ghrB	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+Zymos_Lf_01731	CDS	483	greA_2		COG0782	Transcription elongation factor GreA
+Zymos_Lf_01732	CDS	795				hypothetical protein
+Zymos_Lf_01733	CDS	510	ymdB	3.1.1.106	COG2110	O-acetyl-ADP-ribose deacetylase
+Zymos_Lf_01734	CDS	1905	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+Zymos_Lf_01735	CDS	1311	pbuG		COG2252	Guanine/hypoxanthine permease PbuG
+Zymos_Lf_01736	CDS	285				hypothetical protein
+Zymos_Lf_01737	CDS	1200				hypothetical protein
+Zymos_Lf_01738	CDS	1143				hypothetical protein
+Zymos_Lf_01739	CDS	630		3.2.2.-		Putative 3-methyladenine DNA glycosylase
+Zymos_Lf_01740	CDS	366				hypothetical protein
+Zymos_Lf_01741	CDS	186				hypothetical protein
+Zymos_Lf_01742	CDS	675	kefG	1.6.5.2		Glutathione-regulated potassium-efflux system ancillary protein KefG
+Zymos_Lf_01743	CDS	324				hypothetical protein
+Zymos_Lf_01744	CDS	627	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+Zymos_Lf_01745	CDS	558	efp			Elongation factor P
+Zymos_Lf_01746	CDS	633				hypothetical protein
+Zymos_Lf_01747	CDS	192				hypothetical protein
+Zymos_Lf_01748	CDS	948	degA_3		COG1609	HTH-type transcriptional regulator DegA
+Zymos_Lf_01749	CDS	2064				hypothetical protein
+Zymos_Lf_01750	CDS	303	ziaR			Transcriptional repressor SmtB 
+Zymos_Lf_01751	CDS	1251				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_01752	CDS	456				hypothetical protein
+Zymos_Lf_01753	CDS	459	argR_2		COG1438	Arginine repressor
+Zymos_Lf_01754	CDS	672	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+Zymos_Lf_01755	CDS	1026				hypothetical protein
+Zymos_Lf_01756	CDS	603				hypothetical protein
+Zymos_Lf_01757	CDS	1011	rspB	1.1.1.-	COG1063	Starvation-sensing protein RspB
+Zymos_Lf_01758	CDS	1563	mntH_2			Divalent metal cation transporter MntH
+Zymos_Lf_01759	CDS	747				hypothetical protein
+Zymos_Lf_01760	CDS	1806	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+Zymos_Lf_01761	CDS	600				hypothetical protein
+Zymos_Lf_01762	CDS	879				hypothetical protein
+Zymos_Lf_01763	CDS	573	spsB	3.4.21.89	COG0681	Signal peptidase IB
+Zymos_Lf_01764	CDS	1557	murE_1	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+Zymos_Lf_01765	CDS	1536	murE_2	6.3.2.7	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+Zymos_Lf_01766	CDS	1911	asnB_2	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+Zymos_Lf_01767	CDS	1467	lysP_2		COG0833	Lysine-specific permease
+Zymos_Lf_01768	CDS	378	mscL		COG1970	Large-conductance mechanosensitive channel
+Zymos_Lf_01769	CDS	1905	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Zymos_Lf_01770	CDS	1389	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+Zymos_Lf_01771	CDS	861				hypothetical protein
+Zymos_Lf_01772	CDS	834	misCA		COG0706	Membrane protein insertase MisCA
+Zymos_Lf_01773	CDS	345	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+Zymos_Lf_01774	CDS	135	rpmH			50S ribosomal protein L34
+Zymos_Lf_01775	CDS	444				hypothetical protein
+Zymos_Lf_01776	CDS	1317	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+Zymos_Lf_01777	CDS	1140	dnaN		COG0592	Beta sliding clamp
+Zymos_Lf_01778	CDS	219				hypothetical protein
+Zymos_Lf_01779	CDS	1122	recF		COG1195	DNA replication and repair protein RecF
+Zymos_Lf_01780	CDS	1950	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+Zymos_Lf_01781	CDS	2511	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+Zymos_Lf_01782	CDS	294	rpsF		COG0360	30S ribosomal protein S6
+Zymos_Lf_01783	CDS	726				Single-stranded DNA-binding protein
+Zymos_Lf_01784	CDS	237	rpsR		COG0238	30S ribosomal protein S18
+Zymos_Lf_01785	CDS	2034	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+Zymos_Lf_01786	CDS	453	rplI			50S ribosomal protein L9
+Zymos_Lf_01787	CDS	1404	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+Zymos_Lf_01788	CDS	1176				hypothetical protein
+Zymos_Lf_01789	CDS	285				hypothetical protein
+Zymos_Lf_01790	tRNA	75				tRNA-Lys(ctt)
+Zymos_Lf_01791	tRNA	75				tRNA-Lys(ctt)
+Zymos_Lf_01792	CDS	708	walR		COG0745	Transcriptional regulatory protein WalR
+Zymos_Lf_01793	CDS	1860	walK	2.7.13.3		Sensor protein kinase WalK
+Zymos_Lf_01794	CDS	1299				hypothetical protein
+Zymos_Lf_01795	CDS	801	yycI		COG4853	Two-component system WalR/WalK regulatory protein YycI
+Zymos_Lf_01796	CDS	816	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+Zymos_Lf_01797	CDS	1272	htrA	3.4.21.107	COG0265	Serine protease Do-like HtrA
+Zymos_Lf_01798	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+Zymos_Lf_01799	CDS	429	ywnA_3		COG1959	Putative HTH-type transcriptional regulator YwnA
+Zymos_Lf_01800	CDS	936	purR_2			HTH-type transcriptional repressor PurR
+Zymos_Lf_01801	CDS	1344				hypothetical protein
+Zymos_Lf_01802	CDS	2247	malP	2.4.1.8		Maltose phosphorylase
+Zymos_Lf_01803	CDS	669	yvdM	5.4.2.6	COG0637	Beta-phosphoglucomutase
+Zymos_Lf_01804	CDS	228				hypothetical protein
+Zymos_Lf_01805	CDS	189	ettA_2		COG0488	Energy-dependent translational throttle protein EttA
+Zymos_Lf_01806	CDS	978	yxeI_2		COG3049	putative protein YxeI
+Zymos_Lf_01807	CDS	936	menH_2	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+Zymos_Lf_01808	CDS	993	ldhD	1.1.1.28		D-lactate dehydrogenase
+Zymos_Lf_01809	CDS	1185	dapX_2	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+Zymos_Lf_01810	CDS	231				hypothetical protein
+Zymos_Lf_01811	CDS	2094	clpC_2			putative ATP-dependent Clp protease ATP-binding subunit
+Zymos_Lf_01812	CDS	1461	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+Zymos_Lf_01813	CDS	3738	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+Zymos_Lf_01814	CDS	4014	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+Zymos_Lf_01815	CDS	864	yvgN_2	1.1.1.-	COG0656	Glyoxal reductase
+Zymos_Lf_01816	CDS	1626				hypothetical protein
+Zymos_Lf_01817	CDS	357	mgsR		COG1393	Regulatory protein MgsR
+Zymos_Lf_01818	CDS	1116	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+Zymos_Lf_01819	CDS	732	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+Zymos_Lf_01820	CDS	555				hypothetical protein
+Zymos_Lf_01821	CDS	975	guaC	1.7.1.7		GMP reductase
+Zymos_Lf_01822	CDS	1290	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+Zymos_Lf_01823	CDS	1383	sad	1.2.1.16	COG1012	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+Zymos_Lf_01824	CDS	540	pyrR			Bifunctional protein pyrR
+Zymos_Lf_01825	CDS	732	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+Zymos_Lf_01826	CDS	627	pyrE_2	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+Zymos_Lf_01827	CDS	405				hypothetical protein
+Zymos_Lf_01828	CDS	924			COG2826	IS30 family transposase IS1070
+Zymos_Lf_01829	CDS	393				hypothetical protein
+Zymos_Lf_01830	CDS	1539	gtfA_1	2.4.1.-	COG0438	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+Zymos_Lf_01831	CDS	1497	gtfA_2	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+Zymos_Lf_01832	CDS	843	metQ_2		COG1464	D-methionine-binding lipoprotein MetQ
+Zymos_Lf_01833	CDS	1065	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+Zymos_Lf_01834	CDS	702	metP		COG2011	Methionine import system permease protein MetP
+Zymos_Lf_01835	CDS	1149	dapE_2	3.5.1.18		putative succinyl-diaminopimelate desuccinylase
+Zymos_Lf_01836	CDS	1425	rlmCD_2	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+Zymos_Lf_01837	CDS	642	brnQ_2		COG1114	Branched-chain amino acid transport system 2 carrier protein
+Zymos_Lf_01838	CDS	456				hypothetical protein
+Zymos_Lf_01839	CDS	1251				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_01840	CDS	300				hypothetical protein
+Zymos_Lf_01841	CDS	945	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+Zymos_Lf_01842	CDS	1293	dltD		COG3966	Protein DltD
+Zymos_Lf_01843	CDS	237	dltC			D-alanyl carrier protein
+Zymos_Lf_01844	CDS	1227				hypothetical protein
+Zymos_Lf_01845	CDS	1530	dltA	6.2.1.54		D-alanine--D-alanyl carrier protein ligase
+Zymos_Lf_01846	CDS	132				hypothetical protein
+Zymos_Lf_01847	CDS	1134	sbcD			Nuclease SbcCD subunit D
+Zymos_Lf_01848	CDS	3105	sbcC			Nuclease SbcCD subunit C
+Zymos_Lf_01849	CDS	1299	serS	6.1.1.11		Serine--tRNA ligase
+Zymos_Lf_01850	tRNA	73				tRNA-Glu(ttc)
+Zymos_Lf_01851	CDS	1014	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+Zymos_Lf_01852	tRNA	77				tRNA-Pro(cgg)
+Zymos_Lf_01853	CDS	1455	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+Zymos_Lf_01854	CDS	744	glnQ_3	3.6.3.-	COG1126	Glutamine transport ATP-binding protein GlnQ
+Zymos_Lf_01855	CDS	456				hypothetical protein
+Zymos_Lf_01856	CDS	1251				IS200/IS605 family transposase ISLjo5
+Zymos_Lf_01857	CDS	1374	cycA_2		COG1113	D-serine/D-alanine/glycine transporter
+Zymos_Lf_01858	CDS	1200	nupG		COG1972	Purine nucleoside transport protein NupG
+Zymos_Lf_01859	CDS	921	rihC	3.2.-.-	COG1957	Non-specific ribonucleoside hydrolase RihC
+Zymos_Lf_01860	CDS	738	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+Zymos_Lf_01861	CDS	936	noc		COG1475	Nucleoid occlusion protein
+Zymos_Lf_01862	CDS	834	spo0J		COG1475	Stage 0 sporulation protein J
+Zymos_Lf_01863	CDS	201				hypothetical protein
+Zymos_Lf_01864	CDS	1098	ychF		COG0012	Ribosome-binding ATPase YchF
+Zymos_Lf_01865	CDS	774				hypothetical protein
+Zymos_Lf_01866	CDS	1143	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+Zymos_Lf_01867	CDS	1008	tagU_2	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+Zymos_Lf_01868	CDS	771				hypothetical protein
+Zymos_Lf_01869	CDS	738	ywqD	2.7.10.2	COG0489	Tyrosine-protein kinase YwqD
+Zymos_Lf_01870	CDS	771	ywqE	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+Zymos_Lf_01871	CDS	627	pglC	2.7.8.36	COG2148	Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase
+Zymos_Lf_01872	CDS	834	wbbD	2.4.1.303	COG0463	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase
+Zymos_Lf_01873	CDS	252				IS3 family transposase IS153
+Zymos_Lf_01874	CDS	843				IS3 family transposase ISBce13
+Zymos_Lf_01875	CDS	339				hypothetical protein
+Zymos_Lf_01876	CDS	1212				hypothetical protein
+Zymos_Lf_01877	CDS	900				hypothetical protein
+Zymos_Lf_01878	CDS	987				hypothetical protein
+Zymos_Lf_01879	CDS	1221				IS256 family transposase ISCARN68
+Zymos_Lf_01880	CDS	1389				hypothetical protein
+Zymos_Lf_01881	CDS	306				hypothetical protein
+Zymos_Lf_01882	CDS	1188				IS256 family transposase IS1310
+Zymos_Lf_01883	CDS	768				IS256 family transposase ISPeth3
+Zymos_Lf_01884	CDS	207				hypothetical protein
+Zymos_Lf_01885	CDS	507				hypothetical protein
+Zymos_Lf_01886	CDS	699	phoP_2		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+Zymos_Lf_01887	CDS	1143	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+Zymos_Lf_01888	CDS	1296	dacA_3	3.4.16.4		D-alanyl-D-alanine carboxypeptidase DacA
+Zymos_Lf_01889	CDS	861				hypothetical protein
+Zymos_Lf_01890	CDS	420				hypothetical protein
+Zymos_Lf_01891	CDS	1176				IS200/IS605 family transposase ISLhe65
+Zymos_Lf_01892	CDS	372	ydeN	3.-.-.-	COG3545	Putative hydrolase YdeN
+Zymos_Lf_01893	CDS	1188	cfa	2.1.1.79	COG2230	Cyclopropane-fatty-acyl-phospholipid synthase
+Zymos_Lf_01894	CDS	180				hypothetical protein
+Zymos_Lf_01895	CDS	1041				hypothetical protein
+Zymos_Lf_01896	CDS	1662	fhs1	6.3.4.3		Formate--tetrahydrofolate ligase 1
+Zymos_Lf_01897	CDS	486	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+Zymos_Lf_01898	CDS	1140	purK_2	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+Zymos_Lf_01899	CDS	1296	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+Zymos_Lf_01900	CDS	1017				hypothetical protein
+Zymos_Lf_01901	CDS	1551				hypothetical protein
+Zymos_Lf_01902	CDS	468	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+Zymos_Lf_01903	CDS	225				hypothetical protein
+Zymos_Lf_01904	CDS	357	hxlR		COG1733	HTH-type transcriptional activator HxlR
+Zymos_Lf_01905	CDS	723	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Zymos_Lf_01906	CDS	243	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+Zymos_Lf_01907	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+Zymos_Lf_01908	CDS	2226	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+Zymos_Lf_01909	CDS	1464	purF	2.4.2.14		Amidophosphoribosyltransferase
+Zymos_Lf_01910	CDS	1038	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+Zymos_Lf_01911	CDS	582	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+Zymos_Lf_01912	CDS	1536	purH			Bifunctional purine biosynthesis protein PurH
+Zymos_Lf_01913	CDS	1254	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+Zymos_Lf_01914	CDS	1164				IS200/IS605 family transposase ISLhe65
+Zymos_Lf_01915	CDS	267				hypothetical protein
+Zymos_Lf_01916	CDS	696	gpmA_5	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Zymos_Lf_01917	CDS	1179	dapX_3	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+Zymos_Lf_01918	CDS	1005				hypothetical protein
+Zymos_Lf_01919	CDS	372				hypothetical protein
+Zymos_Lf_01920	CDS	309				hypothetical protein
+Zymos_Lf_01921	CDS	1932	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+Zymos_Lf_01922	CDS	435				hypothetical protein
+Zymos_Lf_01923	CDS	477				hypothetical protein
+Zymos_Lf_01924	rRNA	1573				16S ribosomal RNA
+Zymos_Lf_01925	rRNA	2917				23S ribosomal RNA
+Zymos_Lf_01926	rRNA	112				5S ribosomal RNA
+Zymos_Lf_01927	tRNA	74				tRNA-Thr(agt)
+Zymos_Lf_01928	CDS	1140			COG2826	IS30 family transposase ISCth3
+Zymos_Lf_01929	CDS	699				hypothetical protein
+Zymos_Lf_01930	CDS	1053				hypothetical protein
+Zymos_Lf_01931	CDS	1923	lacS_2		COG2190	Lactose permease
+Zymos_Lf_01932	CDS	987	lacR		COG1609	HTH-type transcriptional regulator LacR
+Zymos_Lf_01933	CDS	987			COG2826	IS30 family transposase ISSlu1
+Zymos_Lf_01934	CDS	450				IS200/IS605 family transposase ISLhe65
+Zymos_Lf_01935	CDS	657	nfnB	1.-.-.-	COG0778	Nitroreductase NfnB
+Zymos_Lf_01936	CDS	609	dhmA	3.8.1.5		Haloalkane dehalogenase

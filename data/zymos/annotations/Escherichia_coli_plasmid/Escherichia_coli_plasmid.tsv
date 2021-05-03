@@ -1,0 +1,128 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Zymos_Ec_plasmid_00001	CDS	3687				hypothetical protein
+Zymos_Ec_plasmid_00002	CDS	783				hypothetical protein
+Zymos_Ec_plasmid_00003	CDS	324				hypothetical protein
+Zymos_Ec_plasmid_00004	CDS	693				hypothetical protein
+Zymos_Ec_plasmid_00005	CDS	252				hypothetical protein
+Zymos_Ec_plasmid_00006	CDS	522				hypothetical protein
+Zymos_Ec_plasmid_00007	CDS	306				hypothetical protein
+Zymos_Ec_plasmid_00008	CDS	669				hypothetical protein
+Zymos_Ec_plasmid_00009	CDS	360				hypothetical protein
+Zymos_Ec_plasmid_00010	CDS	678				hypothetical protein
+Zymos_Ec_plasmid_00011	CDS	741				hypothetical protein
+Zymos_Ec_plasmid_00012	CDS	1341				hypothetical protein
+Zymos_Ec_plasmid_00013	CDS	1182				hypothetical protein
+Zymos_Ec_plasmid_00014	CDS	777				hypothetical protein
+Zymos_Ec_plasmid_00015	CDS	483				hypothetical protein
+Zymos_Ec_plasmid_00016	CDS	1323				hypothetical protein
+Zymos_Ec_plasmid_00017	CDS	180				hypothetical protein
+Zymos_Ec_plasmid_00018	CDS	216				hypothetical protein
+Zymos_Ec_plasmid_00019	CDS	153				hypothetical protein
+Zymos_Ec_plasmid_00020	CDS	291				hypothetical protein
+Zymos_Ec_plasmid_00021	tRNA	75				tRNA-Asn(gtt)
+Zymos_Ec_plasmid_00022	tRNA	87				tRNA-Tyr(gta)
+Zymos_Ec_plasmid_00023	tRNA	76				tRNA-Thr(tgt)
+Zymos_Ec_plasmid_00024	tRNA	87				tRNA-Ser(tga)
+Zymos_Ec_plasmid_00025	CDS	351				hypothetical protein
+Zymos_Ec_plasmid_00026	CDS	246	grxA		COG0695	Glutaredoxin 1
+Zymos_Ec_plasmid_00027	CDS	1104				hypothetical protein
+Zymos_Ec_plasmid_00028	CDS	387				hypothetical protein
+Zymos_Ec_plasmid_00029	CDS	213				hypothetical protein
+Zymos_Ec_plasmid_00030	CDS	2109				hypothetical protein
+Zymos_Ec_plasmid_00031	CDS	1236				hypothetical protein
+Zymos_Ec_plasmid_00032	CDS	3519	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+Zymos_Ec_plasmid_00033	CDS	432				hypothetical protein
+Zymos_Ec_plasmid_00034	CDS	1029				hypothetical protein
+Zymos_Ec_plasmid_00035	CDS	945	xni	3.1.-.-		Flap endonuclease Xni
+Zymos_Ec_plasmid_00036	CDS	267				hypothetical protein
+Zymos_Ec_plasmid_00037	CDS	2340	recA			Protein RecA
+Zymos_Ec_plasmid_00038	CDS	201				hypothetical protein
+Zymos_Ec_plasmid_00039	CDS	831				hypothetical protein
+Zymos_Ec_plasmid_00040	CDS	426				hypothetical protein
+Zymos_Ec_plasmid_00041	CDS	276				hypothetical protein
+Zymos_Ec_plasmid_00042	CDS	336				hypothetical protein
+Zymos_Ec_plasmid_00043	CDS	213				hypothetical protein
+Zymos_Ec_plasmid_00044	CDS	1056	repB			RepFIB replication protein A
+Zymos_Ec_plasmid_00045	CDS	645				hypothetical protein
+Zymos_Ec_plasmid_00046	CDS	933				hypothetical protein
+Zymos_Ec_plasmid_00047	CDS	1917	smc			Chromosome partition protein Smc
+Zymos_Ec_plasmid_00048	CDS	744				hypothetical protein
+Zymos_Ec_plasmid_00049	CDS	570				hypothetical protein
+Zymos_Ec_plasmid_00050	CDS	2316	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha
+Zymos_Ec_plasmid_00051	CDS	1143	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 1 subunit beta
+Zymos_Ec_plasmid_00052	CDS	870				hypothetical protein
+Zymos_Ec_plasmid_00053	CDS	1104	thyA2	2.1.1.45	COG0207	Thymidylate synthase 2
+Zymos_Ec_plasmid_00054	CDS	462				hypothetical protein
+Zymos_Ec_plasmid_00055	CDS	477	dfrD	1.5.1.3		Dihydrofolate reductase
+Zymos_Ec_plasmid_00056	CDS	645				hypothetical protein
+Zymos_Ec_plasmid_00057	CDS	420				hypothetical protein
+Zymos_Ec_plasmid_00058	CDS	558	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+Zymos_Ec_plasmid_00059	CDS	810				hypothetical protein
+Zymos_Ec_plasmid_00060	CDS	594				hypothetical protein
+Zymos_Ec_plasmid_00061	CDS	231				hypothetical protein
+Zymos_Ec_plasmid_00062	CDS	594	rnhA	3.1.26.4		Ribonuclease H
+Zymos_Ec_plasmid_00063	CDS	495				hypothetical protein
+Zymos_Ec_plasmid_00064	CDS	189				hypothetical protein
+Zymos_Ec_plasmid_00065	CDS	426				hypothetical protein
+Zymos_Ec_plasmid_00066	CDS	159				hypothetical protein
+Zymos_Ec_plasmid_00067	CDS	570				hypothetical protein
+Zymos_Ec_plasmid_00068	CDS	282				hypothetical protein
+Zymos_Ec_plasmid_00069	CDS	573				hypothetical protein
+Zymos_Ec_plasmid_00070	CDS	1686				hypothetical protein
+Zymos_Ec_plasmid_00071	CDS	705				hypothetical protein
+Zymos_Ec_plasmid_00072	CDS	381				hypothetical protein
+Zymos_Ec_plasmid_00073	CDS	552				hypothetical protein
+Zymos_Ec_plasmid_00074	CDS	402				hypothetical protein
+Zymos_Ec_plasmid_00075	CDS	189				hypothetical protein
+Zymos_Ec_plasmid_00076	CDS	705				hypothetical protein
+Zymos_Ec_plasmid_00077	CDS	222				hypothetical protein
+Zymos_Ec_plasmid_00078	CDS	384				hypothetical protein
+Zymos_Ec_plasmid_00079	CDS	627				hypothetical protein
+Zymos_Ec_plasmid_00080	CDS	390	umuD	3.4.21.-	COG1974	Protein UmuD
+Zymos_Ec_plasmid_00081	CDS	1101	apbC		COG0489	Iron-sulfur cluster carrier protein
+Zymos_Ec_plasmid_00082	CDS	2034	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+Zymos_Ec_plasmid_00083	CDS	300				hypothetical protein
+Zymos_Ec_plasmid_00084	CDS	735				hypothetical protein
+Zymos_Ec_plasmid_00085	CDS	330				hypothetical protein
+Zymos_Ec_plasmid_00086	CDS	312				hypothetical protein
+Zymos_Ec_plasmid_00087	CDS	396				hypothetical protein
+Zymos_Ec_plasmid_00088	CDS	375				hypothetical protein
+Zymos_Ec_plasmid_00089	CDS	282				hypothetical protein
+Zymos_Ec_plasmid_00090	CDS	483				hypothetical protein
+Zymos_Ec_plasmid_00091	CDS	231				hypothetical protein
+Zymos_Ec_plasmid_00092	CDS	249				hypothetical protein
+Zymos_Ec_plasmid_00093	CDS	651				hypothetical protein
+Zymos_Ec_plasmid_00094	CDS	309				hypothetical protein
+Zymos_Ec_plasmid_00095	CDS	525				hypothetical protein
+Zymos_Ec_plasmid_00096	CDS	465				hypothetical protein
+Zymos_Ec_plasmid_00097	CDS	279				hypothetical protein
+Zymos_Ec_plasmid_00098	CDS	1560	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+Zymos_Ec_plasmid_00099	CDS	681	noc			Nucleoid occlusion protein
+Zymos_Ec_plasmid_00100	CDS	669				hypothetical protein
+Zymos_Ec_plasmid_00101	CDS	666				hypothetical protein
+Zymos_Ec_plasmid_00102	CDS	891				hypothetical protein
+Zymos_Ec_plasmid_00103	CDS	267				hypothetical protein
+Zymos_Ec_plasmid_00104	CDS	633				hypothetical protein
+Zymos_Ec_plasmid_00105	CDS	1257				hypothetical protein
+Zymos_Ec_plasmid_00106	CDS	1575				hypothetical protein
+Zymos_Ec_plasmid_00107	CDS	888				hypothetical protein
+Zymos_Ec_plasmid_00108	CDS	876				hypothetical protein
+Zymos_Ec_plasmid_00109	CDS	921				Ice-binding protein 1
+Zymos_Ec_plasmid_00110	CDS	435				hypothetical protein
+Zymos_Ec_plasmid_00111	CDS	834				hypothetical protein
+Zymos_Ec_plasmid_00112	CDS	345				hypothetical protein
+Zymos_Ec_plasmid_00113	CDS	474				hypothetical protein
+Zymos_Ec_plasmid_00114	CDS	384				hypothetical protein
+Zymos_Ec_plasmid_00115	CDS	747				hypothetical protein
+Zymos_Ec_plasmid_00116	CDS	318				hypothetical protein
+Zymos_Ec_plasmid_00117	CDS	270				hypothetical protein
+Zymos_Ec_plasmid_00118	CDS	579				hypothetical protein
+Zymos_Ec_plasmid_00119	CDS	888				IS3 family transposase IS629
+Zymos_Ec_plasmid_00120	CDS	327				IS3 family transposase ISEc25
+Zymos_Ec_plasmid_00121	CDS	4116				hypothetical protein
+Zymos_Ec_plasmid_00122	CDS	336				hypothetical protein
+Zymos_Ec_plasmid_00123	CDS	699				hypothetical protein
+Zymos_Ec_plasmid_00124	CDS	798				hypothetical protein
+Zymos_Ec_plasmid_00125	CDS	594				hypothetical protein
+Zymos_Ec_plasmid_00126	CDS	4728				hypothetical protein
+Zymos_Ec_plasmid_00127	CDS	411				hypothetical protein

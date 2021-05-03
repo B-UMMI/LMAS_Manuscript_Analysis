@@ -1,0 +1,4 @@
+organism: Staphylococcus aureus strain 
+contigs: 1
+bases: 6337
+CDS: 5
