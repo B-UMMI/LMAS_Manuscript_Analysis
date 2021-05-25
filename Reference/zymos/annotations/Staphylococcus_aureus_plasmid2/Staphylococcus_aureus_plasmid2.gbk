@@ -1,0 +1,74 @@
+LOCUS       Staphylococcus_aureus_plasmid22216 bp   DNA linear      03-MAY-2021
+DEFINITION  Staphylococcus aureus strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Staphylococcus aureus
+  ORGANISM  Staphylococcus aureus
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..2216
+                     /organism="Staphylococcus aureus"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             1108..1431
+                     /gene="qacC"
+                     /locus_tag="Zymos_Sa_p2_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P14319"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Quaternary ammonium compound-resistance protein
+                     QacC"
+                     /translation="MHYLYLFISIATEIIGTSFLKTSEGFTKLWPTLGTLLSFGICFY
+                     FLSLTIKFLPLNITYATWAGLGLVLTTIISVIVFKENVNLISIISIGLIVIGVVLLNV
+                     FGESH"
+     CDS             complement(2043..2213)
+                     /locus_tag="Zymos_Sa_p2_00002"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MLKQKHKILNLDDAEDGNLINTSDEDKTTDEEEKAHSITAIWNF
+                     EKQNYYLKDLKR"
+ORIGIN      
+        1 accataactc aacatacgtt ttcggtataa acctttttcc aaatcattca cgatttcttg
+       61 atttctttca tcatcatcag ttaaaaaatc agatgactta accgagtatt ttgaagtctc
+      121 tttgatagct gcttgaatat ctttatcgcc tttttgattc ggtttgatcg ctttgatatt
+      181 tgcgactggt cgataatcaa cttgcaatgc tttttgccat aaatcgaccc actcactttg
+      241 ttttatatac tgaccttgct ttttaaaata cgcactttca acacataata aaacatgcat
+      301 atgttgatta taactaccgt catttttatt aaccgttact tcggttgaac gtaaaaatcc
+      361 aattaaattc tttttaactt ttgtatacat ttttaattta ttaaaagcct tagacatatg
+      421 ttttaaactt tgttctaaat ggtcaccatc tattgcattt cgtgttgata atgtgagaaa
+      481 taaccaacgt gctttcggct tttcttttac cacttcttca atcactcttt gagcttgata
+      541 actatttttc atagcacgcc tccaattaca aactggacat aattttgact tacaaaacca
+      601 tgtcttatgt aattttaaat aaccttcatc agttggcttg aactctaaga cgttaccaca
+      661 ttgttttaca ttaaaagctt ttttaatttt taagatttct agtatatctg cataacttac
+      721 attatcaatt ttcttctctc tccatgggcg ttgtttccca cttttcgtca tatcttttaa
+      781 tgtttcgtta tcttgatttt cgtctataca tctagtagta taagaatgca tataaaaacc
+      841 tccagtattt gattttatct cgacaattta atcttattac tggagttttt ttatgtcaaa
+      901 ttttattttc cacgttaaaa atagctaaaa acgctgtaat atcaaaattc aaacgacttt
+      961 ttatatcttt gaattatttc tatatagtat caagacaaga agaaactcgt tttcaactcg
+     1021 ttttaaaata caaatcttaa aaatttttct ttcacttaat ataagttaaa atataagcta
+     1081 tcaaatagaa attaaaggag aagcttaatg cattatttat atttatttat ctcaattgca
+     1141 acagaaataa tcggaactag ttttttaaaa acatcagagg gtttcacaaa gttatggcca
+     1201 acattaggta cactactttc gtttggaatt tgcttttatt ttttaagttt aacaataaaa
+     1261 tttttgccct taaatataac ttatgcaaca tgggcaggtc taggattagt attaacaaca
+     1321 ataatctcag ttatcgtttt taaagaaaat gttaatttaa ttagtataat ttctattggc
+     1381 ttaattgtta taggtgtagt gctcttaaat gtatttggag aaagccattg attattttat
+     1441 tccaattgct ttattgacgt tgagcctcgg aacccttaac aatcccaaaa cttgtcgaat
+     1501 gatcggctta atagctcacg ctatgccgac attcgtctgc aagtttagtt aagggttctt
+     1561 ctcaacatca ataaattttc tcggcataaa tgcatgcttt aattatgtta taattaagca
+     1621 aattgagtag gaaaaatata gtactcaaaa attaaattaa ttagcttttc tattatttgt
+     1681 gttattgcta agtacaactt ttttattgtt gcacttagca ttttttattt ttaaattttc
+     1741 aaagatacca aattttaaat acctttattt tgaattctaa gggggcattt taaagattta
+     1801 agggtaaatc atatagtttt atacctaaaa acctacacaa gcttttaaaa cgcaaatatg
+     1861 agccaaataa atatattcta attccacaaa caaaaatttg agcaaaacca gtgactaatt
+     1921 ttttagacac tgcccagtta catgcaaatt taaaaattgg cataaaaact ggtcaaccat
+     1981 acaggttgaa cgatatagtt cccgcagggg caaaaaagca taaaaaaacg ctagctttta
+     2041 agctaacgtt tcaaatcttt taagtaataa ttttgttttt caaaattcca aattgccgta
+     2101 attgagtgtg ctttttcttc ttcgtctgtt gttttatctt cgtcacttgt attaatcaaa
+     2161 ttgccatctt cggcatcgtc taaatttaaa attttatgtt tttgtttaag caatcc
+//

@@ -1,0 +1,6 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+Zymos_Sa_p1_00001	CDS	501				hypothetical protein
+Zymos_Sa_p1_00002	CDS	810	knt	2.7.7.-		Kanamycin nucleotidyltransferase
+Zymos_Sa_p1_00003	CDS	1377	tet(L)			tetracycline efflux MFS transporter Tet(L)
+Zymos_Sa_p1_00004	CDS	384				hypothetical protein
+Zymos_Sa_p1_00005	CDS	1227				hypothetical protein

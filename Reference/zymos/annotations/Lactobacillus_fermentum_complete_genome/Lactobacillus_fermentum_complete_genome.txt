@@ -1,0 +1,8 @@
+organism: Lactobacillus fermentum strain 
+contigs: 1
+bases: 1905333
+CDS: 1861
+CRISPR: 1
+rRNA: 15
+tRNA: 59
+tmRNA: 1
