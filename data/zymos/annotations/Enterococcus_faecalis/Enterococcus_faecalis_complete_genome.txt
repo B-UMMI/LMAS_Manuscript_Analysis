@@ -1,8 +1,0 @@
-organism: Enterococcus faecalis strain 
-contigs: 1
-bases: 2845392
-CDS: 2662
-CRISPR: 2
-rRNA: 12
-tRNA: 62
-tmRNA: 1

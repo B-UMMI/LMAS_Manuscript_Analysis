@@ -1,8 +1,0 @@
-organism: Listeria monocytogenes strain 
-contigs: 1
-bases: 2992342
-CDS: 2904
-CRISPR: 1
-rRNA: 18
-tRNA: 67
-tmRNA: 1

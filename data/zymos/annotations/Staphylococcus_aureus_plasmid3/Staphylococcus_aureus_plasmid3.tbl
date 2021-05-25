@@ -1,9 +1,0 @@
->Feature Staphylococcus_aureus_plasmid3
-45	161	CDS
-			inference	ab initio prediction:Prodigal:002006
-			locus_tag	Zymos_Sa_p3_00001
-			product	hypothetical protein
-345	1349	CDS
-			inference	ab initio prediction:Prodigal:002006
-			locus_tag	Zymos_Sa_p3_00002
-			product	hypothetical protein

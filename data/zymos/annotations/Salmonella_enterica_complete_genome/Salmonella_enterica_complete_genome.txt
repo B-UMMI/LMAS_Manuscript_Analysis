@@ -1,8 +1,0 @@
-organism: Salmonella enterica strain 
-contigs: 1
-bases: 4759746
-CDS: 4542
-CRISPR: 2
-rRNA: 22
-tRNA: 88
-tmRNA: 1
