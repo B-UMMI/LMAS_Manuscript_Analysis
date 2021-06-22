@@ -15,9 +15,9 @@
 13,Enterococcus_faecalis,SPAdes,0.3333333333333333,135661
 14,Enterococcus_faecalis,SPAdes,0.4444444444444444,118250
 15,Enterococcus_faecalis,SPAdes,0.5555555555555556,86070
-16,Enterococcus_faecalis,SPAdes,0.6666666666666666,62547
-17,Enterococcus_faecalis,SPAdes,0.7777777777777777,36227
-18,Enterococcus_faecalis,SPAdes,0.8888888888888888,24777
+16,Enterococcus_faecalis,SPAdes,0.6666666666666666,63664
+17,Enterococcus_faecalis,SPAdes,0.7777777777777777,39072
+18,Enterococcus_faecalis,SPAdes,0.8888888888888888,25141
 19,Enterococcus_faecalis,SPAdes,1.0,1503
 20,Escherichia_coli_plasmid,SPAdes,0.0,53083
 21,Escherichia_coli_plasmid,SPAdes,0.1111111111111111,53083
@@ -34,9 +34,9 @@
 32,Escherichia_coli,SPAdes,0.2222222222222222,112818
 33,Escherichia_coli,SPAdes,0.3333333333333333,93862
 34,Escherichia_coli,SPAdes,0.4444444444444444,70705
-35,Escherichia_coli,SPAdes,0.5555555555555556,62587
+35,Escherichia_coli,SPAdes,0.5555555555555556,62286
 36,Escherichia_coli,SPAdes,0.6666666666666666,46254
-37,Escherichia_coli,SPAdes,0.7777777777777777,31898
+37,Escherichia_coli,SPAdes,0.7777777777777777,32810
 38,Escherichia_coli,SPAdes,0.8888888888888888,17383
 39,Escherichia_coli,SPAdes,1.0,1048
 40,Lactobacillus_fermentum,SPAdes,0.0,114717
@@ -47,7 +47,7 @@
 45,Lactobacillus_fermentum,SPAdes,0.5555555555555556,32448
 46,Lactobacillus_fermentum,SPAdes,0.6666666666666666,27539
 47,Lactobacillus_fermentum,SPAdes,0.7777777777777777,16115
-48,Lactobacillus_fermentum,SPAdes,0.8888888888888888,9864
+48,Lactobacillus_fermentum,SPAdes,0.8888888888888888,8935
 49,Lactobacillus_fermentum,SPAdes,1.0,1002
 50,Listeria_monocytogenes,SPAdes,0.0,355727
 51,Listeria_monocytogenes,SPAdes,0.1111111111111111,355727
@@ -83,10 +83,10 @@
 81,Staphylococcus_aureus,SPAdes,0.1111111111111111,309158
 82,Staphylococcus_aureus,SPAdes,0.2222222222222222,129992
 83,Staphylococcus_aureus,SPAdes,0.3333333333333333,93258
-84,Staphylococcus_aureus,SPAdes,0.4444444444444444,76778
+84,Staphylococcus_aureus,SPAdes,0.4444444444444444,87902
 85,Staphylococcus_aureus,SPAdes,0.5555555555555556,67856
 86,Staphylococcus_aureus,SPAdes,0.6666666666666666,53363
-87,Staphylococcus_aureus,SPAdes,0.7777777777777777,48436
+87,Staphylococcus_aureus,SPAdes,0.7777777777777777,51987
 88,Staphylococcus_aureus,SPAdes,0.8888888888888888,32522
 89,Staphylococcus_aureus,SPAdes,1.0,1843
 90,Staphylococcus_aureus_plasmid1,SPAdes,0.0,0

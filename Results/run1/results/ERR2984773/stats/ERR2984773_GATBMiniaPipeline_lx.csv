@@ -16,9 +16,9 @@
 14,Enterococcus_faecalis,GATBMiniaPipeline,0.4444444444444444,4
 15,Enterococcus_faecalis,GATBMiniaPipeline,0.5555555555555556,6
 16,Enterococcus_faecalis,GATBMiniaPipeline,0.6666666666666666,8
-17,Enterococcus_faecalis,GATBMiniaPipeline,0.7777777777777777,12
-18,Enterococcus_faecalis,GATBMiniaPipeline,0.8888888888888888,19
-19,Enterococcus_faecalis,GATBMiniaPipeline,1.0,
+17,Enterococcus_faecalis,GATBMiniaPipeline,0.7777777777777777,11
+18,Enterococcus_faecalis,GATBMiniaPipeline,0.8888888888888888,17
+19,Enterococcus_faecalis,GATBMiniaPipeline,1.0,28
 20,Escherichia_coli_plasmid,GATBMiniaPipeline,0.0,0
 21,Escherichia_coli_plasmid,GATBMiniaPipeline,0.1111111111111111,0
 22,Escherichia_coli_plasmid,GATBMiniaPipeline,0.2222222222222222,0
@@ -75,9 +75,9 @@
 73,Salmonella_enterica,GATBMiniaPipeline,0.3333333333333333,11
 74,Salmonella_enterica,GATBMiniaPipeline,0.4444444444444444,18
 75,Salmonella_enterica,GATBMiniaPipeline,0.5555555555555556,27
-76,Salmonella_enterica,GATBMiniaPipeline,0.6666666666666666,38
-77,Salmonella_enterica,GATBMiniaPipeline,0.7777777777777777,53
-78,Salmonella_enterica,GATBMiniaPipeline,0.8888888888888888,80
+76,Salmonella_enterica,GATBMiniaPipeline,0.6666666666666666,39
+77,Salmonella_enterica,GATBMiniaPipeline,0.7777777777777777,54
+78,Salmonella_enterica,GATBMiniaPipeline,0.8888888888888888,81
 79,Salmonella_enterica,GATBMiniaPipeline,1.0,
 80,Staphylococcus_aureus,GATBMiniaPipeline,0.0,0
 81,Staphylococcus_aureus,GATBMiniaPipeline,0.1111111111111111,1

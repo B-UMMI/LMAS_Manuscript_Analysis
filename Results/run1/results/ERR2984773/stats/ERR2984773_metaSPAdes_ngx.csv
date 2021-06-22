@@ -16,9 +16,9 @@
 14,Enterococcus_faecalis,metaSPAdes,0.4444444444444444,146166
 15,Enterococcus_faecalis,metaSPAdes,0.5555555555555556,117956
 16,Enterococcus_faecalis,metaSPAdes,0.6666666666666666,79003
-17,Enterococcus_faecalis,metaSPAdes,0.7777777777777777,46573
-18,Enterococcus_faecalis,metaSPAdes,0.8888888888888888,29217
-19,Enterococcus_faecalis,metaSPAdes,1.0,0
+17,Enterococcus_faecalis,metaSPAdes,0.7777777777777777,47532
+18,Enterococcus_faecalis,metaSPAdes,0.8888888888888888,31531
+19,Enterococcus_faecalis,metaSPAdes,1.0,1506
 20,Escherichia_coli_plasmid,metaSPAdes,0.0,55105
 21,Escherichia_coli_plasmid,metaSPAdes,0.1111111111111111,55105
 22,Escherichia_coli_plasmid,metaSPAdes,0.2222222222222222,55105
@@ -47,7 +47,7 @@
 45,Lactobacillus_fermentum,metaSPAdes,0.5555555555555556,28360
 46,Lactobacillus_fermentum,metaSPAdes,0.6666666666666666,23375
 47,Lactobacillus_fermentum,metaSPAdes,0.7777777777777777,14453
-48,Lactobacillus_fermentum,metaSPAdes,0.8888888888888888,6343
+48,Lactobacillus_fermentum,metaSPAdes,0.8888888888888888,7550
 49,Lactobacillus_fermentum,metaSPAdes,1.0,0
 50,Listeria_monocytogenes,metaSPAdes,0.0,473277
 51,Listeria_monocytogenes,metaSPAdes,0.1111111111111111,473277
