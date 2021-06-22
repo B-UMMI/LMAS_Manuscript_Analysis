@@ -1,0 +1,14 @@
+,Assembler,Reference,Contig,Contig Length,Phred Quality Score
+0,VelvetOptimizer,Bacillus_subtilis,NODE_81504_length_1007_cov_37.951340,1035,60
+1,VelvetOptimizer,Bacillus_subtilis,NODE_464038_length_991_cov_46.952572,1019,60
+2,VelvetOptimizer,Escherichia_coli,NODE_36678_length_981_cov_28.763506,1009,60
+3,VelvetOptimizer,Escherichia_coli,NODE_50172_length_1008_cov_39.837303,1036,60
+4,VelvetOptimizer,Escherichia_coli,NODE_60791_length_972_cov_38.890945,1000,60
+5,VelvetOptimizer,Escherichia_coli,NODE_108895_length_1127_cov_45.716949,1155,60
+6,VelvetOptimizer,Escherichia_coli,NODE_207987_length_1311_cov_45.085430,1339,60
+7,VelvetOptimizer,Escherichia_coli,NODE_239865_length_1190_cov_39.614285,1218,60
+8,VelvetOptimizer,Escherichia_coli,NODE_475836_length_1017_cov_43.311703,1045,60
+9,VelvetOptimizer,Pseudomonas_aeruginosa,NODE_52649_length_1122_cov_42.189838,1150,60
+10,VelvetOptimizer,Pseudomonas_aeruginosa,NODE_52896_length_1153_cov_34.826538,1181,60
+11,VelvetOptimizer,Pseudomonas_aeruginosa,NODE_118720_length_1114_cov_39.394077,1142,60
+12,VelvetOptimizer,Salmonella_enterica,NODE_338230_length_1245_cov_31.675503,1273,60

@@ -1,0 +1,13 @@
+NODE_36678_length_981_cov_28.763506	1009	0	1009	+	Escherichia_coli	14296302	9298874	9299883	1009	1009	0	NM:i:0	ms:i:1009	AS:i:1009	nn:i:0	tp:A:P	cm:i:180	s1:i:1006	s2:i:1006	de:f:0	rl:i:0	cs:Z::1009
+NODE_50172_length_1008_cov_39.837303	1036	0	1036	-	Escherichia_coli	14296302	10522592	10523628	1036	1036	0	NM:i:0	ms:i:1036	AS:i:1036	nn:i:0	tp:A:P	cm:i:192	s1:i:1030	s2:i:1030	de:f:0	rl:i:0	cs:Z::1036
+NODE_52649_length_1122_cov_42.189838	1150	0	1150	-	Pseudomonas_aeruginosa	20376990	11625794	11626944	1150	1150	0	NM:i:0	ms:i:1150	AS:i:1150	nn:i:0	tp:A:P	cm:i:203	s1:i:1134	s2:i:1134	de:f:0	rl:i:0	cs:Z::1150
+NODE_52896_length_1153_cov_34.826538	1181	0	1181	+	Pseudomonas_aeruginosa	20376990	3114527	3115708	1181	1181	0	NM:i:0	ms:i:1181	AS:i:1181	nn:i:0	tp:A:P	cm:i:210	s1:i:1179	s2:i:1179	de:f:0	rl:i:0	cs:Z::1181
+NODE_60791_length_972_cov_38.890945	1000	0	1000	-	Escherichia_coli	14296302	519765	520765	1000	1000	0	NM:i:0	ms:i:1000	AS:i:1000	nn:i:0	tp:A:P	cm:i:199	s1:i:999	s2:i:999	de:f:0	rl:i:0	cs:Z::1000
+NODE_81504_length_1007_cov_37.951340	1035	0	1035	+	Bacillus_subtilis	12137031	351550	352585	1035	1035	0	NM:i:0	ms:i:1035	AS:i:1035	nn:i:0	tp:A:P	cm:i:183	s1:i:1031	s2:i:1031	de:f:0	rl:i:0	cs:Z::1035
+NODE_108895_length_1127_cov_45.716949	1155	0	1155	-	Escherichia_coli	14296302	2098761	2099916	1155	1155	0	NM:i:0	ms:i:1155	AS:i:1155	nn:i:0	tp:A:P	cm:i:203	s1:i:1148	s2:i:1148	de:f:0	rl:i:0	cs:Z::1155
+NODE_118720_length_1114_cov_39.394077	1142	0	1142	+	Pseudomonas_aeruginosa	20376990	10607124	10608266	1142	1142	0	NM:i:0	ms:i:1142	AS:i:1142	nn:i:0	tp:A:P	cm:i:207	s1:i:1135	s2:i:1135	de:f:0	rl:i:0	cs:Z::1142
+NODE_207987_length_1311_cov_45.085430	1339	0	1339	+	Escherichia_coli	14296302	9328202	9329541	1339	1339	0	NM:i:0	ms:i:1339	AS:i:1339	nn:i:0	tp:A:P	cm:i:243	s1:i:1337	s2:i:1337	de:f:0	rl:i:0	cs:Z::1339
+NODE_239865_length_1190_cov_39.614285	1218	0	1218	-	Escherichia_coli	14296302	10577397	10578615	1218	1218	0	NM:i:0	ms:i:1218	AS:i:1218	nn:i:0	tp:A:P	cm:i:225	s1:i:1207	s2:i:1207	de:f:0	rl:i:0	cs:Z::1218
+NODE_338230_length_1245_cov_31.675503	1273	0	1273	+	Salmonella_enterica	14279238	55454	56727	1273	1273	0	NM:i:0	ms:i:1273	AS:i:1273	nn:i:0	tp:A:P	cm:i:223	s1:i:1262	s2:i:1262	de:f:0	rl:i:0	cs:Z::1273
+NODE_464038_length_991_cov_46.952572	1019	0	1019	+	Bacillus_subtilis	12137031	5248029	5249048	1019	1019	0	NM:i:0	ms:i:1019	AS:i:1019	nn:i:0	tp:A:P	cm:i:185	s1:i:1012	s2:i:1012	de:f:0	rl:i:0	cs:Z::1019
+NODE_475836_length_1017_cov_43.311703	1045	0	1045	-	Escherichia_coli	14296302	5887712	5888757	1045	1045	0	NM:i:0	ms:i:1045	AS:i:1045	nn:i:0	tp:A:P	cm:i:177	s1:i:1028	s2:i:1028	de:f:0	rl:i:0	cs:Z::1045
