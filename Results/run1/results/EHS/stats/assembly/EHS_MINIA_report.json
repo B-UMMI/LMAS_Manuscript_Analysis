@@ -1,1 +1,1 @@
-{"assembler":"MINIA","sample_id":"EHS","global":{"contigs":17451,"basepairs":30676700,"max_contig_size":161812,"N50":18179,"mapped_reads":79.52153326797736,"Ns":0},"filtered":{"contigs":3552,"basepairs":28214589,"N50":21034,"Ns":0}}
+{"assembler":"MINIA","sample_id":"EHS","global":{"contigs":17453,"basepairs":30676667,"max_contig_size":161812,"N50":18179,"mapped_reads":79.52027554679286,"Ns":0},"filtered":{"contigs":3552,"basepairs":28214589,"N50":21034,"Ns":0}}

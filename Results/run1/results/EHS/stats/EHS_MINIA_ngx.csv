@@ -13,11 +13,11 @@
 11,Enterococcus_faecalis,MINIA,0.1111111111111111,60508
 12,Enterococcus_faecalis,MINIA,0.2222222222222222,50425
 13,Enterococcus_faecalis,MINIA,0.3333333333333333,40626
-14,Enterococcus_faecalis,MINIA,0.4444444444444444,34471
-15,Enterococcus_faecalis,MINIA,0.5555555555555556,26365
-16,Enterococcus_faecalis,MINIA,0.6666666666666666,19882
-17,Enterococcus_faecalis,MINIA,0.7777777777777777,13356
-18,Enterococcus_faecalis,MINIA,0.8888888888888888,6965
+14,Enterococcus_faecalis,MINIA,0.4444444444444444,34423
+15,Enterococcus_faecalis,MINIA,0.5555555555555556,26282
+16,Enterococcus_faecalis,MINIA,0.6666666666666666,19684
+17,Enterococcus_faecalis,MINIA,0.7777777777777777,12760
+18,Enterococcus_faecalis,MINIA,0.8888888888888888,6633
 19,Enterococcus_faecalis,MINIA,1.0,0
 20,Escherichia_coli_plasmid,MINIA,0.0,36371
 21,Escherichia_coli_plasmid,MINIA,0.1111111111111111,36371
@@ -36,7 +36,7 @@
 34,Escherichia_coli,MINIA,0.4444444444444444,3840
 35,Escherichia_coli,MINIA,0.5555555555555556,2661
 36,Escherichia_coli,MINIA,0.6666666666666666,1838
-37,Escherichia_coli,MINIA,0.7777777777777777,1092
+37,Escherichia_coli,MINIA,0.7777777777777777,1089
 38,Escherichia_coli,MINIA,0.8888888888888888,0
 39,Escherichia_coli,MINIA,1.0,0
 40,Lactobacillus_fermentum,MINIA,0.0,66009
@@ -55,9 +55,9 @@
 53,Listeria_monocytogenes,MINIA,0.3333333333333333,59845
 54,Listeria_monocytogenes,MINIA,0.4444444444444444,47769
 55,Listeria_monocytogenes,MINIA,0.5555555555555556,38246
-56,Listeria_monocytogenes,MINIA,0.6666666666666666,29781
-57,Listeria_monocytogenes,MINIA,0.7777777777777777,20323
-58,Listeria_monocytogenes,MINIA,0.8888888888888888,9743
+56,Listeria_monocytogenes,MINIA,0.6666666666666666,30203
+57,Listeria_monocytogenes,MINIA,0.7777777777777777,22848
+58,Listeria_monocytogenes,MINIA,0.8888888888888888,11304
 59,Listeria_monocytogenes,MINIA,1.0,0
 60,Pseudomonas_aeruginosa,MINIA,0.0,105985
 61,Pseudomonas_aeruginosa,MINIA,0.1111111111111111,52779
@@ -76,7 +76,7 @@
 74,Salmonella_enterica,MINIA,0.4444444444444444,4256
 75,Salmonella_enterica,MINIA,0.5555555555555556,2928
 76,Salmonella_enterica,MINIA,0.6666666666666666,1965
-77,Salmonella_enterica,MINIA,0.7777777777777777,1167
+77,Salmonella_enterica,MINIA,0.7777777777777777,1169
 78,Salmonella_enterica,MINIA,0.8888888888888888,0
 79,Salmonella_enterica,MINIA,1.0,0
 80,Staphylococcus_aureus,MINIA,0.0,90652

@@ -15,9 +15,9 @@
 13,Enterococcus_faecalis,MINIA,0.3333333333333333,15
 14,Enterococcus_faecalis,MINIA,0.4444444444444444,24
 15,Enterococcus_faecalis,MINIA,0.5555555555555556,34
-16,Enterococcus_faecalis,MINIA,0.6666666666666666,47
-17,Enterococcus_faecalis,MINIA,0.7777777777777777,66
-18,Enterococcus_faecalis,MINIA,0.8888888888888888,97
+16,Enterococcus_faecalis,MINIA,0.6666666666666666,48
+17,Enterococcus_faecalis,MINIA,0.7777777777777777,68
+18,Enterococcus_faecalis,MINIA,0.8888888888888888,101
 19,Enterococcus_faecalis,MINIA,1.0,
 20,Escherichia_coli_plasmid,MINIA,0.0,0
 21,Escherichia_coli_plasmid,MINIA,0.1111111111111111,0
@@ -56,8 +56,8 @@
 54,Listeria_monocytogenes,MINIA,0.4444444444444444,18
 55,Listeria_monocytogenes,MINIA,0.5555555555555556,25
 56,Listeria_monocytogenes,MINIA,0.6666666666666666,35
-57,Listeria_monocytogenes,MINIA,0.7777777777777777,48
-58,Listeria_monocytogenes,MINIA,0.8888888888888888,71
+57,Listeria_monocytogenes,MINIA,0.7777777777777777,47
+58,Listeria_monocytogenes,MINIA,0.8888888888888888,68
 59,Listeria_monocytogenes,MINIA,1.0,
 60,Pseudomonas_aeruginosa,MINIA,0.0,0
 61,Pseudomonas_aeruginosa,MINIA,0.1111111111111111,11
