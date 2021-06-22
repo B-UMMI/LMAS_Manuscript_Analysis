@@ -73,7 +73,7 @@
 71,IDBA-UD,Enterococcus_faecalis,contig-100_1013,1159,60
 72,IDBA-UD,Enterococcus_faecalis,contig-100_1046,1048,30.20361282647688
 73,IDBA-UD,Enterococcus_faecalis,contig-100_1051,1042,60
-74,IDBA-UD,Enterococcus_faecalis,contig-100_1066,1000,60
+74,IDBA-UD,Enterococcus_faecalis,contig-100_1065,1000,60
 75,IDBA-UD,Escherichia_coli,contig-100_82,90372,60
 76,IDBA-UD,Escherichia_coli,contig-100_104,70526,60
 77,IDBA-UD,Escherichia_coli,contig-100_112,64491,60
@@ -233,7 +233,7 @@
 231,IDBA-UD,Escherichia_coli,contig-100_504,8744,60
 232,IDBA-UD,Escherichia_coli,contig-100_505,8732,60
 233,IDBA-UD,Escherichia_coli,contig-100_506,8655,60
-234,IDBA-UD,Escherichia_coli,contig-100_508,8611,60
+234,IDBA-UD,Escherichia_coli,contig-100_507,8611,60
 235,IDBA-UD,Escherichia_coli,contig-100_509,8607,60
 236,IDBA-UD,Escherichia_coli,contig-100_510,8590,60
 237,IDBA-UD,Escherichia_coli,contig-100_511,8478,60
@@ -369,14 +369,14 @@
 367,IDBA-UD,Escherichia_coli,contig-100_682,4230,60
 368,IDBA-UD,Escherichia_coli,contig-100_684,4197,60
 369,IDBA-UD,Escherichia_coli,contig-100_685,4194,60
-370,IDBA-UD,Escherichia_coli,contig-100_687,4185,60
+370,IDBA-UD,Escherichia_coli,contig-100_686,4185,60
 371,IDBA-UD,Escherichia_coli,contig-100_688,4184,36.215916758592215
 372,IDBA-UD,Escherichia_coli,contig-100_689,4179,60
 373,IDBA-UD,Escherichia_coli,contig-100_690,4166,60
 374,IDBA-UD,Escherichia_coli,contig-100_691,4163,60
 375,IDBA-UD,Escherichia_coli,contig-100_694,4129,60
 376,IDBA-UD,Escherichia_coli,contig-100_695,4127,60
-377,IDBA-UD,Escherichia_coli,contig-100_700,4047,60
+377,IDBA-UD,Escherichia_coli,contig-100_699,4047,60
 378,IDBA-UD,Escherichia_coli,contig-100_701,4034,60
 379,IDBA-UD,Escherichia_coli,contig-100_702,4029,60
 380,IDBA-UD,Escherichia_coli,contig-100_703,3997,60
@@ -497,7 +497,7 @@
 495,IDBA-UD,Escherichia_coli,contig-100_874,2004,60
 496,IDBA-UD,Escherichia_coli,contig-100_875,1990,60
 497,IDBA-UD,Escherichia_coli,contig-100_877,1982,60
-498,IDBA-UD,Escherichia_coli,contig-100_880,1921,60
+498,IDBA-UD,Escherichia_coli,contig-100_881,1921,60
 499,IDBA-UD,Escherichia_coli,contig-100_882,1916,60
 500,IDBA-UD,Escherichia_coli,contig-100_883,1916,60
 501,IDBA-UD,Escherichia_coli,contig-100_884,1903,60
@@ -564,7 +564,7 @@
 562,IDBA-UD,Escherichia_coli,contig-100_989,1262,60
 563,IDBA-UD,Escherichia_coli,contig-100_990,1257,60
 564,IDBA-UD,Escherichia_coli,contig-100_992,1246,60
-565,IDBA-UD,Escherichia_coli,contig-100_994,1239,60
+565,IDBA-UD,Escherichia_coli,contig-100_993,1239,60
 566,IDBA-UD,Escherichia_coli,contig-100_995,1232,60
 567,IDBA-UD,Escherichia_coli,contig-100_997,1225,60
 568,IDBA-UD,Escherichia_coli,contig-100_998,1223,60
@@ -590,7 +590,7 @@
 588,IDBA-UD,Escherichia_coli,contig-100_1033,1083,60
 589,IDBA-UD,Escherichia_coli,contig-100_1034,1078,60
 590,IDBA-UD,Escherichia_coli,contig-100_1035,1076,60
-591,IDBA-UD,Escherichia_coli,contig-100_1037,1063,60
+591,IDBA-UD,Escherichia_coli,contig-100_1038,1063,60
 592,IDBA-UD,Escherichia_coli,contig-100_1039,1062,60
 593,IDBA-UD,Escherichia_coli,contig-100_1040,1060,60
 594,IDBA-UD,Escherichia_coli,contig-100_1041,1058,24.224256763712006
@@ -608,7 +608,7 @@
 606,IDBA-UD,Escherichia_coli,contig-100_1062,1008,60
 607,IDBA-UD,Escherichia_coli,contig-100_1063,1007,60
 608,IDBA-UD,Escherichia_coli,contig-100_1064,1007,60
-609,IDBA-UD,Escherichia_coli,contig-100_1065,1000,60
+609,IDBA-UD,Escherichia_coli,contig-100_1066,1000,60
 610,IDBA-UD,Lactobacillus_fermentum,contig-100_56,121875,60
 611,IDBA-UD,Lactobacillus_fermentum,contig-100_60,114833,60
 612,IDBA-UD,Lactobacillus_fermentum,contig-100_75,99244,60
@@ -659,7 +659,7 @@
 657,IDBA-UD,Lactobacillus_fermentum,contig-100_499,8907,60
 658,IDBA-UD,Lactobacillus_fermentum,contig-100_501,8886,60
 659,IDBA-UD,Lactobacillus_fermentum,contig-100_502,8847,60
-660,IDBA-UD,Lactobacillus_fermentum,contig-100_507,8611,60
+660,IDBA-UD,Lactobacillus_fermentum,contig-100_508,8611,60
 661,IDBA-UD,Lactobacillus_fermentum,contig-100_512,8385,60
 662,IDBA-UD,Lactobacillus_fermentum,contig-100_521,8100,60
 663,IDBA-UD,Lactobacillus_fermentum,contig-100_532,7638,60
@@ -824,7 +824,7 @@
 822,IDBA-UD,Pseudomonas_aeruginosa,contig-100_977,1344,28.273692730538265
 823,IDBA-UD,Pseudomonas_aeruginosa,contig-100_982,1314,60
 824,IDBA-UD,Pseudomonas_aeruginosa,contig-100_988,1266,60
-825,IDBA-UD,Pseudomonas_aeruginosa,contig-100_993,1239,60
+825,IDBA-UD,Pseudomonas_aeruginosa,contig-100_994,1239,60
 826,IDBA-UD,Pseudomonas_aeruginosa,contig-100_999,1222,60
 827,IDBA-UD,Pseudomonas_aeruginosa,contig-100_1002,1210,60
 828,IDBA-UD,Pseudomonas_aeruginosa,contig-100_1009,1166,60
@@ -832,7 +832,7 @@
 830,IDBA-UD,Pseudomonas_aeruginosa,contig-100_1014,1158,27.62678563727444
 831,IDBA-UD,Pseudomonas_aeruginosa,contig-100_1015,1150,60
 832,IDBA-UD,Pseudomonas_aeruginosa,contig-100_1023,1110,60
-833,IDBA-UD,Pseudomonas_aeruginosa,contig-100_1038,1063,60
+833,IDBA-UD,Pseudomonas_aeruginosa,contig-100_1037,1063,60
 834,IDBA-UD,Pseudomonas_aeruginosa,contig-100_1042,1057,60
 835,IDBA-UD,Pseudomonas_aeruginosa,contig-100_1061,1013,60
 836,IDBA-UD,Salmonella_enterica,contig-100_10,283159,44.10637684752972
@@ -961,7 +961,7 @@
 959,IDBA-UD,Salmonella_enterica,contig-100_676,4315,60
 960,IDBA-UD,Salmonella_enterica,contig-100_681,4236,60
 961,IDBA-UD,Salmonella_enterica,contig-100_697,4103,60
-962,IDBA-UD,Salmonella_enterica,contig-100_699,4047,60
+962,IDBA-UD,Salmonella_enterica,contig-100_700,4047,60
 963,IDBA-UD,Salmonella_enterica,contig-100_710,3883,60
 964,IDBA-UD,Salmonella_enterica,contig-100_723,3667,60
 965,IDBA-UD,Salmonella_enterica,contig-100_730,3546,60
@@ -980,7 +980,7 @@
 978,IDBA-UD,Salmonella_enterica,contig-100_840,2376,60
 979,IDBA-UD,Salmonella_enterica,contig-100_841,2371,60
 980,IDBA-UD,Salmonella_enterica,contig-100_878,1930,60
-981,IDBA-UD,Salmonella_enterica,contig-100_881,1921,60
+981,IDBA-UD,Salmonella_enterica,contig-100_880,1921,60
 982,IDBA-UD,Salmonella_enterica,contig-100_889,1835,60
 983,IDBA-UD,Salmonella_enterica,contig-100_895,1805,60
 984,IDBA-UD,Salmonella_enterica,contig-100_898,1788,32.523675144598926
@@ -1055,7 +1055,7 @@
 1053,IDBA-UD,Staphylococcus_aureus,contig-100_617,5516,60
 1054,IDBA-UD,Staphylococcus_aureus,contig-100_644,4900,60
 1055,IDBA-UD,Staphylococcus_aureus,contig-100_656,4636,60
-1056,IDBA-UD,Staphylococcus_aureus,contig-100_686,4185,60
+1056,IDBA-UD,Staphylococcus_aureus,contig-100_687,4185,60
 1057,IDBA-UD,Staphylococcus_aureus,contig-100_698,4053,60
 1058,IDBA-UD,Staphylococcus_aureus,contig-100_734,3527,60
 1059,IDBA-UD,Staphylococcus_aureus,contig-100_740,3469,60

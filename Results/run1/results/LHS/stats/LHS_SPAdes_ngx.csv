@@ -45,9 +45,9 @@
 43,Lactobacillus_fermentum,SPAdes,0.3333333333333333,73375
 44,Lactobacillus_fermentum,SPAdes,0.4444444444444444,46143
 45,Lactobacillus_fermentum,SPAdes,0.5555555555555556,37380
-46,Lactobacillus_fermentum,SPAdes,0.6666666666666666,29165
-47,Lactobacillus_fermentum,SPAdes,0.7777777777777777,20392
-48,Lactobacillus_fermentum,SPAdes,0.8888888888888888,8917
+46,Lactobacillus_fermentum,SPAdes,0.6666666666666666,32350
+47,Lactobacillus_fermentum,SPAdes,0.7777777777777777,23375
+48,Lactobacillus_fermentum,SPAdes,0.8888888888888888,11888
 49,Lactobacillus_fermentum,SPAdes,1.0,0
 50,Listeria_monocytogenes,SPAdes,0.0,632189
 51,Listeria_monocytogenes,SPAdes,0.1111111111111111,632189
@@ -85,10 +85,10 @@
 83,Staphylococcus_aureus,SPAdes,0.3333333333333333,315456
 84,Staphylococcus_aureus,SPAdes,0.4444444444444444,224577
 85,Staphylococcus_aureus,SPAdes,0.5555555555555556,212906
-86,Staphylococcus_aureus,SPAdes,0.6666666666666666,173778
-87,Staphylococcus_aureus,SPAdes,0.7777777777777777,130262
-88,Staphylococcus_aureus,SPAdes,0.8888888888888888,62978
-89,Staphylococcus_aureus,SPAdes,1.0,0
+86,Staphylococcus_aureus,SPAdes,0.6666666666666666,174716
+87,Staphylococcus_aureus,SPAdes,0.7777777777777777,165821
+88,Staphylococcus_aureus,SPAdes,0.8888888888888888,107773
+89,Staphylococcus_aureus,SPAdes,1.0,37573
 90,Staphylococcus_aureus_plasmid1,SPAdes,0.0,2132
 91,Staphylococcus_aureus_plasmid1,SPAdes,0.1111111111111111,2132
 92,Staphylococcus_aureus_plasmid1,SPAdes,0.2222222222222222,2132
