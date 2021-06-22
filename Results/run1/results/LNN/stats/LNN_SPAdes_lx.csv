@@ -76,9 +76,9 @@
 74,Salmonella_enterica,SPAdes,0.4444444444444444,9
 75,Salmonella_enterica,SPAdes,0.5555555555555556,14
 76,Salmonella_enterica,SPAdes,0.6666666666666666,20
-77,Salmonella_enterica,SPAdes,0.7777777777777777,28
-78,Salmonella_enterica,SPAdes,0.8888888888888888,41
-79,Salmonella_enterica,SPAdes,1.0,
+77,Salmonella_enterica,SPAdes,0.7777777777777777,26
+78,Salmonella_enterica,SPAdes,0.8888888888888888,35
+79,Salmonella_enterica,SPAdes,1.0,49
 80,Staphylococcus_aureus,SPAdes,0.0,0
 81,Staphylococcus_aureus,SPAdes,0.1111111111111111,0
 82,Staphylococcus_aureus,SPAdes,0.2222222222222222,1

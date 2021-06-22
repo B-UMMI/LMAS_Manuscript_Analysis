@@ -74,11 +74,11 @@
 72,Salmonella_enterica,metaSPAdes,0.2222222222222222,3
 73,Salmonella_enterica,metaSPAdes,0.3333333333333333,5
 74,Salmonella_enterica,metaSPAdes,0.4444444444444444,8
-75,Salmonella_enterica,metaSPAdes,0.5555555555555556,13
-76,Salmonella_enterica,metaSPAdes,0.6666666666666666,19
-77,Salmonella_enterica,metaSPAdes,0.7777777777777777,27
-78,Salmonella_enterica,metaSPAdes,0.8888888888888888,41
-79,Salmonella_enterica,metaSPAdes,1.0,
+75,Salmonella_enterica,metaSPAdes,0.5555555555555556,11
+76,Salmonella_enterica,metaSPAdes,0.6666666666666666,16
+77,Salmonella_enterica,metaSPAdes,0.7777777777777777,22
+78,Salmonella_enterica,metaSPAdes,0.8888888888888888,31
+79,Salmonella_enterica,metaSPAdes,1.0,46
 80,Staphylococcus_aureus,metaSPAdes,0.0,0
 81,Staphylococcus_aureus,metaSPAdes,0.1111111111111111,0
 82,Staphylococcus_aureus,metaSPAdes,0.2222222222222222,0
