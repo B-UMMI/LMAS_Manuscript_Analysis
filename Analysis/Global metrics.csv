@@ -1,0 +1,61 @@
+Sample,Assembler,Contigs,Basepairs,Max Contig Size,N,N50,Misassemblies,Mapped Reads
+LNN,VelvetOptimizer,0,0,0,0,0,0,0.0
+LNN,Unicycler,0,0,0,0,0,0,0.0
+LNN,SPAdes,0,0,0,0,0,0,0.0
+LNN,SKESA,0,0,0,0,0,0,0.0
+LNN,MINIA,"(-17, 14)","(-1018, 874)",0,0,0,0,-0.0
+LNN,metaSPAdes,0,0,0,0,0,0,0.0
+LNN,MEGAHIT,0,0,0,0,0,0,-0.0
+LNN,IDBA-UD,"(-2, 0)","(-410, 0)",0,0,0,0,-0.0
+LNN,GATBMiniaPipeline,0,0,0,0,0,0,-0.0
+LNN,BCALM2,0,0,0,0,0,0,"(-0.01, 0.03)"
+LHS,VelvetOptimizer,0,0,0,0,0,0,0.0
+LHS,Unicycler,0,0,0,0,0,0,0.0
+LHS,SPAdes,0,0,0,0,0,0,0.0
+LHS,SKESA,0,0,0,0,0,0,0.0
+LHS,MINIA,"(-26, -2)","(-1378, 47)",0,0,0,0,-0.0
+LHS,metaSPAdes,0,0,0,0,0,0,0.0
+LHS,MEGAHIT,0,0,0,0,0,0,0.0
+LHS,IDBA-UD,0,0,0,0,0,0,0.0
+LHS,GATBMiniaPipeline,0,0,0,0,0,0,-0.0
+LHS,BCALM2,"(0, 2799577)","(0, 141491907)","(0, 4089)",0,"(0, 52)",0,"(0.0, 12.21)"
+ERR2984773,VelvetOptimizer,"(-273368, 236268)","(-2318895, 9068813)","(-2644, 3003)","(-323, 470)","(-81, 96)",0,"(-25.65, 25.55)"
+ERR2984773,Unicycler,0,0,0,0,0,0,0.0
+ERR2984773,SPAdes,0,0,0,0,0,0,0.0
+ERR2984773,SKESA,0,0,0,0,0,0,0.0
+ERR2984773,MINIA,"(-12, 24)","(-986, 2718)",0,0,"(-28, 28)",0,"(-0.01, -0.0)"
+ERR2984773,metaSPAdes,0,0,0,0,0,0,0.0
+ERR2984773,MEGAHIT,0,0,0,0,0,0,-0.0
+ERR2984773,IDBA-UD,"(-6, -2)","(-1420, 67)",0,0,0,0,-0.0
+ERR2984773,GATBMiniaPipeline,"(-2, 0)","(-1022, 187)",0,0,0,0,-0.0
+ERR2984773,BCALM2,0,0,0,0,0,0,-0.0
+ERR2935805,VelvetOptimizer,0,0,0,0,0,0,0.0
+ERR2935805,Unicycler,0,0,0,0,0,0,0.0
+ERR2935805,SPAdes,0,0,0,0,0,0,0.0
+ERR2935805,SKESA,0,0,0,0,0,0,0.0
+ERR2935805,MINIA,"(-3, -1)","(-640, 21)",0,0,"(-18, 18)",0,-0.01
+ERR2935805,metaSPAdes,0,0,0,0,0,0,0.0
+ERR2935805,MEGAHIT,0,0,0,0,0,0,-0.0
+ERR2935805,IDBA-UD,"(-3, 1)","(-648, 197)",0,0,0,0,"(-0.01, 0.0)"
+ERR2935805,GATBMiniaPipeline,2,"(-112, 32)",0,0,"(-4701, 3146)",0,-0.0
+ERR2935805,BCALM2,0,0,0,0,0,0,-0.0
+ENN,VelvetOptimizer,0,0,0,0,0,0,0.0
+ENN,Unicycler,0,0,0,0,0,0,0.0
+ENN,SPAdes,0,0,0,0,0,0,0.0
+ENN,SKESA,0,0,0,0,0,0,0.0
+ENN,MINIA,"(-1, 2)","(-103, 180)",0,0,0,0,"(-0.01, 0.01)"
+ENN,metaSPAdes,0,0,0,0,0,0,0.0
+ENN,MEGAHIT,0,0,0,0,0,0,0.0
+ENN,IDBA-UD,0,0,0,0,0,0,-0.0
+ENN,GATBMiniaPipeline,0,0,0,0,0,0,0.0
+ENN,BCALM2,0,0,0,0,0,0,"(-0.02, 0.0)"
+EHS,VelvetOptimizer,0,0,0,0,0,0,0.0
+EHS,Unicycler,0,0,0,0,0,0,0.0
+EHS,SPAdes,0,0,0,0,0,0,0.0
+EHS,SKESA,0,0,0,0,0,0,0.0
+EHS,MINIA,"(-2, 4)","(-264, 391)",0,0,0,0,0.0
+EHS,metaSPAdes,0,0,0,0,0,0,0.0
+EHS,MEGAHIT,0,0,0,0,0,0,-0.0
+EHS,IDBA-UD,0,0,0,0,0,0,-0.0
+EHS,GATBMiniaPipeline,0,0,0,0,0,0,-0.0
+EHS,BCALM2,0,0,0,0,0,0,-0.0

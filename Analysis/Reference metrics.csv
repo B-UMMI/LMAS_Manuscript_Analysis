@@ -1,0 +1,721 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+LNN,VelvetOptimizer,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Salmonella_enterica,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Pseudomonas_aeruginosa,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Listeria_monocytogenes,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Escherichia_coli,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,VelvetOptimizer,Bacillus_subtilis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,Unicycler,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MINIA,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,MINIA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,MINIA,Staphylococcus_aureus_plasmid1,"(0.03, 0.08)",0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MINIA,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MINIA,Salmonella_enterica,0.0,-0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(-79, 24)",0,0
+LNN,MINIA,Pseudomonas_aeruginosa,0.0,-0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,"(-3, 0)",0,0
+LNN,MINIA,Listeria_monocytogenes,0.0,"(-0.01, 0.0)",-0.0,0.0,-0.0,-0.0,-0.0,"(0, 4)","(-1, 0)",0,0,"(-35709, 0)",0,0
+LNN,MINIA,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-100, 42)",0,0
+LNN,MINIA,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MINIA,Escherichia_coli,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-30, 86)",0,0
+LNN,MINIA,Enterococcus_faecalis,0.0,"(0.0, 0.01)",0.0,0.0,0.0,-0.0,-0.0,"(-4, 0)","(0, 1)","(0, 95)","(0, 2350)","(0, 35709)",0,0
+LNN,MINIA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,metaSPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Listeria_monocytogenes,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-105, 57)",0,0
+LNN,MEGAHIT,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-64, 228)",0,0
+LNN,MEGAHIT,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Enterococcus_faecalis,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-141, 141)",0,0
+LNN,MEGAHIT,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,IDBA-UD,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,IDBA-UD,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,IDBA-UD,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,IDBA-UD,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,IDBA-UD,Salmonella_enterica,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-80, 0)",0,0
+LNN,IDBA-UD,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0,0,0,0,"(-100, 100)",0,0
+LNN,IDBA-UD,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,IDBA-UD,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-2, 2)",0,0
+LNN,IDBA-UD,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,IDBA-UD,Escherichia_coli,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-98, 98)",0,0
+LNN,IDBA-UD,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,IDBA-UD,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,GATBMiniaPipeline,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,GATBMiniaPipeline,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,GATBMiniaPipeline,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,GATBMiniaPipeline,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,GATBMiniaPipeline,Salmonella_enterica,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(0, 138)",0,0
+LNN,GATBMiniaPipeline,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-45, 6)",0,0
+LNN,GATBMiniaPipeline,Listeria_monocytogenes,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-44, 41)",0,0
+LNN,GATBMiniaPipeline,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-57, 103)",0,0
+LNN,GATBMiniaPipeline,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,GATBMiniaPipeline,Escherichia_coli,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-60, 73)",0,0
+LNN,GATBMiniaPipeline,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,GATBMiniaPipeline,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,BCALM2,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,BCALM2,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LNN,BCALM2,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,BCALM2,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,BCALM2,Salmonella_enterica,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-6, -5)",0,0
+LNN,BCALM2,Pseudomonas_aeruginosa,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-30, 0)",0,0
+LNN,BCALM2,Listeria_monocytogenes,0.0,"(0.0, 0.01)",0.0,0.0,0.0,0.0,0.0,"(-4, 0)","(0, 1)",0,0,"(0, 35709)",0,0
+LNN,BCALM2,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-32, 41)",0,0
+LNN,BCALM2,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,BCALM2,Escherichia_coli,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(0, 31)",0,0
+LNN,BCALM2,Enterococcus_faecalis,0.0,"(-0.01, 0.0)",-0.0,0.0,-0.0,0.0,0.0,"(0, 4)","(-1, 0)","(-95, 0)","(-2350, 0)","(-35709, 0)",0,0
+LNN,BCALM2,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Salmonella_enterica,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Pseudomonas_aeruginosa,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Listeria_monocytogenes,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Escherichia_coli,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,VelvetOptimizer,Bacillus_subtilis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,Unicycler,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,Unicycler,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,Unicycler,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,SPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,SPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,SKESA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,SKESA,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,SKESA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MINIA,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,MINIA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,MINIA,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,MINIA,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MINIA,Salmonella_enterica,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(24, 54)",0,0
+LHS,MINIA,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0,0,0,0,"(-271, -4)",0,0
+LHS,MINIA,Listeria_monocytogenes,0.0,"(-0.01, 0.01)",-0.0,-0.0,-0.0,-0.0,-0.0,"(-4, 4)","(-1, 1)","(-2015, 2015)",0,"(-35709, 35709)",0,0
+LHS,MINIA,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(-4, 47)",0,0
+LHS,MINIA,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MINIA,Escherichia_coli,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-60, 2)",0,0
+LHS,MINIA,Enterococcus_faecalis,0.0,"(-0.01, 0.01)",-0.0,-0.0,-0.0,-0.0,0.0,"(-4, 4)","(-1, 1)","(-2350, 2350)","(-1173, 1173)","(-35683, 35709)",0,0
+LHS,MINIA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,metaSPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MEGAHIT,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MEGAHIT,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,-0.0,-0.0,0,0,0,0,0,0,0
+LHS,MEGAHIT,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MEGAHIT,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MEGAHIT,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MEGAHIT,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MEGAHIT,Listeria_monocytogenes,0.0,"(0.0, 0.01)",0.0,-0.0,0.0,0.0,0.0,0,"(0, 1)",0,0,"(0, 35487)",0,0
+LHS,MEGAHIT,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(-60, 115)",0,0
+LHS,MEGAHIT,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,MEGAHIT,Escherichia_coli,0.0,-0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(-72, 72)",0,0
+LHS,MEGAHIT,Enterococcus_faecalis,0.0,"(-0.01, 0.0)",-0.0,0.0,-0.0,-0.0,0.0,0,"(-1, 0)",0,0,"(-35572, 85)",0,0
+LHS,MEGAHIT,Bacillus_subtilis,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-81, 0)",0,0
+LHS,IDBA-UD,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,IDBA-UD,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,IDBA-UD,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,IDBA-UD,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,IDBA-UD,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,IDBA-UD,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,IDBA-UD,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,IDBA-UD,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-74, 157)",0,0
+LHS,IDBA-UD,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,IDBA-UD,Escherichia_coli,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-2, 0)",0,0
+LHS,IDBA-UD,Enterococcus_faecalis,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(0, 39)",0,0
+LHS,IDBA-UD,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,GATBMiniaPipeline,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,GATBMiniaPipeline,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,GATBMiniaPipeline,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,GATBMiniaPipeline,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,GATBMiniaPipeline,Salmonella_enterica,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(20, 80)",0,0
+LHS,GATBMiniaPipeline,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,GATBMiniaPipeline,Listeria_monocytogenes,0.0,"(-0.01, 0.0)",-0.0,0.0,-0.0,0.0,0.0,0,"(-1, 0)",0,0,"(-35569, 0)",0,0
+LHS,GATBMiniaPipeline,Lactobacillus_fermentum,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(61, 192)",0,0
+LHS,GATBMiniaPipeline,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,GATBMiniaPipeline,Escherichia_coli,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-77, 58)",0,0
+LHS,GATBMiniaPipeline,Enterococcus_faecalis,0.0,"(0.0, 0.01)",0.0,0.0,0.0,0.0,0.0,0,"(0, 1)",0,0,"(0, 35609)",0,0
+LHS,GATBMiniaPipeline,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,BCALM2,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,BCALM2,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,BCALM2,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,BCALM2,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,BCALM2,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,BCALM2,Pseudomonas_aeruginosa,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,BCALM2,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,BCALM2,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,BCALM2,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,BCALM2,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LHS,BCALM2,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+LHS,BCALM2,Bacillus_subtilis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,VelvetOptimizer,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,VelvetOptimizer,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,VelvetOptimizer,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,VelvetOptimizer,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,VelvetOptimizer,Salmonella_enterica,-0.0,-0.0,"(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)",0,"(-1, 1)","(-1273, 1273)",0,"(-1273, 1273)",0,0
+ERR2984773,VelvetOptimizer,Pseudomonas_aeruginosa,-0.0,-0.0,"(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)",0,"(-3, 3)","(-1150, 1150)",0,"(-3473, 3473)",0,0
+ERR2984773,VelvetOptimizer,Listeria_monocytogenes,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,VelvetOptimizer,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,VelvetOptimizer,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,VelvetOptimizer,Escherichia_coli,-0.0,-0.0,"(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)",0,"(-7, 7)","(-1045, 1045)",0,"(-7802, 7802)",0,0
+ERR2984773,VelvetOptimizer,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,VelvetOptimizer,Bacillus_subtilis,-0.0,-0.0,"(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)","(-1.0, 1.0)",0,"(-2, 2)","(-1035, 1035)",0,"(-2054, 2054)",0,0
+ERR2984773,Unicycler,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,Unicycler,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MINIA,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,MINIA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,MINIA,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,MINIA,Staphylococcus_aureus,0.0,0.0,0.0,-0.0,0.0,-0.0,0.0,"(0, 1)","(0, 1)",0,0,0,0,0
+ERR2984773,MINIA,Salmonella_enterica,0.0,0.0,-0.0,-0.0,-0.0,-0.0,0.0,0,"(-1, 1)","(0, 16)",0,"(225, 1134)",0,0
+ERR2984773,MINIA,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,"(-1, 0)","(-1, 0)","(-74, 216)","(-32, 107)","(-523, 718)",0,0
+ERR2984773,MINIA,Listeria_monocytogenes,-0.0,"(-0.01, 0.0)",-0.0,-0.0,-0.0,-0.0,0.0,"(-2, 2)","(-2, 0)",0,"(-741, 741)","(-18194, 6793)",0,0
+ERR2984773,MINIA,Lactobacillus_fermentum,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,"(-1, 0)","(-1, 0)",0,0,"(-33, 29)",0,0
+ERR2984773,MINIA,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MINIA,Escherichia_coli,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0,"(-1, 1)","(-4, 4)",0,"(-1192, 1296)",0,0
+ERR2984773,MINIA,Enterococcus_faecalis,0.0,"(-0.0, 0.01)",-0.0,-0.0,-0.0,-0.0,0.0,"(-3, 4)","(0, 4)","(-85, 0)","(-51, 0)","(-6574, 17340)",0,0
+ERR2984773,MINIA,Bacillus_subtilis,0.0,0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(0, 31)",0,0
+ERR2984773,metaSPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,metaSPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MEGAHIT,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MEGAHIT,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MEGAHIT,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MEGAHIT,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MEGAHIT,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MEGAHIT,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(-237, 141)",0,0
+ERR2984773,MEGAHIT,Listeria_monocytogenes,0.0,"(-0.01, 0.01)",-0.0,-0.0,-0.0,-0.0,0.0,0,"(-1, 1)",0,0,"(-35487, 35487)",0,0
+ERR2984773,MEGAHIT,Lactobacillus_fermentum,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-661, -132)",0,0
+ERR2984773,MEGAHIT,Escherichia_coli_plasmid,0.0,"(0.0, 0.01)",0.0,0.0,0.0,-0.0,-0.0,0,"(0, 1)",0,0,"(0, 1028)",0,0
+ERR2984773,MEGAHIT,Escherichia_coli,0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0,"(-1, 0)",0,0,"(-1169, -45)",0,0
+ERR2984773,MEGAHIT,Enterococcus_faecalis,0.0,"(-0.01, 0.01)",-0.0,-0.0,-0.0,-0.0,0.0,0,"(-1, 1)",0,0,"(-35628, 35628)",0,0
+ERR2984773,MEGAHIT,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,IDBA-UD,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,IDBA-UD,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,IDBA-UD,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,IDBA-UD,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,IDBA-UD,Salmonella_enterica,0.0,0.0,-0.0,-0.0,-0.0,-0.0,0.0,"(-1, 1)","(-1, 1)",0,0,"(20, 178)",0,0
+ERR2984773,IDBA-UD,Pseudomonas_aeruginosa,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-99, 0)",0,0
+ERR2984773,IDBA-UD,Listeria_monocytogenes,0.0,"(-0.01, 0.01)",-0.0,-0.0,-0.0,-0.0,0.0,0,"(-2, 2)",0,0,"(-14966, 14966)",0,0
+ERR2984773,IDBA-UD,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-196, 196)",0,0
+ERR2984773,IDBA-UD,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,IDBA-UD,Escherichia_coli,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0,"(-1, 1)",0,0,"(-30, 30)",0,0
+ERR2984773,IDBA-UD,Enterococcus_faecalis,0.0,"(-0.01, 0.01)",-0.0,-0.0,-0.0,-0.0,0.0,"(-1, 1)","(-2, 2)","(-494, 494)",0,"(-14768, 14729)",0,0
+ERR2984773,IDBA-UD,Bacillus_subtilis,0.0,0.0,-0.0,-0.0,-0.0,-0.0,0.0,"(-1, 1)","(-1, 1)","(-1452, 1452)","(-2166, 2166)",0,0,0
+ERR2984773,GATBMiniaPipeline,Staphylococcus_aureus_plasmid3,-0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,"(-10, 7)","(-10, 7)",0,0,0
+ERR2984773,GATBMiniaPipeline,Staphylococcus_aureus_plasmid2,"(-0.01, -0.0)",0.0,"(-0.01, -0.0)",0.0,"(-0.01, -0.0)",0.0,0.0,0,0,"(-23, -3)","(-23, -3)",0,0,0
+ERR2984773,GATBMiniaPipeline,Staphylococcus_aureus_plasmid1,-0.0,0.0,-0.0,-0.0,0.0,-0.0,-0.0,0,0,"(1, 5)","(1, 5)",0,0,0
+ERR2984773,GATBMiniaPipeline,Staphylococcus_aureus,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-11, 0)",0,0
+ERR2984773,GATBMiniaPipeline,Salmonella_enterica,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-90, 120)",0,0
+ERR2984773,GATBMiniaPipeline,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-4, 1057)",0,0
+ERR2984773,GATBMiniaPipeline,Listeria_monocytogenes,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-26, 26)",0,0
+ERR2984773,GATBMiniaPipeline,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-54, 80)",0,0
+ERR2984773,GATBMiniaPipeline,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,GATBMiniaPipeline,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,GATBMiniaPipeline,Enterococcus_faecalis,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-132, 0)",0,0
+ERR2984773,GATBMiniaPipeline,Bacillus_subtilis,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(0, 88)",0,0
+ERR2984773,BCALM2,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Salmonella_enterica,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Pseudomonas_aeruginosa,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Listeria_monocytogenes,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Escherichia_coli,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2984773,BCALM2,Bacillus_subtilis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Salmonella_enterica,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Pseudomonas_aeruginosa,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Listeria_monocytogenes,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Escherichia_coli,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,VelvetOptimizer,Bacillus_subtilis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Salmonella_enterica,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Escherichia_coli,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Bacillus_subtilis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Salmonella_enterica,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Escherichia_coli,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Bacillus_subtilis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,"(0.0, 0.01)","(0, 1)","(0, 1)",0,"(-129, 0)","(-1604, 1074)",0,0
+ERR2935805,MINIA,Listeria_monocytogenes,0.0,"(-0.01, -0.0)",0.0,-0.0,0.0,-0.0,0.0,"(2, 8)","(-2, -1)","(-86, 22)","(-33, 0)","(-19756, -4581)",0,0
+ERR2935805,MINIA,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Escherichia_coli,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Enterococcus_faecalis,0.0,"(0.0, 0.01)",0.0,0.0,0.0,0.0,0.0,0,"(1, 2)","(0, 1765)",0,"(4571, 19786)",0,0
+ERR2935805,MINIA,Bacillus_subtilis,0.0,-0.0,-0.0,-0.0,0.0,-0.0,0.0,"(-1, 1)","(0, 2)","(-83, 83)","(-132, 132)","(-870, 697)",0,0
+ERR2935805,metaSPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Bacillus_subtilis,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-17, 0)",0,0
+ERR2935805,GATBMiniaPipeline,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Salmonella_enterica,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(-5, 4)",0,0
+ERR2935805,GATBMiniaPipeline,Listeria_monocytogenes,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-56, -44)",0,0
+ERR2935805,GATBMiniaPipeline,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Escherichia_coli,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Bacillus_subtilis,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,"(0, 2)","(1, 2)","(-596, 0)","(-1020, 0)","(-375, -39)",0,0
+ERR2935805,BCALM2,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Staphylococcus_aureus,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Salmonella_enterica,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Pseudomonas_aeruginosa,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Listeria_monocytogenes,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Lactobacillus_fermentum,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Escherichia_coli,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Enterococcus_faecalis,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,VelvetOptimizer,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ENN,SKESA,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MINIA,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ENN,MINIA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ENN,MINIA,Staphylococcus_aureus_plasmid1,"(0.04, 0.05)",0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MINIA,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MINIA,Salmonella_enterica,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,"(-1, 0)","(0, 13)",0,"(-1716, 57)",0,0
+ENN,MINIA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,-0.0,-0.0,0,0,0,0,0,0,0
+ENN,MINIA,Listeria_monocytogenes,0.0,"(-0.01, 0.01)",-0.0,-0.0,-0.0,-0.0,0.0,"(-4, 4)","(-1, 1)",0,0,"(-35709, 35709)",0,0
+ENN,MINIA,Lactobacillus_fermentum,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-31, -10)",0,0
+ENN,MINIA,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MINIA,Escherichia_coli,0.0,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0,"(0, 1)",0,0,"(60, 1728)",0,0
+ENN,MINIA,Enterococcus_faecalis,0.0,"(-0.01, 0.01)",-0.0,0.0,-0.0,-0.0,-0.0,"(-4, 4)","(-1, 1)","(-95, 95)","(-2350, 2350)","(-35709, 35709)",0,0
+ENN,MINIA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,metaSPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(-390, 137)",0,0
+ENN,MEGAHIT,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Escherichia_coli,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-141, 141)",0,0
+ENN,MEGAHIT,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Salmonella_enterica,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0,0,0,0,"(-420, 360)",0,0
+ENN,IDBA-UD,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Escherichia_coli,0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0,0,0,0,"(-117, 115)",0,0
+ENN,IDBA-UD,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,IDBA-UD,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,GATBMiniaPipeline,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,GATBMiniaPipeline,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,GATBMiniaPipeline,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,GATBMiniaPipeline,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,GATBMiniaPipeline,Salmonella_enterica,0.0,-0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,"(-29, 0)",0,0
+ENN,GATBMiniaPipeline,Pseudomonas_aeruginosa,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,"(-100, 0)",0,0
+ENN,GATBMiniaPipeline,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,GATBMiniaPipeline,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-277, 412)",0,0
+ENN,GATBMiniaPipeline,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,GATBMiniaPipeline,Escherichia_coli,0.0,-0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,"(-14, 0)",0,0
+ENN,GATBMiniaPipeline,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,GATBMiniaPipeline,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+ENN,BCALM2,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ENN,BCALM2,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+ENN,BCALM2,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,BCALM2,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,BCALM2,Salmonella_enterica,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-5, 30)",0,0
+ENN,BCALM2,Pseudomonas_aeruginosa,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(0, 30)",0,0
+ENN,BCALM2,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,BCALM2,Lactobacillus_fermentum,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(57, 88)",0,0
+ENN,BCALM2,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,BCALM2,Escherichia_coli,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(0, 58)",0,0
+ENN,BCALM2,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,BCALM2,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,VelvetOptimizer,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,Unicycler,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,SPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,SPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,SKESA,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MINIA,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,MINIA,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,MINIA,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MINIA,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MINIA,Salmonella_enterica,0.0,-0.0,-0.0,0.0,-0.0,-0.0,"(0.0, 0.01)",0,"(-1, 0)",0,0,"(-1233, -44)",0,0
+EHS,MINIA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MINIA,Listeria_monocytogenes,0.0,"(-0.01, 0.0)",-0.0,-0.0,-0.0,-0.0,0.0,"(0, 4)","(-1, 0)",0,0,"(-35709, 0)",0,0
+EHS,MINIA,Lactobacillus_fermentum,0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0,0,0,0,"(-32, 10)",0,0
+EHS,MINIA,Escherichia_coli_plasmid,0.0,"(-0.01, 0.0)",0.0,0.0,0.0,0.0,0.0,0,"(-1, 0)",0,0,"(-1140, 0)",0,0
+EHS,MINIA,Escherichia_coli,0.0,0.0,-0.0,-0.0,-0.0,-0.0,"(-0.01, 0.0)",0,1,"(-9, 0)",0,"(1050, 1365)",0,0
+EHS,MINIA,Enterococcus_faecalis,0.0,"(0.0, 0.01)",0.0,0.0,0.0,0.0,0.0,"(-4, 0)","(0, 1)","(0, 95)","(0, 2350)","(0, 35709)",0,0
+EHS,MINIA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,metaSPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MEGAHIT,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MEGAHIT,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MEGAHIT,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MEGAHIT,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MEGAHIT,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,-0.0,0.0,0,0,0,0,0,0,0
+EHS,MEGAHIT,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(-141, 141)",0,0
+EHS,MEGAHIT,Listeria_monocytogenes,0.0,"(-0.01, 0.01)",-0.0,-0.0,-0.0,-0.0,0.0,0,"(-1, 1)",0,0,"(-35475, 35475)",0,0
+EHS,MEGAHIT,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-357, 510)",0,0
+EHS,MEGAHIT,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MEGAHIT,Escherichia_coli,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-72, 72)",0,0
+EHS,MEGAHIT,Enterococcus_faecalis,0.0,"(-0.01, 0.01)",-0.0,-0.0,-0.0,-0.0,0.0,0,"(-1, 1)",0,0,"(-35487, 35487)",0,0
+EHS,MEGAHIT,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-99, 99)",0,0
+EHS,IDBA-UD,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-196, 99)",0,0
+EHS,IDBA-UD,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,IDBA-UD,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,GATBMiniaPipeline,Staphylococcus_aureus_plasmid3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,GATBMiniaPipeline,Staphylococcus_aureus_plasmid2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,GATBMiniaPipeline,Staphylococcus_aureus_plasmid1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,GATBMiniaPipeline,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,GATBMiniaPipeline,Salmonella_enterica,0.0,0.0,-0.0,0.0,-0.0,-0.0,0.0,0,0,0,0,"(57, 98)",0,0
+EHS,GATBMiniaPipeline,Pseudomonas_aeruginosa,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-9, 158)",0,0
+EHS,GATBMiniaPipeline,Listeria_monocytogenes,0.0,"(0.0, 0.01)",0.0,0.0,0.0,0.0,0.0,0,"(0, 1)",0,0,"(0, 35569)",0,0
+EHS,GATBMiniaPipeline,Lactobacillus_fermentum,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-143, 107)",0,0
+EHS,GATBMiniaPipeline,Escherichia_coli_plasmid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,GATBMiniaPipeline,Escherichia_coli,0.0,-0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(-2, 1)",0,0
+EHS,GATBMiniaPipeline,Enterococcus_faecalis,0.0,"(-0.01, -0.0)",-0.0,0.0,-0.0,-0.0,0.0,0,"(-1, 0)",0,0,"(-35569, -40)",0,0
+EHS,GATBMiniaPipeline,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,BCALM2,Staphylococcus_aureus_plasmid3,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,BCALM2,Staphylococcus_aureus_plasmid2,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,BCALM2,Staphylococcus_aureus_plasmid1,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,BCALM2,Staphylococcus_aureus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,BCALM2,Salmonella_enterica,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(0, 6)",0,0
+EHS,BCALM2,Pseudomonas_aeruginosa,0.0,0.0,-0.0,0.0,-0.0,0.0,0.0,0,0,0,0,"(0, 30)",0,0
+EHS,BCALM2,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,BCALM2,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,BCALM2,Escherichia_coli_plasmid,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EHS,BCALM2,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,BCALM2,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,BCALM2,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
