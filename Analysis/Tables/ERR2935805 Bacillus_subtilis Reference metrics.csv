@@ -1,0 +1,11 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+ERR2935805,VelvetOptimizer,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,2,83,132,870,0,0
+ERR2935805,metaSPAdes,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,17,0,0
+ERR2935805,GATBMiniaPipeline,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,3,596,1020,414,0,0
+ERR2935805,BCALM2,Bacillus_subtilis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0

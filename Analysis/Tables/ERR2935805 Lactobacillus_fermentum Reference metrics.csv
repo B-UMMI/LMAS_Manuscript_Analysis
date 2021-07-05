@@ -1,0 +1,11 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+ERR2935805,VelvetOptimizer,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0

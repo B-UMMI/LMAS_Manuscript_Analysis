@@ -1,0 +1,11 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+ENN,VelvetOptimizer,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MINIA,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,41,0,0
+ENN,metaSPAdes,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,390,0,0
+ENN,IDBA-UD,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,GATBMiniaPipeline,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,412,0,0
+ENN,BCALM2,Lactobacillus_fermentum,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,145,0,0

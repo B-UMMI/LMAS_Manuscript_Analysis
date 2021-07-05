@@ -1,0 +1,11 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+LNN,VelvetOptimizer,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MINIA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,79,0,0
+LNN,metaSPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,IDBA-UD,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,80,0,0
+LNN,GATBMiniaPipeline,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,138,0,0
+LNN,BCALM2,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,11,0,0

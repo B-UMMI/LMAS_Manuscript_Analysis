@@ -1,0 +1,11 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+EHS,VelvetOptimizer,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,Unicycler,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,SKESA,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MINIA,Enterococcus_faecalis,0.0,0.01,0.0,0.0,0.0,0.0,0.0,4,1,95,2350,35709,0,0
+EHS,metaSPAdes,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,MEGAHIT,Enterococcus_faecalis,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0,1,0,0,35487,0,0
+EHS,IDBA-UD,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+EHS,GATBMiniaPipeline,Enterococcus_faecalis,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0,1,0,0,35609,0,0
+EHS,BCALM2,Enterococcus_faecalis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0

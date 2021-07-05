@@ -1,0 +1,11 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+LNN,VelvetOptimizer,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,Unicycler,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,SKESA,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MINIA,Listeria_monocytogenes,0.0,0.01,0.0,0.0,0.0,0.0,0.0,4,1,0,0,35709,0,0
+LNN,metaSPAdes,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,MEGAHIT,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,105,0,0
+LNN,IDBA-UD,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+LNN,GATBMiniaPipeline,Listeria_monocytogenes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,44,0,0
+LNN,BCALM2,Listeria_monocytogenes,0.0,0.01,0.0,0.0,0.0,0.0,0.0,4,1,0,0,35709,0,0
