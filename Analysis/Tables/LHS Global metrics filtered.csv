@@ -1,0 +1,11 @@
+Sample,Assembler,Contigs,Basepairs,N,N50
+LHS,VelvetOptimizer,0,0,0,0
+LHS,Unicycler,0,0,0,0
+LHS,SPAdes,0,0,0,0
+LHS,SKESA,0,0,0,0
+LHS,MINIA,0,271,0,0
+LHS,metaSPAdes,0,0,0,0
+LHS,MEGAHIT,0,0,0,0
+LHS,IDBA-UD,0,0,0,0
+LHS,GATBMiniaPipeline,0,0,0,0
+LHS,BCALM2,1420,1946234,0,1318

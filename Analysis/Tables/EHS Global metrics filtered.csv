@@ -1,0 +1,11 @@
+Sample,Assembler,Contigs,Basepairs,N,N50
+EHS,VelvetOptimizer,0,0,0,0
+EHS,Unicycler,0,0,0,0
+EHS,SPAdes,0,0,0,0
+EHS,SKESA,0,0,0,0
+EHS,MINIA,0,7,0,0
+EHS,metaSPAdes,0,0,0,0
+EHS,MEGAHIT,0,0,0,0
+EHS,IDBA-UD,0,0,0,0
+EHS,GATBMiniaPipeline,0,0,0,0
+EHS,BCALM2,0,0,0,0
