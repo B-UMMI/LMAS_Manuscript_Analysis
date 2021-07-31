@@ -1,0 +1,11 @@
+Sample,Assembler,Contigs,Basepairs,Max Contig Size,N,N50,Misassemblies,Mapped Reads
+LNN,VelvetOptimizer,0,0,0,0,0,0,0.0
+LNN,Unicycler,0,0,0,0,0,0,0.0
+LNN,SPAdes,0,0,0,0,0,0,0.0
+LNN,SKESA,0,0,0,0,0,0,0.0
+LNN,MINIA,17,1018,0,0,0,0,0.0
+LNN,metaSPAdes,0,0,0,0,0,0,0.0
+LNN,MEGAHIT,0,0,0,0,0,0,0.0
+LNN,IDBA-UD,2,410,0,0,0,0,0.0
+LNN,GATBMiniaPipeline,0,0,0,0,0,0,0.0
+LNN,BCALM2,0,0,0,0,0,0,0.03

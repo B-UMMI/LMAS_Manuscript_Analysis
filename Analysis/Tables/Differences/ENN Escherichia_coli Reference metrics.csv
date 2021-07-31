@@ -1,0 +1,11 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+ENN,VelvetOptimizer,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,Unicycler,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,SKESA,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MINIA,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1,0,0,1788,0,0
+ENN,metaSPAdes,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ENN,MEGAHIT,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,141,0,0
+ENN,IDBA-UD,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,117,0,0
+ENN,GATBMiniaPipeline,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,14,0,0
+ENN,BCALM2,Escherichia_coli,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,58,0,0

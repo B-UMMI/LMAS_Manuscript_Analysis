@@ -1,0 +1,11 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+ERR2984773,VelvetOptimizer,Pseudomonas_aeruginosa,0.0,0.0,1.0,1.0,1.0,1.0,1.0,0,3,1150,0,3473,0,0
+ERR2984773,Unicycler,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,SKESA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MINIA,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1,216,107,718,0,0
+ERR2984773,metaSPAdes,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2984773,MEGAHIT,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,237,0,0
+ERR2984773,IDBA-UD,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,99,0,0
+ERR2984773,GATBMiniaPipeline,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,1057,0,0
+ERR2984773,BCALM2,Pseudomonas_aeruginosa,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0

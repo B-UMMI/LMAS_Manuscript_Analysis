@@ -1,0 +1,11 @@
+Sample,Assembler,Reference,Contiguity,Breadth of Coverage,Multiplicity,Validity,Parsimony,Identity,lowest Identity,L90,Contigs,NA50,NG50,Basepairs,Ns,Misassemblies
+ERR2935805,VelvetOptimizer,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,Unicycler,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,SKESA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MINIA,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,metaSPAdes,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,MEGAHIT,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,IDBA-UD,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,GATBMiniaPipeline,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
+ERR2935805,BCALM2,Salmonella_enterica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0,0,0
