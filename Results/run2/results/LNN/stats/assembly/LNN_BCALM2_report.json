@@ -1,1 +1,1 @@
-{"assembler":"BCALM2","sample_id":"LNN","global":{"contigs":25293,"basepairs":31046921,"max_contig_size":161812,"N50":17766,"mapped_reads":91.52563440371593,"Ns":0},"filtered":{"contigs":3538,"basepairs":28189359,"N50":21034,"Ns":0}}
+{"assembler":"BCALM2","sample_id":"LNN","global":{"contigs":44825,"basepairs":19635512,"max_contig_size":163543,"N50":18682,"mapped_reads":98.30767549262268,"Ns":0},"filtered":{"contigs":784,"basepairs":13397815,"N50":31436,"Ns":0}}

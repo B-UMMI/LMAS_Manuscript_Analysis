@@ -1,1 +1,1 @@
-{"assembler":"BCALM2","sample_id":"ENN","global":{"contigs":25293,"basepairs":31046921,"max_contig_size":161812,"N50":17766,"mapped_reads":91.37319364774542,"Ns":0},"filtered":{"contigs":3538,"basepairs":28189359,"N50":21034,"Ns":0}}
+{"assembler":"BCALM2","sample_id":"ENN","global":{"contigs":25258,"basepairs":31040696,"max_contig_size":161812,"N50":17766,"mapped_reads":96.832836106637,"Ns":0},"filtered":{"contigs":3542,"basepairs":28188554,"N50":21029,"Ns":0}}

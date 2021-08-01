@@ -1,1 +1,1 @@
-{"assembler":"Unicycler","sample_id":"LHS","global":{"contigs":571,"basepairs":27485372,"max_contig_size":1301952,"N50":242300,"mapped_reads":86.91565762755754,"Ns":0},"filtered":{"contigs":324,"basepairs":27396060,"N50":252455,"Ns":0}}
+{"assembler":"Unicycler","sample_id":"LHS","global":{"contigs":276,"basepairs":13345058,"max_contig_size":632062,"N50":187479,"mapped_reads":96.94856966862233,"Ns":0},"filtered":{"contigs":247,"basepairs":13333597,"N50":187479,"Ns":0}}

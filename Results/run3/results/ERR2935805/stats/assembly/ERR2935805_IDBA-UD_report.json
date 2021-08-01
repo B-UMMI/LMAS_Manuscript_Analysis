@@ -1,1 +1,1 @@
-{"assembler":"IDBA-UD","sample_id":"ERR2935805","global":{"contigs":14154,"basepairs":23586987,"max_contig_size":632213,"N50":51161,"mapped_reads":89.79757154087092,"Ns":0},"filtered":{"contigs":2724,"basepairs":17534103,"N50":113853,"Ns":0}}
+{"assembler":"IDBA-UD","sample_id":"ERR2935805","global":{"contigs":14153,"basepairs":23586749,"max_contig_size":632213,"N50":51161,"mapped_reads":89.7956889317616,"Ns":0},"filtered":{"contigs":2724,"basepairs":17534103,"N50":113853,"Ns":0}}

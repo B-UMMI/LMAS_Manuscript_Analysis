@@ -1,1 +1,1 @@
-{"assembler":"SKESA","sample_id":"LNN","global":{"contigs":990,"basepairs":19734265,"max_contig_size":632013,"N50":62978,"mapped_reads":94.98587823681754,"Ns":0},"filtered":{"contigs":677,"basepairs":19593498,"N50":63113,"Ns":0}}
+{"assembler":"SKESA","sample_id":"LNN","global":{"contigs":9514,"basepairs":8202941,"max_contig_size":59272,"N50":1155,"mapped_reads":95.10132973879378,"Ns":0},"filtered":{"contigs":1433,"basepairs":4470092,"N50":7385,"Ns":0}}

@@ -1,1 +1,1 @@
-{"assembler":"VelvetOptimizer","sample_id":"ERR2984773","global":{"contigs":346863,"basepairs":48070867,"max_contig_size":4062,"N50":175,"mapped_reads":27.80975197169137,"Ns":10},"filtered":{"contigs":420,"basepairs":521936,"N50":1197,"Ns":0}}
+{"assembler":"VelvetOptimizer","sample_id":"ERR2984773","global":{"contigs":618395,"basepairs":53723715,"max_contig_size":1311,"N50":83,"mapped_reads":1.8723086331689418,"Ns":425},"filtered":{"contigs":16,"basepairs":17252,"N50":1043,"Ns":0}}
