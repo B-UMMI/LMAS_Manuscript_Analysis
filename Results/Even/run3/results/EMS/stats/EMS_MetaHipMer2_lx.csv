@@ -193,12 +193,12 @@
 191,Enterococcus_faecalis,MetaHipMer2,90,27
 192,Enterococcus_faecalis,MetaHipMer2,91,28
 193,Enterococcus_faecalis,MetaHipMer2,92,29
-194,Enterococcus_faecalis,MetaHipMer2,93,30
-195,Enterococcus_faecalis,MetaHipMer2,94,31
-196,Enterococcus_faecalis,MetaHipMer2,95,33
-197,Enterococcus_faecalis,MetaHipMer2,96,35
-198,Enterococcus_faecalis,MetaHipMer2,97,37
-199,Enterococcus_faecalis,MetaHipMer2,98,39
+194,Enterococcus_faecalis,MetaHipMer2,93,31
+195,Enterococcus_faecalis,MetaHipMer2,94,32
+196,Enterococcus_faecalis,MetaHipMer2,95,34
+197,Enterococcus_faecalis,MetaHipMer2,96,36
+198,Enterococcus_faecalis,MetaHipMer2,97,39
+199,Enterococcus_faecalis,MetaHipMer2,98,
 200,Enterococcus_faecalis,MetaHipMer2,99,
 201,Enterococcus_faecalis,MetaHipMer2,100,
 202,Escherichia_coli_plasmid,MetaHipMer2,0,0
@@ -602,7 +602,7 @@
 600,Listeria_monocytogenes,MetaHipMer2,95,15
 601,Listeria_monocytogenes,MetaHipMer2,96,16
 602,Listeria_monocytogenes,MetaHipMer2,97,16
-603,Listeria_monocytogenes,MetaHipMer2,98,
+603,Listeria_monocytogenes,MetaHipMer2,98,17
 604,Listeria_monocytogenes,MetaHipMer2,99,
 605,Listeria_monocytogenes,MetaHipMer2,100,
 606,Pseudomonas_aeruginosa,MetaHipMer2,0,0

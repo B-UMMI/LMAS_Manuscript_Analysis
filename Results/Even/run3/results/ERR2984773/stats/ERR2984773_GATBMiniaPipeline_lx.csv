@@ -200,7 +200,7 @@
 198,Enterococcus_faecalis,GATBMiniaPipeline,97,24
 199,Enterococcus_faecalis,GATBMiniaPipeline,98,25
 200,Enterococcus_faecalis,GATBMiniaPipeline,99,26
-201,Enterococcus_faecalis,GATBMiniaPipeline,100,28
+201,Enterococcus_faecalis,GATBMiniaPipeline,100,27
 202,Escherichia_coli_plasmid,GATBMiniaPipeline,0,0
 203,Escherichia_coli_plasmid,GATBMiniaPipeline,1,0
 204,Escherichia_coli_plasmid,GATBMiniaPipeline,2,0
@@ -602,7 +602,7 @@
 600,Listeria_monocytogenes,GATBMiniaPipeline,95,13
 601,Listeria_monocytogenes,GATBMiniaPipeline,96,14
 602,Listeria_monocytogenes,GATBMiniaPipeline,97,15
-603,Listeria_monocytogenes,GATBMiniaPipeline,98,15
+603,Listeria_monocytogenes,GATBMiniaPipeline,98,
 604,Listeria_monocytogenes,GATBMiniaPipeline,99,
 605,Listeria_monocytogenes,GATBMiniaPipeline,100,
 606,Pseudomonas_aeruginosa,GATBMiniaPipeline,0,0

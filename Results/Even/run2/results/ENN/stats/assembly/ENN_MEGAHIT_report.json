@@ -1,1 +1,1 @@
-{"assembler":"MEGAHIT","sample_id":"ENN","global":{"contigs":814,"basepairs":30545419,"max_contig_size":632274,"N50":178381,"mapped_reads":101.58265661127459,"Ns":0},"filtered":{"contigs":525,"basepairs":30420265,"N50":179870,"mapped_reads":100.79058846989903,"Ns":0}}
+{"assembler":"MEGAHIT","sample_id":"ENN","global":{"contigs":814,"basepairs":30545419,"max_contig_size":632274,"N50":178381,"mapped_reads":101.58231514862617,"Ns":0},"filtered":{"contigs":525,"basepairs":30420265,"N50":179870,"mapped_reads":100.79058846989903,"Ns":0}}

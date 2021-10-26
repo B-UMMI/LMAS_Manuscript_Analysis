@@ -1,1 +1,1 @@
-{"assembler":"IDBA-UD","sample_id":"EMS","global":{"contigs":1829,"basepairs":30408932,"max_contig_size":468323,"N50":61704,"mapped_reads":99.24210097390828,"Ns":0},"filtered":{"contigs":1254,"basepairs":30145929,"N50":63178,"mapped_reads":97.57874554604709,"Ns":0}}
+{"assembler":"IDBA-UD","sample_id":"EMS","global":{"contigs":1829,"basepairs":30408932,"max_contig_size":468323,"N50":61704,"mapped_reads":99.24203268138636,"Ns":0},"filtered":{"contigs":1254,"basepairs":30145929,"N50":63178,"mapped_reads":97.57860896100327,"Ns":0}}

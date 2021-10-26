@@ -1,12 +1,12 @@
 ,Reference,Breadth of Coverage,Contigs
 0,Bacillus_subtilis,0.9828730766198093,28
-1,Enterococcus_faecalis,0.9880557757946884,47
+1,Enterococcus_faecalis,0.9755408042195943,46
 2,Escherichia_coli_plasmid,0.9771650894943049,5
-3,Escherichia_coli,0.9677641113065463,193
-4,Lactobacillus_fermentum,0.9381299751801916,86
-5,Listeria_monocytogenes,0.9737947734583814,21
+3,Escherichia_coli,0.967767678662636,193
+4,Lactobacillus_fermentum,0.9380974349365702,86
+5,Listeria_monocytogenes,0.9856827862590573,22
 6,Pseudomonas_aeruginosa,0.9885572402989843,100
-7,Salmonella_enterica,0.9752383845692606,162
+7,Salmonella_enterica,0.9752180053305366,162
 8,Staphylococcus_aureus,0.9811882535549034,67
 9,Staphylococcus_aureus_plasmid1,0.9995265898690232,1
 10,Staphylococcus_aureus_plasmid2,0.9986462093862816,1

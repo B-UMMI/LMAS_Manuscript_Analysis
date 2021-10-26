@@ -197,10 +197,10 @@
 195,Enterococcus_faecalis,MEGAHIT,94,15
 196,Enterococcus_faecalis,MEGAHIT,95,16
 197,Enterococcus_faecalis,MEGAHIT,96,17
-198,Enterococcus_faecalis,MEGAHIT,97,17
-199,Enterococcus_faecalis,MEGAHIT,98,18
+198,Enterococcus_faecalis,MEGAHIT,97,18
+199,Enterococcus_faecalis,MEGAHIT,98,19
 200,Enterococcus_faecalis,MEGAHIT,99,20
-201,Enterococcus_faecalis,MEGAHIT,100,21
+201,Enterococcus_faecalis,MEGAHIT,100,22
 202,Escherichia_coli_plasmid,MEGAHIT,0,0
 203,Escherichia_coli_plasmid,MEGAHIT,1,0
 204,Escherichia_coli_plasmid,MEGAHIT,2,0
@@ -602,7 +602,7 @@
 600,Listeria_monocytogenes,MEGAHIT,95,10
 601,Listeria_monocytogenes,MEGAHIT,96,10
 602,Listeria_monocytogenes,MEGAHIT,97,10
-603,Listeria_monocytogenes,MEGAHIT,98,
+603,Listeria_monocytogenes,MEGAHIT,98,11
 604,Listeria_monocytogenes,MEGAHIT,99,
 605,Listeria_monocytogenes,MEGAHIT,100,
 606,Pseudomonas_aeruginosa,MEGAHIT,0,0

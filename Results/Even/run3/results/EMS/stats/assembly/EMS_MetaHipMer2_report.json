@@ -1,1 +1,1 @@
-{"assembler":"MetaHipMer2","sample_id":"EMS","global":{"contigs":884,"basepairs":30381315,"max_contig_size":468375,"N50":106383,"mapped_reads":98.48553934303732,"Ns":0},"filtered":{"contigs":712,"basepairs":30262824,"N50":106637,"mapped_reads":97.57127889698471,"Ns":0}}
+{"assembler":"MetaHipMer2","sample_id":"EMS","global":{"contigs":885,"basepairs":30381792,"max_contig_size":468375,"N50":106383,"mapped_reads":98.49511167819199,"Ns":0},"filtered":{"contigs":712,"basepairs":30262824,"N50":106637,"mapped_reads":97.5715122297679,"Ns":0}}

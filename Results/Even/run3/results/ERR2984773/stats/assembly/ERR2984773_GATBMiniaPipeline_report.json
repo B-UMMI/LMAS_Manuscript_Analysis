@@ -1,1 +1,1 @@
-{"assembler":"GATBMiniaPipeline","sample_id":"ERR2984773","global":{"contigs":5402,"basepairs":32811080,"max_contig_size":768462,"N50":102115,"mapped_reads":84.06437665801514,"Ns":0},"filtered":{"contigs":761,"basepairs":30564398,"N50":113162,"mapped_reads":82.83607249072388,"Ns":0}}
+{"assembler":"GATBMiniaPipeline","sample_id":"ERR2984773","global":{"contigs":5400,"basepairs":32810830,"max_contig_size":768462,"N50":102115,"mapped_reads":84.06945876216788,"Ns":0},"filtered":{"contigs":761,"basepairs":30564352,"N50":113162,"mapped_reads":82.84195134132834,"Ns":0}}

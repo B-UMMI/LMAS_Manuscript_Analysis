@@ -1,1 +1,1 @@
-{"assembler":"IDBA-UD","sample_id":"ENN","global":{"contigs":1821,"basepairs":30390357,"max_contig_size":585610,"N50":63725,"mapped_reads":100.02575766577955,"Ns":0},"filtered":{"contigs":1278,"basepairs":30129709,"N50":65108,"mapped_reads":98.24480231247611,"Ns":0}}
+{"assembler":"IDBA-UD","sample_id":"ENN","global":{"contigs":1822,"basepairs":30390566,"max_contig_size":585610,"N50":63725,"mapped_reads":100.02930318627902,"Ns":0},"filtered":{"contigs":1279,"basepairs":30130413,"N50":65108,"mapped_reads":98.24580393624483,"Ns":0}}
