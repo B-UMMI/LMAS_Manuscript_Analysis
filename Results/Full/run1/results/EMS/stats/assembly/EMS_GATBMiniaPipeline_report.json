@@ -1,0 +1,1 @@
+{"assembler":"GATBMiniaPipeline","sample_id":"EMS","global":{"contigs":943,"basepairs":30509406,"max_contig_size":768585,"N50":121957,"mapped_reads":100.11657533490367,"Ns":0},"filtered":{"contigs":657,"basepairs":30343348,"N50":122545,"mapped_reads":98.94617809437685,"Ns":0}}

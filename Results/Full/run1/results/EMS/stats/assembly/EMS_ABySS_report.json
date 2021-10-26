@@ -1,0 +1,1 @@
+{"assembler":"ABySS","sample_id":"EMS","global":{"contigs":32431,"basepairs":34563949,"max_contig_size":841100,"N50":124246,"mapped_reads":105.69164105222842,"Ns":883},"filtered":{"contigs":499,"basepairs":30988200,"N50":138706,"mapped_reads":105.49852118234844,"Ns":610}}

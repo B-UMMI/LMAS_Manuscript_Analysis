@@ -1,0 +1,6 @@
+NODE_2264623_length_1115_cov_11.374887	1141	0	1141	+	Bacillus_subtilis	12137031	2041813	2042954	1141	1141	0	NM:i:0	ms:i:1141	AS:i:1141	nn:i:0	tp:A:P	cm:i:202	s1:i:1130	s2:i:1130	de:f:0	rl:i:0	cs:Z::1141
+NODE_2343647_length_1014_cov_8.837278	1040	0	1040	+	Bacillus_subtilis	12137031	5041140	5042180	1040	1040	0	NM:i:0	ms:i:1040	AS:i:1040	nn:i:0	tp:A:P	cm:i:173	s1:i:1031	s2:i:1031	de:f:0	rl:i:0	cs:Z::1040
+NODE_2904790_length_1045_cov_11.911962	1071	0	1071	+	Bacillus_subtilis	12137031	9821961	9823032	1071	1071	0	NM:i:0	ms:i:1071	AS:i:1071	nn:i:0	tp:A:P	cm:i:190	s1:i:1065	s2:i:1065	de:f:0	rl:i:0	cs:Z::1071
+NODE_3145238_length_985_cov_10.305584	1011	0	1011	+	Bacillus_subtilis	12137031	4288528	4289539	1011	1011	0	NM:i:0	ms:i:1011	AS:i:1011	nn:i:0	tp:A:P	cm:i:186	s1:i:996	s2:i:996	de:f:0	rl:i:0	cs:Z::1011
+NODE_4100346_length_1306_cov_12.344563	1332	0	1332	+	Bacillus_subtilis	12137031	3002686	3004018	1332	1332	0	NM:i:0	ms:i:1332	AS:i:1332	nn:i:0	tp:A:P	cm:i:243	s1:i:1332	s2:i:1332	de:f:0	rl:i:0	cs:Z::1332
+NODE_4407220_length_1000_cov_14.234000	1026	0	1026	+	Bacillus_subtilis	12137031	5974436	5975462	1026	1026	0	NM:i:0	ms:i:1026	AS:i:1026	nn:i:0	tp:A:P	cm:i:182	s1:i:1012	s2:i:1012	de:f:0	rl:i:0	cs:Z::1026

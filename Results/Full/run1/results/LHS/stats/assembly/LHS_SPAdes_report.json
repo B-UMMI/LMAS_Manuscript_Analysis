@@ -1,0 +1,1 @@
+{"assembler":"SPAdes","sample_id":"LHS","global":{"contigs":31040,"basepairs":16214591,"max_contig_size":263645,"N50":46478,"mapped_reads":99.31499577944325,"Ns":0},"filtered":{"contigs":1526,"basepairs":13087777,"N50":69361,"mapped_reads":77.13668089463427,"Ns":0}}
