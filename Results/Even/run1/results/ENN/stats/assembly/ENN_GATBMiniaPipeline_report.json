@@ -1,0 +1,1 @@
+{"assembler":"GATBMiniaPipeline","sample_id":"ENN","global":{"contigs":1100,"basepairs":30440762,"max_contig_size":632215,"N50":90346,"mapped_reads":100.06718846712181,"Ns":0},"filtered":{"contigs":814,"basepairs":30273320,"N50":90988,"mapped_reads":98.9806144825236,"Ns":0}}
