@@ -1,0 +1,1 @@
+{"assembler":"ABySS","sample_id":"LNN","global":{"contigs":44619,"basepairs":20132244,"max_contig_size":851314,"N50":9569,"mapped_reads":101.17453591018936,"Ns":1345},"filtered":{"contigs":1211,"basepairs":13573790,"N50":192306,"mapped_reads":99.93461983797143,"Ns":400}}

@@ -1,0 +1,1 @@
+{"assembler":"SPAdes","sample_id":"LNN","global":{"contigs":7331,"basepairs":15606257,"max_contig_size":632639,"N50":122703,"mapped_reads":100.10391877063134,"Ns":0},"filtered":{"contigs":227,"basepairs":13640340,"N50":136684,"mapped_reads":98.98417922589621,"Ns":0}}

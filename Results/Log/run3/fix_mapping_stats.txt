@@ -1,0 +1,155 @@
+import sys
+import os
+import subprocess
+from subprocess import PIPE
+import glob
+import gzip
+import json
+import csv
+
+def map_to_assembly(assembly, reads, sample_id, assembler,threshold, n_reads_total):
+
+    mapped_reads = 0
+
+    cli = [
+        "minimap2",
+        "--sr",
+        "-k21",
+        "-N5",
+        "--secondary=no",
+        assembly,
+        reads[0],
+        reads[1],
+        ">",
+        "{}_{}_read_mapping_original.paf".format(sample_id, assembler)
+    ]
+
+    print("Running minimap2 subprocess with command: {}".format(' '.join(cli)))
+
+    p = subprocess.Popen(' '.join(cli), shell=True, stdout=PIPE, stderr=PIPE)
+    stdout, stderr = p.communicate()
+
+    try:
+        stderr = stderr.decode("utf8")
+        stdout = stdout.decode("utf8")
+    except (UnicodeDecodeError, AttributeError):
+        stderr = str(stderr)
+        stdout = str(stdout)
+
+    print("Finished minimap2 subprocess with STDOUT:\\n"
+                "======================================\\n{}".format(stdout))
+    print("Fished minimap2 subprocesswith STDERR:\\n"
+                "======================================\\n{}".format(stderr))
+    print("Finished minimap2 with return code: {}".format(p.returncode))
+
+    if p.returncode == 0:
+        # count number of reads mapping
+        with open("{}_{}_read_mapping_original.paf".format(sample_id, assembler)) as fh:
+            csv_paf_file = csv.reader(fh, delimiter='\t')
+            n_reads_mapping = 0
+            for row in csv_paf_file:
+                if int(row[10]) >= (int(row[1]) * float(threshold)):
+                    n_reads_mapping += 1
+        print("Number of reads mapping to assembly: {}".format(n_reads_mapping))
+
+
+        try:
+            mapped_reads = n_reads_mapping / n_reads_total
+            print("Percentage of mapped reads to assembly: {}".format(mapped_reads))
+        except ZeroDivisionError:
+            mapped_reads = 0
+    
+    os.remove("{}_{}_read_mapping_original.paf".format(sample_id, assembler))
+
+    return mapped_reads
+
+
+def main(sample_id, assembler, assembly, filtered_assembly, fastq, basedir, threshold):
+    # get correct fastq files from directory
+    all_readfiles = glob.glob(os.path.join(basedir, '/'.join(fastq.split('/')[:-1]), '*'))
+    print("Read files found: {}".format(all_readfiles))
+    reads = []
+    for file in all_readfiles:
+        if sample_id in file and 'fq' in file:
+            reads.append(file)
+    print("Matching read files: {}".format(reads))
+
+    # get total number of reads
+    n_reads_total = (sum(1 for line in gzip.open(reads[1], 'rb'))/4) * 2
+    print("Number of reads in fastq file: {}".format(n_reads_total))
+
+    # map to original assembly
+    mapped_reads_original = map_to_assembly(assembly, reads, sample_id, assembler,threshold, n_reads_total)
+    with open("{}_{}_read_mapping_original.txt".format(sample_id, assembler), 'w') as fh:
+        fh.write(str(mapped_reads_original * 100))
+
+    # map to filtered assembly
+    mapped_reads_filtered = map_to_assembly(filtered_assembly, reads, sample_id, assembler,threshold, n_reads_total)
+    with open("{}_{}_read_mapping_filtered.txt".format(sample_id, assembler), 'w') as fh:
+        fh.write(str(mapped_reads_filtered * 100))
+
+    json_dic = {
+        sample_id: {
+            "assembler": assembler,
+            "mapped_reads_original": mapped_reads_original * 100,
+            "mapped_reads_filtered": mapped_reads_filtered * 100
+    }}
+    print("Number of reads mapped: {}".format(json_dic))
+
+    os.remove("{}_{}_read_mapping_original.txt".format(sample_id, assembler))
+    os.remove("{}_{}_read_mapping_filtered.txt".format(sample_id, assembler))
+
+    return json_dic
+
+if __name__ == '__main__':
+
+    dict = {
+        "abyss": "ABySS",
+        "bcalm2": "BCALM2", 
+        "GATBMiniaPipeline": "GATBMiniaPipeline", 
+        "IDBA-UD": "IDBA-UD", 
+        "MetaHipMer2": "MetaHipMer2", 
+        "MEGAHIT": "MEGAHIT",
+        "metaSPAdes": "metaSPAdes", 
+        "MINIA": "MINIA", 
+        "SKESA": "SKESA", 
+        "unicycler": "Unicycler", 
+        "VelvetOtimiser": "VelvetOptimiser",
+        "SPAdes": "SPAdes"
+    }
+
+    with open("report/pipeline_report_tables.json") as fh:
+        json_dict_tables = json.load(fh)
+    
+    #for sample in ["EMS", "LNN", "ERR2935805", "ERR2984773", "ENN", "LHS"]:
+    for sample in ["LNN", "ERR2935805", "LHS"]:
+        print('->' + sample)
+        for assembler in ["abyss", "bcalm2", "GATBMiniaPipeline", "IDBA-UD", "MetaHipMer2","MEGAHIT", "metaSPAdes", "MINIA", "SKESA", "SPAdes", "unicycler", "VelvetOtimiser"]:
+        #for assembler in ["MEGAHIT"]:    
+            print('    ' + '- ' + assembler)
+            try:
+                assembly = glob.glob("/home/ines/Documents/LMAS/Runs/Log/run3/results/"+ sample+ "/assembly/"+ assembler+ "/*.fasta")[0]
+
+                if assembler in ["abyss", "bcalm2", "GATBMiniaPipeline", "IDBA-UD", "MetaHipMer2","MEGAHIT"]:
+                    filtered_assembly = glob.glob("/home/ines/Documents/LMAS/Runs/Log/run3/results/"+ sample+ "/assembly/filtered/*"+ dict[assembler]+ ".fasta")[0]
+                else:
+                    filtered_assembly = glob.glob("/home/ines/Documents/LMAS/Runs/Log/run3/results/"+ sample+ "/assembly/filtered/*"+ dict[assembler].lower() + ".fasta")[0]
+                
+                fastq = "/home/ines/Documents/LMAS/Reads/*.fq"
+                threshold = 0.75
+                basedir = '/home/ines/Documents/LMAS/Reads/'
+                mapping_report = main(sample, assembler, assembly, filtered_assembly, fastq, basedir, threshold)
+
+                for i in range(0, len(json_dict_tables[sample]['GlobalTable'])):
+                    if json_dict_tables[sample]['GlobalTable'][i]["assembler"] == dict[assembler]:
+                        json_dict_tables[sample]['GlobalTable'][i]["original"]["mapped_reads"] = mapping_report[sample]["mapped_reads_original"]
+                        json_dict_tables[sample]['GlobalTable'][i]["filtered"]["mapped_reads"] = mapping_report[sample]["mapped_reads_filtered"]
+            except Exception as e: 
+                print(e)
+                with open("failed.txt", "a") as fh:
+                    fh.write(sample + ',' + assembler + '\n')
+    
+    with open("pipeline_report_tables.json", "w") as json_report:
+        json_report.write(json.dumps(json_dict_tables, separators=(",", ":")))
+
+
