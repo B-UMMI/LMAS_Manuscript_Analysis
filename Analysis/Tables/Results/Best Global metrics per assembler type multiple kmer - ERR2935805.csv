@@ -1,0 +1,3 @@
+Assembler Type,Ns,basepairs,contigs,filtered_Ns,filtered_basepairs,filtered_contigs,filtered_mapped_reads,filtered_n50,mapped_reads,max_contig,misassembled contigs,misassembly events,n50
+Metagenomic,0.0,27822010.0,6776.0,0.0,18792639.0,603.0,89.502390767225,210993.0,89.92625377951288,768410.0,0.0,0.0,82249.0
+Genomic,0.0,29517365.0,205.0,0.0,19595813.0,144.0,87.47524306302446,256884.0,88.05619365539616,847683.0,0.0,0.0,256884.0
