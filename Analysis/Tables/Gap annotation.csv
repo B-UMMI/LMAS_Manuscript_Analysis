@@ -1,0 +1,849 @@
+,Annotation,Gap End,Gap Start,Reference
+0,IS3 family transposase ISBsu1,209796.0,209156.0,<i>Bacillus subtilis</i>
+1,hypothetical protein,233816.0,233586.0,<i>Bacillus subtilis</i>
+2,IS3 family transposase ISBsu1,234396.0,234193.0,<i>Bacillus subtilis</i>
+3,hypothetical protein,372354.0,371889.0,<i>Bacillus subtilis</i>
+4,IS3 family transposase ISBsu1,372760.0,372386.0,<i>Bacillus subtilis</i>
+5,hypothetical protein,642654.0,642537.0,<i>Bacillus subtilis</i>
+6,hypothetical protein,801836.0,801720.0,<i>Bacillus subtilis</i>
+7,hypothetical protein,802673.0,802062.0,<i>Bacillus subtilis</i>
+8,hypothetical protein,803024.0,802674.0,<i>Bacillus subtilis</i>
+9,hypothetical protein,803896.0,803025.0,<i>Bacillus subtilis</i>
+10,hypothetical protein,804256.0,803897.0,<i>Bacillus subtilis</i>
+11,hypothetical protein,805055.0,804257.0,<i>Bacillus subtilis</i>
+12,hypothetical protein,805866.0,805056.0,<i>Bacillus subtilis</i>
+13,hypothetical protein,806017.0,805867.0,<i>Bacillus subtilis</i>
+14,hypothetical protein,806716.0,806018.0,<i>Bacillus subtilis</i>
+15,hypothetical protein,806897.0,806717.0,<i>Bacillus subtilis</i>
+16,hypothetical protein,807046.0,806898.0,<i>Bacillus subtilis</i>
+17,hypothetical protein,1060745.0,1059827.0,<i>Bacillus subtilis</i>
+18,IS3 family transposase ISBsu1,1356288.0,1355296.0,<i>Bacillus subtilis</i>
+19,IS3 family transposase ISBsu1,1672516.0,1671505.0,<i>Bacillus subtilis</i>
+20,tRNA-Ala(tgc),1711000.0,1710816.0,<i>Bacillus subtilis</i>
+21,tRNA-Leu(taa),1711194.0,1711056.0,<i>Bacillus subtilis</i>
+22,tRNA-Thr(tgt),1711591.0,1711484.0,<i>Bacillus subtilis</i>
+23,tRNA-Val(tac),1711703.0,1711592.0,<i>Bacillus subtilis</i>
+24,5S ribosomal RNA,1711873.0,1711704.0,<i>Bacillus subtilis</i>
+25,23S ribosomal RNA,1714248.0,1711874.0,<i>Bacillus subtilis</i>
+26,23S ribosomal RNA,1716428.0,1714249.0,<i>Bacillus subtilis</i>
+27,hypothetical protein,1755972.0,1754969.0,<i>Bacillus subtilis</i>
+28,IS3 family transposase ISBsu1,2019556.0,2019443.0,<i>Bacillus subtilis</i>
+29,IS3 family transposase ISBsu1,2020044.0,2019557.0,<i>Bacillus subtilis</i>
+30,IS3 family transposase ISBsu1,2020357.0,2020106.0,<i>Bacillus subtilis</i>
+31,16S ribosomal RNA,2789725.0,2788999.0,<i>Bacillus subtilis</i>
+32,16S ribosomal RNA,2790246.0,2789726.0,<i>Bacillus subtilis</i>
+33,16S ribosomal RNA,2790677.0,2790288.0,<i>Bacillus subtilis</i>
+34,tRNA-Ala(tgc),2791308.0,2790678.0,<i>Bacillus subtilis</i>
+35,23S ribosomal RNA,2792509.0,2791363.0,<i>Bacillus subtilis</i>
+36,23S ribosomal RNA,2792668.0,2792510.0,<i>Bacillus subtilis</i>
+37,23S ribosomal RNA,2793566.0,2792669.0,<i>Bacillus subtilis</i>
+38,23S ribosomal RNA,2793800.0,2793567.0,<i>Bacillus subtilis</i>
+39,16S ribosomal RNA,2814178.0,2809558.0,<i>Bacillus subtilis</i>
+40,23S ribosomal RNA,2814411.0,2814179.0,<i>Bacillus subtilis</i>
+41,16S ribosomal RNA,2871432.0,2869882.0,<i>Bacillus subtilis</i>
+42,5S ribosomal RNA,2875052.0,2874534.0,<i>Bacillus subtilis</i>
+43,tRNA-Gly(gcc),2875663.0,2875053.0,<i>Bacillus subtilis</i>
+44,16S ribosomal RNA,2941911.0,2940369.0,<i>Bacillus subtilis</i>
+45,23S ribosomal RNA,2943738.0,2942543.0,<i>Bacillus subtilis</i>
+46,23S ribosomal RNA,2943901.0,2943739.0,<i>Bacillus subtilis</i>
+47,23S ribosomal RNA,2944454.0,2944043.0,<i>Bacillus subtilis</i>
+48,23S ribosomal RNA,2944873.0,2944532.0,<i>Bacillus subtilis</i>
+49,tRNA-Gly(gcc),2945884.0,2945417.0,<i>Bacillus subtilis</i>
+50,16S ribosomal RNA,2955497.0,2945982.0,<i>Bacillus subtilis</i>
+51,hypothetical protein,3078897.0,3078240.0,<i>Bacillus subtilis</i>
+52,IS3 family transposase ISBsu1,3079252.0,3078898.0,<i>Bacillus subtilis</i>
+53,Surfactin synthase subunit 1,3163646.0,3163238.0,<i>Bacillus subtilis</i>
+54,Surfactin synthase subunit 2,3174410.0,3174013.0,<i>Bacillus subtilis</i>
+55,16S ribosomal RNA,3406568.0,3404538.0,<i>Bacillus subtilis</i>
+56,23S ribosomal RNA,3407713.0,3406692.0,<i>Bacillus subtilis</i>
+57,23S ribosomal RNA,3408170.0,3407714.0,<i>Bacillus subtilis</i>
+58,23S ribosomal RNA,3408678.0,3408213.0,<i>Bacillus subtilis</i>
+59,23S ribosomal RNA,3408995.0,3408679.0,<i>Bacillus subtilis</i>
+60,hypothetical protein,3439989.0,3438983.0,<i>Bacillus subtilis</i>
+61,16S ribosomal RNA,3698001.0,3697337.0,<i>Bacillus subtilis</i>
+62,16S ribosomal RNA,3698822.0,3698002.0,<i>Bacillus subtilis</i>
+63,23S ribosomal RNA,3701434.0,3699463.0,<i>Bacillus subtilis</i>
+64,23S ribosomal RNA,3701747.0,3701435.0,<i>Bacillus subtilis</i>
+65,23S ribosomal RNA,3702428.0,3701834.0,<i>Bacillus subtilis</i>
+66,hypothetical protein,539292.0,539157.0,<i>Enterococcus faecalis</i>
+67,hypothetical protein,539507.0,539293.0,<i>Enterococcus faecalis</i>
+68,hypothetical protein,539662.0,539508.0,<i>Enterococcus faecalis</i>
+69,Coenzyme A disulfide reductase,701621.0,692308.0,<i>Enterococcus faecalis</i>
+70,UDP-glucose 4-epimerase,1040591.0,1040489.0,<i>Enterococcus faecalis</i>
+71,UDP-glucose 4-epimerase,1040733.0,1040593.0,<i>Enterococcus faecalis</i>
+72,5S ribosomal RNA,1087701.0,1087548.0,<i>Enterococcus faecalis</i>
+73,23S ribosomal RNA,1088011.0,1087702.0,<i>Enterococcus faecalis</i>
+74,23S ribosomal RNA,1088605.0,1088086.0,<i>Enterococcus faecalis</i>
+75,23S ribosomal RNA,1088865.0,1088706.0,<i>Enterococcus faecalis</i>
+76,23S ribosomal RNA,1089851.0,1088866.0,<i>Enterococcus faecalis</i>
+77,23S ribosomal RNA,1090133.0,1089905.0,<i>Enterococcus faecalis</i>
+78,23S ribosomal RNA,1090369.0,1090134.0,<i>Enterococcus faecalis</i>
+79,23S ribosomal RNA,1090585.0,1090370.0,<i>Enterococcus faecalis</i>
+80,23S ribosomal RNA,1090818.0,1090586.0,<i>Enterococcus faecalis</i>
+81,16S ribosomal RNA,1092562.0,1091536.0,<i>Enterococcus faecalis</i>
+82,IS3 family transposase ISEfa10,1123349.0,1122116.0,<i>Enterococcus faecalis</i>
+83,16S ribosomal RNA,1363453.0,1362534.0,<i>Enterococcus faecalis</i>
+84,16S ribosomal RNA,1364105.0,1363506.0,<i>Enterococcus faecalis</i>
+85,23S ribosomal RNA,1364860.0,1364309.0,<i>Enterococcus faecalis</i>
+86,23S ribosomal RNA,1365013.0,1364861.0,<i>Enterococcus faecalis</i>
+87,23S ribosomal RNA,1365593.0,1365014.0,<i>Enterococcus faecalis</i>
+88,23S ribosomal RNA,1365993.0,1365594.0,<i>Enterococcus faecalis</i>
+89,23S ribosomal RNA,1366153.0,1365994.0,<i>Enterococcus faecalis</i>
+90,23S ribosomal RNA,1366761.0,1366255.0,<i>Enterococcus faecalis</i>
+91,23S ribosomal RNA,1367247.0,1366774.0,<i>Enterococcus faecalis</i>
+92,hypothetical protein,1404211.0,1403783.0,<i>Enterococcus faecalis</i>
+93,hypothetical protein,1404517.0,1404213.0,<i>Enterococcus faecalis</i>
+94,hypothetical protein,1439236.0,1439084.0,<i>Enterococcus faecalis</i>
+95,hypothetical protein,1439668.0,1439330.0,<i>Enterococcus faecalis</i>
+96,hypothetical protein,1577825.0,1577397.0,<i>Enterococcus faecalis</i>
+97,hypothetical protein,1578101.0,1577826.0,<i>Enterococcus faecalis</i>
+98,D-glucosaminate-6-phosphate ammonia lyase,1685863.0,1685262.0,<i>Enterococcus faecalis</i>
+99,2-dehydro-3-deoxy-phosphogluconate aldolase,1686276.0,1685864.0,<i>Enterococcus faecalis</i>
+100,2-dehydro-3-deoxy-phosphogluconate aldolase,1686391.0,1686278.0,<i>Enterococcus faecalis</i>
+101,hypothetical protein,1717303.0,1717096.0,<i>Enterococcus faecalis</i>
+102,hypothetical protein,1718168.0,1717620.0,<i>Enterococcus faecalis</i>
+103,hypothetical protein,1718824.0,1718169.0,<i>Enterococcus faecalis</i>
+104,hypothetical protein,1719040.0,1718867.0,<i>Enterococcus faecalis</i>
+105,16S ribosomal RNA,1806533.0,1806402.0,<i>Enterococcus faecalis</i>
+106,16S ribosomal RNA,1808136.0,1806575.0,<i>Enterococcus faecalis</i>
+107,23S ribosomal RNA,1809680.0,1808137.0,<i>Enterococcus faecalis</i>
+108,23S ribosomal RNA,1809957.0,1809681.0,<i>Enterococcus faecalis</i>
+109,23S ribosomal RNA,1811041.0,1809958.0,<i>Enterococcus faecalis</i>
+110,D-glucosaminate-6-phosphate ammonia lyase,2189026.0,2188414.0,<i>Enterococcus faecalis</i>
+111,2-dehydro-3-deoxy-phosphogluconate aldolase,2189439.0,2189027.0,<i>Enterococcus faecalis</i>
+112,2-dehydro-3-deoxy-phosphogluconate aldolase,2189557.0,2189440.0,<i>Enterococcus faecalis</i>
+113,16S ribosomal RNA,2425163.0,2424855.0,<i>Enterococcus faecalis</i>
+114,16S ribosomal RNA,2425729.0,2425164.0,<i>Enterococcus faecalis</i>
+115,16S ribosomal RNA,2426386.0,2425773.0,<i>Enterococcus faecalis</i>
+116,23S ribosomal RNA,2428578.0,2427430.0,<i>Enterococcus faecalis</i>
+117,23S ribosomal RNA,2429748.0,2428579.0,<i>Enterococcus faecalis</i>
+118,UDP-glucose 4-epimerase,2449489.0,2449349.0,<i>Enterococcus faecalis</i>
+119,UDP-glucose 4-epimerase,2449593.0,2449491.0,<i>Enterococcus faecalis</i>
+120,UDP-glucose 4-epimerase,2449882.0,2449736.0,<i>Enterococcus faecalis</i>
+121,Phosphoenolpyruvate-protein phosphotransferase,16451.0,16114.0,<i>Escherichia coli</i>
+122,tRNA-Lys(ttt),29171.0,28988.0,<i>Escherichia coli</i>
+123,IS1 family transposase IS1A,358568.0,358078.0,<i>Escherichia coli</i>
+124,hypothetical protein,460523.0,459992.0,<i>Escherichia coli</i>
+125,hypothetical protein,460772.0,460524.0,<i>Escherichia coli</i>
+126,hypothetical protein,460909.0,460773.0,<i>Escherichia coli</i>
+127,IS110 family transposase ISEc45,467403.0,467087.0,<i>Escherichia coli</i>
+128,IS110 family transposase ISEc45,467828.0,467404.0,<i>Escherichia coli</i>
+129,hypothetical protein,488256.0,487814.0,<i>Escherichia coli</i>
+130,hypothetical protein,495180.0,494833.0,<i>Escherichia coli</i>
+131,hypothetical protein,498537.0,498199.0,<i>Escherichia coli</i>
+132,hypothetical protein,513368.0,513036.0,<i>Escherichia coli</i>
+133,Prophage tail fiber assembly protein TfaE,513798.0,513539.0,<i>Escherichia coli</i>
+134,IS1 family transposase IS1A,533198.0,532708.0,<i>Escherichia coli</i>
+135,IS1 family transposase IS1A,578030.0,577908.0,<i>Escherichia coli</i>
+136,IS1 family transposase IS1A,578393.0,578031.0,<i>Escherichia coli</i>
+137,hypothetical protein,678425.0,677336.0,<i>Escherichia coli</i>
+138,50S ribosomal protein L35,758597.0,758487.0,<i>Escherichia coli</i>
+139,hypothetical protein,907824.0,907484.0,<i>Escherichia coli</i>
+140,hypothetical protein,908018.0,907908.0,<i>Escherichia coli</i>
+141,hypothetical protein,908954.0,908019.0,<i>Escherichia coli</i>
+142,hypothetical protein,909126.0,909019.0,<i>Escherichia coli</i>
+143,hypothetical protein,909293.0,909127.0,<i>Escherichia coli</i>
+144,hypothetical protein,909543.0,909294.0,<i>Escherichia coli</i>
+145,hypothetical protein,909956.0,909544.0,<i>Escherichia coli</i>
+146,hypothetical protein,910310.0,909957.0,<i>Escherichia coli</i>
+147,hypothetical protein,913098.0,912344.0,<i>Escherichia coli</i>
+148,hypothetical protein,913484.0,913285.0,<i>Escherichia coli</i>
+149,IS1 family transposase IS1A,928181.0,927605.0,<i>Escherichia coli</i>
+150,hypothetical protein,929493.0,929231.0,<i>Escherichia coli</i>
+151,hypothetical protein,930457.0,929595.0,<i>Escherichia coli</i>
+152,hypothetical protein,930597.0,930458.0,<i>Escherichia coli</i>
+153,hypothetical protein,931139.0,930749.0,<i>Escherichia coli</i>
+154,Glutamate decarboxylase beta,1002788.0,1001936.0,<i>Escherichia coli</i>
+155,ISAs1 family transposase ISEc5,1041125.0,1041023.0,<i>Escherichia coli</i>
+156,ISAs1 family transposase ISEc5,1041296.0,1041192.0,<i>Escherichia coli</i>
+157,ISAs1 family transposase ISEc5,1041483.0,1041297.0,<i>Escherichia coli</i>
+158,ISAs1 family transposase ISEc5,1041786.0,1041538.0,<i>Escherichia coli</i>
+159,Protein RhsD,1045309.0,1044742.0,<i>Escherichia coli</i>
+160,Protein RhsD,1045458.0,1045310.0,<i>Escherichia coli</i>
+161,Protein RhsD,1045664.0,1045539.0,<i>Escherichia coli</i>
+162,Protein RhsD,1046098.0,1045665.0,<i>Escherichia coli</i>
+163,Prophage tail fiber assembly protein TfaE,1117185.0,1116958.0,<i>Escherichia coli</i>
+164,Prophage tail fiber assembly protein TfaE,1241948.0,1241583.0,<i>Escherichia coli</i>
+165,hypothetical protein,1242363.0,1242140.0,<i>Escherichia coli</i>
+166,hypothetical protein,1261015.0,1260910.0,<i>Escherichia coli</i>
+167,hypothetical protein,1261570.0,1261202.0,<i>Escherichia coli</i>
+168,hypothetical protein,1261956.0,1261571.0,<i>Escherichia coli</i>
+169,hypothetical protein,1262924.0,1262099.0,<i>Escherichia coli</i>
+170,hypothetical protein,1263909.0,1263050.0,<i>Escherichia coli</i>
+171,hypothetical protein,1264657.0,1264391.0,<i>Escherichia coli</i>
+172,hypothetical protein,1265021.0,1264658.0,<i>Escherichia coli</i>
+173,hypothetical protein,1265193.0,1265069.0,<i>Escherichia coli</i>
+174,hypothetical protein,1265300.0,1265194.0,<i>Escherichia coli</i>
+175,hypothetical protein,1265437.0,1265301.0,<i>Escherichia coli</i>
+176,hypothetical protein,1266256.0,1265441.0,<i>Escherichia coli</i>
+177,hypothetical protein,1266833.0,1266439.0,<i>Escherichia coli</i>
+178,Acyl carrier protein,1442813.0,1442677.0,<i>Escherichia coli</i>
+179,IS1 family transposase IS1A,1489770.0,1489194.0,<i>Escherichia coli</i>
+180,hypothetical protein,1521963.0,1521762.0,<i>Escherichia coli</i>
+181,IS1 family transposase IS1X2,1530146.0,1529863.0,<i>Escherichia coli</i>
+182,IS3 family transposase ISSd1,1530675.0,1530147.0,<i>Escherichia coli</i>
+183,hypothetical protein,1562876.0,1562700.0,<i>Escherichia coli</i>
+184,hypothetical protein,1563146.0,1562877.0,<i>Escherichia coli</i>
+185,hypothetical protein,1563678.0,1563147.0,<i>Escherichia coli</i>
+186,IS3 family transposase IS629,1568605.0,1568294.0,<i>Escherichia coli</i>
+187,hypothetical protein,1570429.0,1570245.0,<i>Escherichia coli</i>
+188,Cytoskeleton bundling-enhancing antitoxin CbeA,1570559.0,1570430.0,<i>Escherichia coli</i>
+189,Cytoskeleton bundling-enhancing antitoxin CbeA,1570962.0,1570592.0,<i>Escherichia coli</i>
+190,Cytoskeleton-binding toxin CbtA,1571844.0,1571157.0,<i>Escherichia coli</i>
+191,hypothetical protein,1572221.0,1571845.0,<i>Escherichia coli</i>
+192,IS1 family transposase IS1A,1581420.0,1580928.0,<i>Escherichia coli</i>
+193,IS30 family transposase IS30,1646963.0,1646065.0,<i>Escherichia coli</i>
+194,30S ribosomal protein S1,1718113.0,1718011.0,<i>Escherichia coli</i>
+195,30S ribosomal protein S1,1718560.0,1718174.0,<i>Escherichia coli</i>
+196,hypothetical protein,1737568.0,1736466.0,<i>Escherichia coli</i>
+197,HTH-type transcriptional regulator RcdA,1807668.0,1803399.0,<i>Escherichia coli</i>
+198,IS1 family transposase IS1A,1808301.0,1807812.0,<i>Escherichia coli</i>
+199,HTH-type transcriptional regulator RcdA,1818721.0,1814452.0,<i>Escherichia coli</i>
+200,IS1 family transposase IS1A,1819143.0,1818865.0,<i>Escherichia coli</i>
+201,tRNA-Lys(ttt),1922039.0,1921780.0,<i>Escherichia coli</i>
+202,tRNA-Val(tac),1922280.0,1922084.0,<i>Escherichia coli</i>
+203,ISAs1 family transposase ISEc5,1964717.0,1964491.0,<i>Escherichia coli</i>
+204,ISAs1 family transposase ISEc5,1964920.0,1964718.0,<i>Escherichia coli</i>
+205,ISAs1 family transposase ISEc5,1965109.0,1964988.0,<i>Escherichia coli</i>
+206,ISAs1 family transposase ISEc1,1965618.0,1965318.0,<i>Escherichia coli</i>
+207,ISAs1 family transposase ISEc1,1965869.0,1965619.0,<i>Escherichia coli</i>
+208,ISAs1 family transposase ISEc1,1966231.0,1966060.0,<i>Escherichia coli</i>
+209,ISAs1 family transposase ISEc1,1966498.0,1966232.0,<i>Escherichia coli</i>
+210,hypothetical protein,1968331.0,1968225.0,<i>Escherichia coli</i>
+211,hypothetical protein,1968491.0,1968332.0,<i>Escherichia coli</i>
+212,hypothetical protein,1968850.0,1968492.0,<i>Escherichia coli</i>
+213,Protein RhsC,1970311.0,1970066.0,<i>Escherichia coli</i>
+214,Protein RhsC,1970901.0,1970312.0,<i>Escherichia coli</i>
+215,Protein RhsC,1971465.0,1970902.0,<i>Escherichia coli</i>
+216,Protein RhsC,1971806.0,1971466.0,<i>Escherichia coli</i>
+217,Protein RhsC,1973279.0,1971807.0,<i>Escherichia coli</i>
+218,IS4 family transposase IS421,2093831.0,2092851.0,<i>Escherichia coli</i>
+219,Protein RhsD,2154201.0,2153988.0,<i>Escherichia coli</i>
+220,Protein RhsD,2154374.0,2154202.0,<i>Escherichia coli</i>
+221,Protein RhsD,2154555.0,2154375.0,<i>Escherichia coli</i>
+222,Protein RhsD,2154784.0,2154556.0,<i>Escherichia coli</i>
+223,Protein RhsD,2155239.0,2154785.0,<i>Escherichia coli</i>
+224,IS4 family transposase IS421,2222822.0,2221918.0,<i>Escherichia coli</i>
+225,IS4 family transposase IS421,2222982.0,2222823.0,<i>Escherichia coli</i>
+226,ISAs1 family transposase ISEc1,2407719.0,2407476.0,<i>Escherichia coli</i>
+227,ISAs1 family transposase ISEc1,2407983.0,2407832.0,<i>Escherichia coli</i>
+228,ISAs1 family transposase ISEc1,2408175.0,2407984.0,<i>Escherichia coli</i>
+229,5S ribosomal RNA,2430193.0,2425103.0,<i>Escherichia coli</i>
+230,IS1 family transposase IS1A,2612315.0,2611826.0,<i>Escherichia coli</i>
+231,30S ribosomal protein S20,2633907.0,2633642.0,<i>Escherichia coli</i>
+232,IS1 family transposase IS1A,2634755.0,2634263.0,<i>Escherichia coli</i>
+233,IS4 family transposase IS421,2639163.0,2638096.0,<i>Escherichia coli</i>
+234,hypothetical protein,2784474.0,2784075.0,<i>Escherichia coli</i>
+235,IS30 family transposase IS30,2795272.0,2794502.0,<i>Escherichia coli</i>
+236,30S ribosomal protein S18,2869921.0,2869791.0,<i>Escherichia coli</i>
+237,Primosomal replication protein N,2870543.0,2869999.0,<i>Escherichia coli</i>
+238,Ascorbate-specific PTS system EIIC component,2874533.0,2874387.0,<i>Escherichia coli</i>
+239,Adenylosuccinate synthetase,2890422.0,2889835.0,<i>Escherichia coli</i>
+240,Adenylosuccinate synthetase,2890575.0,2890423.0,<i>Escherichia coli</i>
+241,Adenylosuccinate synthetase,2890835.0,2890576.0,<i>Escherichia coli</i>
+242,IS1 family transposase IS1A,2934117.0,2933625.0,<i>Escherichia coli</i>
+243,23S ribosomal RNA,3075711.0,3074357.0,<i>Escherichia coli</i>
+244,23S ribosomal RNA,3076401.0,3075712.0,<i>Escherichia coli</i>
+245,DNA-directed RNA polymerase subunit beta',3098681.0,3098534.0,<i>Escherichia coli</i>
+246,Protein translocase subunit SecE,3108999.0,3108461.0,<i>Escherichia coli</i>
+247,Elongation factor Tu 2,3110165.0,3109289.0,<i>Escherichia coli</i>
+248,Elongation factor Tu 2,3110349.0,3110166.0,<i>Escherichia coli</i>
+249,tRNA-Thr(ggt),3110490.0,3110350.0,<i>Escherichia coli</i>
+250,5S ribosomal RNA,3117811.0,3114396.0,<i>Escherichia coli</i>
+251,16S ribosomal RNA,3119327.0,3119093.0,<i>Escherichia coli</i>
+252,5S ribosomal RNA,3250716.0,3245451.0,<i>Escherichia coli</i>
+253,tRNA-Asp(gtc),3343768.0,3339028.0,<i>Escherichia coli</i>
+254,16S ribosomal RNA,3344337.0,3343769.0,<i>Escherichia coli</i>
+255,ATP synthase subunit delta,3366027.0,3365534.0,<i>Escherichia coli</i>
+256,ATP synthase subunit alpha,3367660.0,3366188.0,<i>Escherichia coli</i>
+257,ATP synthase gamma chain,3368131.0,3367661.0,<i>Escherichia coli</i>
+258,ATP synthase gamma chain,3368415.0,3368132.0,<i>Escherichia coli</i>
+259,Cytoskeleton-binding toxin CbtA,3451940.0,3451621.0,<i>Escherichia coli</i>
+260,hypothetical protein,3456536.0,3455867.0,<i>Escherichia coli</i>
+261,IS3 family transposase ISEc25,3480554.0,3480433.0,<i>Escherichia coli</i>
+262,IS3 family transposase ISEc25,3481055.0,3480640.0,<i>Escherichia coli</i>
+263,IS3 family transposase IS629,3481496.0,3481056.0,<i>Escherichia coli</i>
+264,IS110 family transposase ISEc45,3487277.0,3486952.0,<i>Escherichia coli</i>
+265,IS110 family transposase ISEc45,3487879.0,3487323.0,<i>Escherichia coli</i>
+266,IS3 family transposase IS1203,3504232.0,3504121.0,<i>Escherichia coli</i>
+267,IS3 family transposase IS629,3510119.0,3509272.0,<i>Escherichia coli</i>
+268,Protein RhsC,3581494.0,3581373.0,<i>Escherichia coli</i>
+269,Protein RhsC,3581597.0,3581495.0,<i>Escherichia coli</i>
+270,Protein RhsC,3582124.0,3581684.0,<i>Escherichia coli</i>
+271,Protein RhsC,3582440.0,3582170.0,<i>Escherichia coli</i>
+272,Protein RhsC,3582786.0,3582441.0,<i>Escherichia coli</i>
+273,Protein RhsC,3584622.0,3582808.0,<i>Escherichia coli</i>
+274,Glutamate decarboxylase alpha,3679145.0,3678271.0,<i>Escherichia coli</i>
+275,IS1 family transposase IS1A,3687795.0,3687219.0,<i>Escherichia coli</i>
+276,ISAs1 family transposase ISEc1,3688243.0,3688046.0,<i>Escherichia coli</i>
+277,Protein RhsC,3690582.0,3690002.0,<i>Escherichia coli</i>
+278,Protein RhsC,3690709.0,3690583.0,<i>Escherichia coli</i>
+279,Protein RhsC,3691326.0,3690765.0,<i>Escherichia coli</i>
+280,Protein RhsC,3693228.0,3691327.0,<i>Escherichia coli</i>
+281,30S ribosomal protein S12,3837603.0,3837427.0,<i>Escherichia coli</i>
+282,30S ribosomal protein S12,3837748.0,3837628.0,<i>Escherichia coli</i>
+283,Elongation factor Tu 1,3841060.0,3840905.0,<i>Escherichia coli</i>
+284,Elongation factor Tu 1,3841372.0,3841061.0,<i>Escherichia coli</i>
+285,Elongation factor Tu 1,3841596.0,3841373.0,<i>Escherichia coli</i>
+286,30S ribosomal protein S10,3858891.0,3858680.0,<i>Escherichia coli</i>
+287,30S ribosomal protein S10,3859171.0,3858892.0,<i>Escherichia coli</i>
+288,50S ribosomal protein L3,3859405.0,3859172.0,<i>Escherichia coli</i>
+289,50S ribosomal protein L3,3859593.0,3859428.0,<i>Escherichia coli</i>
+290,50S ribosomal protein L2,3860807.0,3860703.0,<i>Escherichia coli</i>
+291,50S ribosomal protein L2,3861205.0,3860808.0,<i>Escherichia coli</i>
+292,50S ribosomal protein L2,3862134.0,3861206.0,<i>Escherichia coli</i>
+293,30S ribosomal protein S3,3862284.0,3862135.0,<i>Escherichia coli</i>
+294,30S ribosomal protein S3,3862452.0,3862285.0,<i>Escherichia coli</i>
+295,30S ribosomal protein S3,3862809.0,3862453.0,<i>Escherichia coli</i>
+296,50S ribosomal protein L16,3863447.0,3862810.0,<i>Escherichia coli</i>
+297,30S ribosomal protein S17,3863682.0,3863448.0,<i>Escherichia coli</i>
+298,50S ribosomal protein L14,3865109.0,3863986.0,<i>Escherichia coli</i>
+299,30S ribosomal protein S14,3865448.0,3865110.0,<i>Escherichia coli</i>
+300,30S ribosomal protein S8,3868379.0,3865449.0,<i>Escherichia coli</i>
+301,Protein translocase subunit SecY,3868538.0,3868380.0,<i>Escherichia coli</i>
+302,Protein translocase subunit SecY,3868677.0,3868539.0,<i>Escherichia coli</i>
+303,Protein translocase subunit SecY,3869569.0,3868678.0,<i>Escherichia coli</i>
+304,30S ribosomal protein S13,3869717.0,3869570.0,<i>Escherichia coli</i>
+305,30S ribosomal protein S13,3869914.0,3869718.0,<i>Escherichia coli</i>
+306,30S ribosomal protein S11,3871087.0,3869915.0,<i>Escherichia coli</i>
+307,DNA-directed RNA polymerase subunit alpha,3871496.0,3871088.0,<i>Escherichia coli</i>
+308,DNA-directed RNA polymerase subunit alpha,3871817.0,3871614.0,<i>Escherichia coli</i>
+309,23S ribosomal RNA,3887068.0,3885752.0,<i>Escherichia coli</i>
+310,23S ribosomal RNA,3888085.0,3887069.0,<i>Escherichia coli</i>
+311,tRNA-dihydrouridine synthase B,3900897.0,3900673.0,<i>Escherichia coli</i>
+312,50S ribosomal protein L13,3933517.0,3933380.0,<i>Escherichia coli</i>
+313,50S ribosomal protein L13,3933638.0,3933518.0,<i>Escherichia coli</i>
+314,hypothetical protein,4447730.0,4446661.0,<i>Escherichia coli</i>
+315,tRNA-Arg(acg),4507566.0,4507383.0,<i>Escherichia coli</i>
+316,tRNA-Arg(acg),4507947.0,4507819.0,<i>Escherichia coli</i>
+317,IS1 family transposase IS1A,4553786.0,4553520.0,<i>Escherichia coli</i>
+318,16S ribosomal RNA,4591689.0,4591471.0,<i>Escherichia coli</i>
+319,16S ribosomal RNA,4592887.0,4591690.0,<i>Escherichia coli</i>
+320,16S ribosomal RNA,4593020.0,4592888.0,<i>Escherichia coli</i>
+321,tRNA-Glu(ttc),4593977.0,4593180.0,<i>Escherichia coli</i>
+322,23S ribosomal RNA,4596421.0,4593978.0,<i>Escherichia coli</i>
+323,ISL3 family transposase ISL3,3559.0,2300.0,<i>Lactobacillus fermentum</i>
+324,hypothetical protein,5498.0,3712.0,<i>Lactobacillus fermentum</i>
+325,16S ribosomal RNA,21066.0,20125.0,<i>Lactobacillus fermentum</i>
+326,16S ribosomal RNA,21747.0,21112.0,<i>Lactobacillus fermentum</i>
+327,23S ribosomal RNA,22724.0,21905.0,<i>Lactobacillus fermentum</i>
+328,23S ribosomal RNA,23873.0,22725.0,<i>Lactobacillus fermentum</i>
+329,23S ribosomal RNA,24855.0,23874.0,<i>Lactobacillus fermentum</i>
+330,hypothetical protein,37998.0,36996.0,<i>Lactobacillus fermentum</i>
+331,IS200/IS605 family transposase ISLjo5,38591.0,37999.0,<i>Lactobacillus fermentum</i>
+332,IS200/IS605 family transposase ISLjo5,58429.0,58291.0,<i>Lactobacillus fermentum</i>
+333,IS200/IS605 family transposase ISLjo5,59079.0,58430.0,<i>Lactobacillus fermentum</i>
+334,16S ribosomal RNA,97875.0,97094.0,<i>Lactobacillus fermentum</i>
+335,16S ribosomal RNA,98462.0,98018.0,<i>Lactobacillus fermentum</i>
+336,16S ribosomal RNA,98584.0,98463.0,<i>Lactobacillus fermentum</i>
+337,16S ribosomal RNA,98855.0,98585.0,<i>Lactobacillus fermentum</i>
+338,23S ribosomal RNA,100885.0,98996.0,<i>Lactobacillus fermentum</i>
+339,23S ribosomal RNA,101364.0,100886.0,<i>Lactobacillus fermentum</i>
+340,23S ribosomal RNA,101506.0,101365.0,<i>Lactobacillus fermentum</i>
+341,23S ribosomal RNA,101946.0,101507.0,<i>Lactobacillus fermentum</i>
+342,IS200/IS605 family transposase ISLhe65,103766.0,103511.0,<i>Lactobacillus fermentum</i>
+343,IS200/IS605 family transposase ISLhe65,104554.0,103841.0,<i>Lactobacillus fermentum</i>
+344,IS30 family transposase ISSlu1,138629.0,138490.0,<i>Lactobacillus fermentum</i>
+345,IS30 family transposase ISSlu1,139305.0,138630.0,<i>Lactobacillus fermentum</i>
+346,ISL3 family transposase ISL3,262457.0,261885.0,<i>Lactobacillus fermentum</i>
+347,IS3 family transposase ISEnfa5,274205.0,273928.0,<i>Lactobacillus fermentum</i>
+348,IS3 family transposase ISEnfa5,275177.0,274206.0,<i>Lactobacillus fermentum</i>
+349,ISL3 family transposase ISL3,279706.0,279568.0,<i>Lactobacillus fermentum</i>
+350,IS30 family transposase IS1070,281151.0,280836.0,<i>Lactobacillus fermentum</i>
+351,IS3 family transposase ISBce13,287390.0,286371.0,<i>Lactobacillus fermentum</i>
+352,Glucose-6-phosphate isomerase,291476.0,290414.0,<i>Lactobacillus fermentum</i>
+353,IS256 family transposase IS1310,337884.0,337769.0,<i>Lactobacillus fermentum</i>
+354,IS256 family transposase IS1310,338173.0,337941.0,<i>Lactobacillus fermentum</i>
+355,IS256 family transposase IS1310,338793.0,338174.0,<i>Lactobacillus fermentum</i>
+356,16S ribosomal RNA,411923.0,411736.0,<i>Lactobacillus fermentum</i>
+357,16S ribosomal RNA,412655.0,411924.0,<i>Lactobacillus fermentum</i>
+358,16S ribosomal RNA,413320.0,412656.0,<i>Lactobacillus fermentum</i>
+359,23S ribosomal RNA,415351.0,414736.0,<i>Lactobacillus fermentum</i>
+360,23S ribosomal RNA,415830.0,415452.0,<i>Lactobacillus fermentum</i>
+361,23S ribosomal RNA,415970.0,415831.0,<i>Lactobacillus fermentum</i>
+362,23S ribosomal RNA,416410.0,415971.0,<i>Lactobacillus fermentum</i>
+363,tRNA-Val(tac),416997.0,416557.0,<i>Lactobacillus fermentum</i>
+364,tRNA-Asp(gtc),419017.0,417645.0,<i>Lactobacillus fermentum</i>
+365,IS30 family transposase ISSlu1,420111.0,419093.0,<i>Lactobacillus fermentum</i>
+366,hypothetical protein,480721.0,479593.0,<i>Lactobacillus fermentum</i>
+367,IS200/IS605 family transposase ISLhe65,480861.0,480722.0,<i>Lactobacillus fermentum</i>
+368,IS30 family transposase IS1070,521825.0,521682.0,<i>Lactobacillus fermentum</i>
+369,IS30 family transposase IS1070,522200.0,521826.0,<i>Lactobacillus fermentum</i>
+370,IS3 family transposase ISEnfa5,527347.0,526108.0,<i>Lactobacillus fermentum</i>
+371,IS30 family transposase IS1070,530791.0,530434.0,<i>Lactobacillus fermentum</i>
+372,IS30 family transposase IS1070,531161.0,531024.0,<i>Lactobacillus fermentum</i>
+373,IS30 family transposase IS1070,571728.0,571453.0,<i>Lactobacillus fermentum</i>
+374,IS30 family transposase IS1070,572042.0,571729.0,<i>Lactobacillus fermentum</i>
+375,IS3 family transposase ISEnfa5,575083.0,573660.0,<i>Lactobacillus fermentum</i>
+376,hypothetical protein,582913.0,582803.0,<i>Lactobacillus fermentum</i>
+377,hypothetical protein,583204.0,582989.0,<i>Lactobacillus fermentum</i>
+378,IS30 family transposase IS1070,583327.0,583205.0,<i>Lactobacillus fermentum</i>
+379,IS30 family transposase IS1070,583542.0,583414.0,<i>Lactobacillus fermentum</i>
+380,IS30 family transposase IS1070,592228.0,592033.0,<i>Lactobacillus fermentum</i>
+381,IS30 family transposase IS1070,592806.0,592229.0,<i>Lactobacillus fermentum</i>
+382,IS30 family transposase ISSlu1,618057.0,617216.0,<i>Lactobacillus fermentum</i>
+383,hypothetical protein,621669.0,619958.0,<i>Lactobacillus fermentum</i>
+384,IS3 family transposase ISBce13,686554.0,685580.0,<i>Lactobacillus fermentum</i>
+385,IS30 family transposase IS1070,689135.0,689017.0,<i>Lactobacillus fermentum</i>
+386,IS30 family transposase IS1070,689619.0,689136.0,<i>Lactobacillus fermentum</i>
+387,IS30 family transposase ISSlu1,691117.0,690066.0,<i>Lactobacillus fermentum</i>
+388,IS200/IS605 family transposase ISLhe65,792855.0,791727.0,<i>Lactobacillus fermentum</i>
+389,IS200/IS605 family transposase ISLhe65,793104.0,792856.0,<i>Lactobacillus fermentum</i>
+390,IS200/IS605 family transposase ISMmu1,803629.0,802019.0,<i>Lactobacillus fermentum</i>
+391,IS200/IS605 family transposase ISLhe65,859350.0,858444.0,<i>Lactobacillus fermentum</i>
+392,hypothetical protein,870070.0,868390.0,<i>Lactobacillus fermentum</i>
+393,IS3 family transposase ISEnfa5,886507.0,885931.0,<i>Lactobacillus fermentum</i>
+394,IS3 family transposase ISEnfa5,887555.0,886508.0,<i>Lactobacillus fermentum</i>
+395,IS30 family transposase ISCth3,887743.0,887556.0,<i>Lactobacillus fermentum</i>
+396,IS30 family transposase ISCth3,887972.0,887744.0,<i>Lactobacillus fermentum</i>
+397,IS30 family transposase ISCth3,888385.0,887973.0,<i>Lactobacillus fermentum</i>
+398,IS200/IS605 family transposase ISLjo5,911102.0,909465.0,<i>Lactobacillus fermentum</i>
+399,IS30 family transposase ISSlu1,939720.0,939592.0,<i>Lactobacillus fermentum</i>
+400,IS30 family transposase ISSlu1,940427.0,939721.0,<i>Lactobacillus fermentum</i>
+401,hypothetical protein,1022163.0,1021930.0,<i>Lactobacillus fermentum</i>
+402,IS3 family transposase ISBce13,1022949.0,1022186.0,<i>Lactobacillus fermentum</i>
+403,IS200/IS605 family transposase ISLjo5,1054986.0,1054080.0,<i>Lactobacillus fermentum</i>
+404,hypothetical protein,1069570.0,1069310.0,<i>Lactobacillus fermentum</i>
+405,hypothetical protein,1070072.0,1069571.0,<i>Lactobacillus fermentum</i>
+406,hypothetical protein,1070712.0,1070073.0,<i>Lactobacillus fermentum</i>
+407,hypothetical protein,1071364.0,1070713.0,<i>Lactobacillus fermentum</i>
+408,IS30 family transposase ISSlu1,1072344.0,1071417.0,<i>Lactobacillus fermentum</i>
+409,IS30 family transposase ISSlu1,1109890.0,1109748.0,<i>Lactobacillus fermentum</i>
+410,IS30 family transposase ISSlu1,1110484.0,1109891.0,<i>Lactobacillus fermentum</i>
+411,23S ribosomal RNA,1225881.0,1225751.0,<i>Lactobacillus fermentum</i>
+412,23S ribosomal RNA,1225995.0,1225883.0,<i>Lactobacillus fermentum</i>
+413,23S ribosomal RNA,1226402.0,1225996.0,<i>Lactobacillus fermentum</i>
+414,23S ribosomal RNA,1227232.0,1226447.0,<i>Lactobacillus fermentum</i>
+415,23S ribosomal RNA,1227498.0,1227233.0,<i>Lactobacillus fermentum</i>
+416,23S ribosomal RNA,1228043.0,1227499.0,<i>Lactobacillus fermentum</i>
+417,23S ribosomal RNA,1228184.0,1228044.0,<i>Lactobacillus fermentum</i>
+418,23S ribosomal RNA,1228532.0,1228185.0,<i>Lactobacillus fermentum</i>
+419,16S ribosomal RNA,1230367.0,1229413.0,<i>Lactobacillus fermentum</i>
+420,hypothetical protein,1308776.0,1308314.0,<i>Lactobacillus fermentum</i>
+421,hypothetical protein,1309376.0,1308777.0,<i>Lactobacillus fermentum</i>
+422,IS3 family transposase ISSth1b,1309515.0,1309377.0,<i>Lactobacillus fermentum</i>
+423,IS3 family transposase ISSth1b,1309649.0,1309516.0,<i>Lactobacillus fermentum</i>
+424,hypothetical protein,1314439.0,1313792.0,<i>Lactobacillus fermentum</i>
+425,hypothetical protein,1315364.0,1314440.0,<i>Lactobacillus fermentum</i>
+426,hypothetical protein,1317320.0,1316318.0,<i>Lactobacillus fermentum</i>
+427,IS3 family transposase ISEnfa5,1317758.0,1317321.0,<i>Lactobacillus fermentum</i>
+428,IS3 family transposase ISEnfa5,1322754.0,1321388.0,<i>Lactobacillus fermentum</i>
+429,IS200/IS605 family transposase ISLhe65,1393128.0,1391768.0,<i>Lactobacillus fermentum</i>
+430,hypothetical protein,1393235.0,1393129.0,<i>Lactobacillus fermentum</i>
+431,hypothetical protein,1408222.0,1406492.0,<i>Lactobacillus fermentum</i>
+432,hypothetical protein,1438588.0,1437557.0,<i>Lactobacillus fermentum</i>
+433,IS3 family transposase ISSth1b,1438858.0,1438676.0,<i>Lactobacillus fermentum</i>
+434,IS200/IS605 family transposase ISMmu1,1468797.0,1467632.0,<i>Lactobacillus fermentum</i>
+435,IS200/IS605 family transposase ISLjo5,1548571.0,1547549.0,<i>Lactobacillus fermentum</i>
+436,Glucose-6-phosphate isomerase,1570216.0,1569154.0,<i>Lactobacillus fermentum</i>
+437,IS256 family transposase IS1310,1611143.0,1610353.0,<i>Lactobacillus fermentum</i>
+438,IS30 family transposase IS1070,1626786.0,1626011.0,<i>Lactobacillus fermentum</i>
+439,hypothetical protein,1665973.0,1664724.0,<i>Lactobacillus fermentum</i>
+440,IS3 family transposase ISSth1b,1666135.0,1666024.0,<i>Lactobacillus fermentum</i>
+441,IS200/IS605 family transposase ISLjo5,1700387.0,1699345.0,<i>Lactobacillus fermentum</i>
+442,IS30 family transposase IS1070,1787968.0,1787859.0,<i>Lactobacillus fermentum</i>
+443,IS30 family transposase IS1070,1788632.0,1787991.0,<i>Lactobacillus fermentum</i>
+444,hypothetical protein,1801078.0,1800057.0,<i>Lactobacillus fermentum</i>
+445,IS200/IS605 family transposase ISLjo5,1801217.0,1801079.0,<i>Lactobacillus fermentum</i>
+446,IS200/IS605 family transposase ISLjo5,1801673.0,1801218.0,<i>Lactobacillus fermentum</i>
+447,hypothetical protein,1820990.0,1819948.0,<i>Lactobacillus fermentum</i>
+448,IS200/IS605 family transposase ISLjo5,1821679.0,1820991.0,<i>Lactobacillus fermentum</i>
+449,IS3 family transposase IS153,1839369.0,1838412.0,<i>Lactobacillus fermentum</i>
+450,IS256 family transposase ISCARN68,1843985.0,1843414.0,<i>Lactobacillus fermentum</i>
+451,IS256 family transposase ISCARN68,1844421.0,1844039.0,<i>Lactobacillus fermentum</i>
+452,hypothetical protein,1846810.0,1846404.0,<i>Lactobacillus fermentum</i>
+453,IS256 family transposase IS1310,1846982.0,1846811.0,<i>Lactobacillus fermentum</i>
+454,IS256 family transposase IS1310,1848006.0,1846983.0,<i>Lactobacillus fermentum</i>
+455,IS256 family transposase ISPeth3,1848471.0,1848060.0,<i>Lactobacillus fermentum</i>
+456,IS256 family transposase ISPeth3,1848685.0,1848472.0,<i>Lactobacillus fermentum</i>
+457,IS200/IS605 family transposase ISLhe65,1881323.0,1880285.0,<i>Lactobacillus fermentum</i>
+458,IS200/IS605 family transposase ISLhe65,1881589.0,1881324.0,<i>Lactobacillus fermentum</i>
+459,hypothetical protein,1881817.0,1881646.0,<i>Lactobacillus fermentum</i>
+460,16S ribosomal RNA,1895684.0,1890014.0,<i>Lactobacillus fermentum</i>
+461,IS30 family transposase ISCth3,1896475.0,1895685.0,<i>Lactobacillus fermentum</i>
+462,hypothetical protein,1897176.0,1896529.0,<i>Lactobacillus fermentum</i>
+463,hypothetical protein,1897952.0,1897177.0,<i>Lactobacillus fermentum</i>
+464,hypothetical protein,1898151.0,1898042.0,<i>Lactobacillus fermentum</i>
+465,IS30 family transposase ISSlu1,1901807.0,1901667.0,<i>Lactobacillus fermentum</i>
+466,IS30 family transposase ISSlu1,1902582.0,1901808.0,<i>Lactobacillus fermentum</i>
+467,IS200/IS605 family transposase ISLhe65,1903406.0,1902583.0,<i>Lactobacillus fermentum</i>
+468,hypothetical protein,352294.0,351188.0,<i>Listeria monocytogenes</i>
+469,hypothetical protein,1081115.0,1080939.0,<i>Listeria monocytogenes</i>
+470,hypothetical protein,1081934.0,1081380.0,<i>Listeria monocytogenes</i>
+471,hypothetical protein,1082358.0,1081935.0,<i>Listeria monocytogenes</i>
+472,hypothetical protein,1082691.0,1082434.0,<i>Listeria monocytogenes</i>
+473,hypothetical protein,1087393.0,1086850.0,<i>Listeria monocytogenes</i>
+474,hypothetical protein,1087765.0,1087486.0,<i>Listeria monocytogenes</i>
+475,hypothetical protein,1087967.0,1087813.0,<i>Listeria monocytogenes</i>
+476,Internalin I,1228888.0,1228609.0,<i>Listeria monocytogenes</i>
+477,Internalin I,1229345.0,1228889.0,<i>Listeria monocytogenes</i>
+478,Internalin I,1229719.0,1229498.0,<i>Listeria monocytogenes</i>
+479,5S ribosomal RNA,1366978.0,1366540.0,<i>Listeria monocytogenes</i>
+480,23S ribosomal RNA,1367448.0,1366979.0,<i>Listeria monocytogenes</i>
+481,23S ribosomal RNA,1368573.0,1367651.0,<i>Listeria monocytogenes</i>
+482,23S ribosomal RNA,1369012.0,1368574.0,<i>Listeria monocytogenes</i>
+483,23S ribosomal RNA,1370478.0,1369113.0,<i>Listeria monocytogenes</i>
+484,16S ribosomal RNA,1373526.0,1370486.0,<i>Listeria monocytogenes</i>
+485,23S ribosomal RNA,1375031.0,1373668.0,<i>Listeria monocytogenes</i>
+486,23S ribosomal RNA,1377255.0,1375173.0,<i>Listeria monocytogenes</i>
+487,16S ribosomal RNA,1377370.0,1377256.0,<i>Listeria monocytogenes</i>
+488,5S ribosomal RNA,1610759.0,1610360.0,<i>Listeria monocytogenes</i>
+489,23S ribosomal RNA,1611456.0,1610760.0,<i>Listeria monocytogenes</i>
+490,23S ribosomal RNA,1612865.0,1611502.0,<i>Listeria monocytogenes</i>
+491,23S ribosomal RNA,1614454.0,1612943.0,<i>Listeria monocytogenes</i>
+492,16S ribosomal RNA,1615514.0,1614455.0,<i>Listeria monocytogenes</i>
+493,23S ribosomal RNA,2162649.0,2161288.0,<i>Listeria monocytogenes</i>
+494,23S ribosomal RNA,2163812.0,2162792.0,<i>Listeria monocytogenes</i>
+495,tRNA-Asn(gtt),2164395.0,2163899.0,<i>Listeria monocytogenes</i>
+496,Coenzyme A disulfide reductase,2279424.0,2270158.0,<i>Listeria monocytogenes</i>
+497,hypothetical protein,2495824.0,2495557.0,<i>Listeria monocytogenes</i>
+498,hypothetical protein,2496008.0,2495869.0,<i>Listeria monocytogenes</i>
+499,hypothetical protein,2498886.0,2498453.0,<i>Listeria monocytogenes</i>
+500,hypothetical protein,2500623.0,2500403.0,<i>Listeria monocytogenes</i>
+501,hypothetical protein,2500943.0,2500633.0,<i>Listeria monocytogenes</i>
+502,hypothetical protein,2501974.0,2500944.0,<i>Listeria monocytogenes</i>
+503,hypothetical protein,2502330.0,2502073.0,<i>Listeria monocytogenes</i>
+504,16S ribosomal RNA,2758129.0,2757736.0,<i>Listeria monocytogenes</i>
+505,16S ribosomal RNA,2758814.0,2758131.0,<i>Listeria monocytogenes</i>
+506,16S ribosomal RNA,2866199.0,2862807.0,<i>Listeria monocytogenes</i>
+507,23S ribosomal RNA,2866542.0,2866200.0,<i>Listeria monocytogenes</i>
+508,23S ribosomal RNA,2866665.0,2866543.0,<i>Listeria monocytogenes</i>
+509,5S ribosomal RNA,2867030.0,2866753.0,<i>Listeria monocytogenes</i>
+510,tRNA-Lys(ttt),2867482.0,2867031.0,<i>Listeria monocytogenes</i>
+511,Gamma-glutamylputrescine synthetase PuuA,37302.0,36789.0,<i>Pseudomonas aeruginosa</i>
+512,Gamma-glutamylputrescine synthetase PuuA,37435.0,37303.0,<i>Pseudomonas aeruginosa</i>
+513,IS3 family transposase IS222,332974.0,332197.0,<i>Pseudomonas aeruginosa</i>
+514,IS3 family transposase IS222,333143.0,332975.0,<i>Pseudomonas aeruginosa</i>
+515,16S ribosomal RNA,422871.0,422589.0,<i>Pseudomonas aeruginosa</i>
+516,16S ribosomal RNA,425340.0,422872.0,<i>Pseudomonas aeruginosa</i>
+517,23S ribosomal RNA,425520.0,425341.0,<i>Pseudomonas aeruginosa</i>
+518,23S ribosomal RNA,425834.0,425606.0,<i>Pseudomonas aeruginosa</i>
+519,23S ribosomal RNA,426062.0,425835.0,<i>Pseudomonas aeruginosa</i>
+520,23S ribosomal RNA,426214.0,426063.0,<i>Pseudomonas aeruginosa</i>
+521,23S ribosomal RNA,426740.0,426215.0,<i>Pseudomonas aeruginosa</i>
+522,Elongation factor Tu,430938.0,430059.0,<i>Pseudomonas aeruginosa</i>
+523,Phenazine biosynthesis protein PhzG,495889.0,495384.0,<i>Pseudomonas aeruginosa</i>
+524,Phenazine biosynthesis protein PhzG,496167.0,495890.0,<i>Pseudomonas aeruginosa</i>
+525,Trans-2%2C3-dihydro-3-hydroxyanthranilate isomerase,498974.0,496168.0,<i>Pseudomonas aeruginosa</i>
+526,Phenazine biosynthesis protein PhzD2,500662.0,498975.0,<i>Pseudomonas aeruginosa</i>
+527,Phenazine biosynthesis protein PhzB1,500821.0,500663.0,<i>Pseudomonas aeruginosa</i>
+528,Phenazine biosynthesis protein PhzB1,501287.0,500930.0,<i>Pseudomonas aeruginosa</i>
+529,Outer membrane protein OprM,578182.0,577860.0,<i>Pseudomonas aeruginosa</i>
+530,Aldehyde dehydrogenase,755695.0,754508.0,<i>Pseudomonas aeruginosa</i>
+531,Nucleoid-associated protein YejK,946533.0,945951.0,<i>Pseudomonas aeruginosa</i>
+532,hypothetical protein,1162992.0,1162102.0,<i>Pseudomonas aeruginosa</i>
+533,hypothetical protein,1163122.0,1162993.0,<i>Pseudomonas aeruginosa</i>
+534,hypothetical protein,1163485.0,1163241.0,<i>Pseudomonas aeruginosa</i>
+535,hypothetical protein,1163692.0,1163486.0,<i>Pseudomonas aeruginosa</i>
+536,hypothetical protein,1164213.0,1163746.0,<i>Pseudomonas aeruginosa</i>
+537,hypothetical protein,1164452.0,1164214.0,<i>Pseudomonas aeruginosa</i>
+538,hypothetical protein,1168558.0,1167418.0,<i>Pseudomonas aeruginosa</i>
+539,Porin B,1712005.0,1711105.0,<i>Pseudomonas aeruginosa</i>
+540,hypothetical protein,1894526.0,1893791.0,<i>Pseudomonas aeruginosa</i>
+541,hypothetical protein,1894785.0,1894527.0,<i>Pseudomonas aeruginosa</i>
+542,hypothetical protein,1895048.0,1894875.0,<i>Pseudomonas aeruginosa</i>
+543,hypothetical protein,1896730.0,1896458.0,<i>Pseudomonas aeruginosa</i>
+544,IS3 family transposase IS222,2234918.0,2233963.0,<i>Pseudomonas aeruginosa</i>
+545,hypothetical protein,2426591.0,2426481.0,<i>Pseudomonas aeruginosa</i>
+546,hypothetical protein,2427478.0,2426592.0,<i>Pseudomonas aeruginosa</i>
+547,hypothetical protein,2428291.0,2427636.0,<i>Pseudomonas aeruginosa</i>
+548,hypothetical protein,2429420.0,2428332.0,<i>Pseudomonas aeruginosa</i>
+549,hypothetical protein,2429573.0,2429421.0,<i>Pseudomonas aeruginosa</i>
+550,hypothetical protein,2430795.0,2430553.0,<i>Pseudomonas aeruginosa</i>
+551,hypothetical protein,2687870.0,2687548.0,<i>Pseudomonas aeruginosa</i>
+552,hypothetical protein,2715415.0,2714873.0,<i>Pseudomonas aeruginosa</i>
+553,hypothetical protein,2716920.0,2715416.0,<i>Pseudomonas aeruginosa</i>
+554,hypothetical protein,2717038.0,2716921.0,<i>Pseudomonas aeruginosa</i>
+555,hypothetical protein,2717256.0,2717039.0,<i>Pseudomonas aeruginosa</i>
+556,hypothetical protein,2717548.0,2717391.0,<i>Pseudomonas aeruginosa</i>
+557,hypothetical protein,2718579.0,2718469.0,<i>Pseudomonas aeruginosa</i>
+558,hypothetical protein,2718791.0,2718610.0,<i>Pseudomonas aeruginosa</i>
+559,hypothetical protein,2718902.0,2718792.0,<i>Pseudomonas aeruginosa</i>
+560,hypothetical protein,2719368.0,2719050.0,<i>Pseudomonas aeruginosa</i>
+561,hypothetical protein,2725316.0,2724353.0,<i>Pseudomonas aeruginosa</i>
+562,hypothetical protein,2725473.0,2725317.0,<i>Pseudomonas aeruginosa</i>
+563,hypothetical protein,2726625.0,2725474.0,<i>Pseudomonas aeruginosa</i>
+564,hypothetical protein,2726981.0,2726626.0,<i>Pseudomonas aeruginosa</i>
+565,hypothetical protein,2727856.0,2726982.0,<i>Pseudomonas aeruginosa</i>
+566,hypothetical protein,2732749.0,2732605.0,<i>Pseudomonas aeruginosa</i>
+567,Serine hydroxymethyltransferase,2759298.0,2758794.0,<i>Pseudomonas aeruginosa</i>
+568,D-alanine--D-alanyl carrier protein ligase,2836510.0,2835758.0,<i>Pseudomonas aeruginosa</i>
+569,D-alanine--D-alanyl carrier protein ligase,2836726.0,2836576.0,<i>Pseudomonas aeruginosa</i>
+570,D-alanine--D-alanyl carrier protein ligase,2841217.0,2840297.0,<i>Pseudomonas aeruginosa</i>
+571,D-alanine--D-alanyl carrier protein ligase,2841399.0,2841218.0,<i>Pseudomonas aeruginosa</i>
+572,Gramicidin S synthase 2,2847700.0,2846699.0,<i>Pseudomonas aeruginosa</i>
+573,Gramicidin S synthase 2,2847977.0,2847701.0,<i>Pseudomonas aeruginosa</i>
+574,Gramicidin S synthase 2,2848083.0,2847978.0,<i>Pseudomonas aeruginosa</i>
+575,hypothetical protein,2849537.0,2849239.0,<i>Pseudomonas aeruginosa</i>
+576,hypothetical protein,2849925.0,2849540.0,<i>Pseudomonas aeruginosa</i>
+577,hypothetical protein,2851546.0,2849926.0,<i>Pseudomonas aeruginosa</i>
+578,Dimodular nonribosomal peptide synthase,2851685.0,2851547.0,<i>Pseudomonas aeruginosa</i>
+579,Dimodular nonribosomal peptide synthase,2852224.0,2851686.0,<i>Pseudomonas aeruginosa</i>
+580,Dimodular nonribosomal peptide synthase,2852572.0,2852225.0,<i>Pseudomonas aeruginosa</i>
+581,Dimodular nonribosomal peptide synthase,2852720.0,2852573.0,<i>Pseudomonas aeruginosa</i>
+582,Dimodular nonribosomal peptide synthase,2853109.0,2852724.0,<i>Pseudomonas aeruginosa</i>
+583,Dimodular nonribosomal peptide synthase,2853361.0,2853131.0,<i>Pseudomonas aeruginosa</i>
+584,Dimodular nonribosomal peptide synthase,2853469.0,2853362.0,<i>Pseudomonas aeruginosa</i>
+585,Dimodular nonribosomal peptide synthase,2853727.0,2853470.0,<i>Pseudomonas aeruginosa</i>
+586,Dimodular nonribosomal peptide synthase,2854729.0,2853728.0,<i>Pseudomonas aeruginosa</i>
+587,Porin B,3029086.0,3028871.0,<i>Pseudomonas aeruginosa</i>
+588,Porin B,3029771.0,3029087.0,<i>Pseudomonas aeruginosa</i>
+589,Intermembrane transport protein YebT,3138090.0,3136786.0,<i>Pseudomonas aeruginosa</i>
+590,Intermembrane transport protein YebT,3138357.0,3138192.0,<i>Pseudomonas aeruginosa</i>
+591,Gamma-glutamylputrescine synthetase PuuA,3343626.0,3343079.0,<i>Pseudomonas aeruginosa</i>
+592,Aldehyde dehydrogenase,3401766.0,3400579.0,<i>Pseudomonas aeruginosa</i>
+593,hypothetical protein,3426115.0,3425930.0,<i>Pseudomonas aeruginosa</i>
+594,hypothetical protein,3427144.0,3426116.0,<i>Pseudomonas aeruginosa</i>
+595,hypothetical protein,3428566.0,3427145.0,<i>Pseudomonas aeruginosa</i>
+596,hypothetical protein,3428819.0,3428567.0,<i>Pseudomonas aeruginosa</i>
+597,Phenazine biosynthesis protein PhzG,3548867.0,3547961.0,<i>Pseudomonas aeruginosa</i>
+598,Trans-2%2C3-dihydro-3-hydroxyanthranilate isomerase,3553190.0,3548868.0,<i>Pseudomonas aeruginosa</i>
+599,Phenazine biosynthesis protein PhzB2,3553479.0,3553272.0,<i>Pseudomonas aeruginosa</i>
+600,Phenazine biosynthesis protein PhzB2,3553744.0,3553480.0,<i>Pseudomonas aeruginosa</i>
+601,Phenazine biosynthesis protein PhzA2,3553896.0,3553745.0,<i>Pseudomonas aeruginosa</i>
+602,hypothetical protein,3587441.0,3587258.0,<i>Pseudomonas aeruginosa</i>
+603,Cbb3-type cytochrome c oxidase subunit CcoN1,3931924.0,3931634.0,<i>Pseudomonas aeruginosa</i>
+604,Major exported protein,3979328.0,3979147.0,<i>Pseudomonas aeruginosa</i>
+605,IS3 family transposase IS222,4829776.0,4829638.0,<i>Pseudomonas aeruginosa</i>
+606,IS3 family transposase IS222,4829953.0,4829777.0,<i>Pseudomonas aeruginosa</i>
+607,IS3 family transposase IS222,4830443.0,4829954.0,<i>Pseudomonas aeruginosa</i>
+608,IS3 family transposase IS222,4830553.0,4830444.0,<i>Pseudomonas aeruginosa</i>
+609,5S ribosomal RNA,4893531.0,4892413.0,<i>Pseudomonas aeruginosa</i>
+610,23S ribosomal RNA,4896627.0,4893532.0,<i>Pseudomonas aeruginosa</i>
+611,16S ribosomal RNA,4897841.0,4896628.0,<i>Pseudomonas aeruginosa</i>
+612,Methyl-accepting chemotaxis protein PctC,4936469.0,4936342.0,<i>Pseudomonas aeruginosa</i>
+613,Methyl-accepting chemotaxis protein PctA,4940756.0,4940491.0,<i>Pseudomonas aeruginosa</i>
+614,Methyl-accepting chemotaxis protein PctB,4942428.0,4942199.0,<i>Pseudomonas aeruginosa</i>
+615,Methyl-accepting chemotaxis protein PctB,4942838.0,4942658.0,<i>Pseudomonas aeruginosa</i>
+616,Nucleoid-associated protein YejK,5201721.0,5201512.0,<i>Pseudomonas aeruginosa</i>
+617,hypothetical protein,5207887.0,5207761.0,<i>Pseudomonas aeruginosa</i>
+618,hypothetical protein,5208211.0,5207910.0,<i>Pseudomonas aeruginosa</i>
+619,hypothetical protein,5208404.0,5208212.0,<i>Pseudomonas aeruginosa</i>
+620,hypothetical protein,5396052.0,5395870.0,<i>Pseudomonas aeruginosa</i>
+621,hypothetical protein,5396672.0,5396134.0,<i>Pseudomonas aeruginosa</i>
+622,hypothetical protein,5396775.0,5396673.0,<i>Pseudomonas aeruginosa</i>
+623,hypothetical protein,5397165.0,5396776.0,<i>Pseudomonas aeruginosa</i>
+624,hypothetical protein,5397547.0,5397166.0,<i>Pseudomonas aeruginosa</i>
+625,hypothetical protein,5398099.0,5397548.0,<i>Pseudomonas aeruginosa</i>
+626,hypothetical protein,5398555.0,5398124.0,<i>Pseudomonas aeruginosa</i>
+627,hypothetical protein,5398681.0,5398556.0,<i>Pseudomonas aeruginosa</i>
+628,hypothetical protein,5454512.0,5454339.0,<i>Pseudomonas aeruginosa</i>
+629,hypothetical protein,5454841.0,5454588.0,<i>Pseudomonas aeruginosa</i>
+630,hypothetical protein,5455292.0,5454842.0,<i>Pseudomonas aeruginosa</i>
+631,hypothetical protein,5456473.0,5455293.0,<i>Pseudomonas aeruginosa</i>
+632,hypothetical protein,5456967.0,5456474.0,<i>Pseudomonas aeruginosa</i>
+633,hypothetical protein,5458796.0,5458626.0,<i>Pseudomonas aeruginosa</i>
+634,Intermembrane transport protein YebT,5481075.0,5480937.0,<i>Pseudomonas aeruginosa</i>
+635,Intermembrane transport protein YebT,5482148.0,5481076.0,<i>Pseudomonas aeruginosa</i>
+636,Intermembrane transport protein YebT,5482287.0,5482149.0,<i>Pseudomonas aeruginosa</i>
+637,Intermembrane transport protein YebT,5482457.0,5482288.0,<i>Pseudomonas aeruginosa</i>
+638,5S ribosomal RNA,5485709.0,5484590.0,<i>Pseudomonas aeruginosa</i>
+639,23S ribosomal RNA,5488707.0,5485809.0,<i>Pseudomonas aeruginosa</i>
+640,16S ribosomal RNA,5490067.0,5488708.0,<i>Pseudomonas aeruginosa</i>
+641,hypothetical protein,5609490.0,5609291.0,<i>Pseudomonas aeruginosa</i>
+642,hypothetical protein,5610084.0,5609562.0,<i>Pseudomonas aeruginosa</i>
+643,hypothetical protein,5613933.0,5610085.0,<i>Pseudomonas aeruginosa</i>
+644,IS3 family transposase IS222,6080379.0,6079464.0,<i>Pseudomonas aeruginosa</i>
+645,Major exported protein,6170949.0,6170671.0,<i>Pseudomonas aeruginosa</i>
+646,5S ribosomal RNA,6278025.0,6277339.0,<i>Pseudomonas aeruginosa</i>
+647,23S ribosomal RNA,6278426.0,6278026.0,<i>Pseudomonas aeruginosa</i>
+648,23S ribosomal RNA,6278594.0,6278427.0,<i>Pseudomonas aeruginosa</i>
+649,23S ribosomal RNA,6278775.0,6278596.0,<i>Pseudomonas aeruginosa</i>
+650,23S ribosomal RNA,6280018.0,6278832.0,<i>Pseudomonas aeruginosa</i>
+651,23S ribosomal RNA,6281492.0,6280019.0,<i>Pseudomonas aeruginosa</i>
+652,16S ribosomal RNA,6282688.0,6281528.0,<i>Pseudomonas aeruginosa</i>
+653,Serine hydroxymethyltransferase,6332515.0,6332086.0,<i>Pseudomonas aeruginosa</i>
+654,hypothetical protein,6546016.0,6543615.0,<i>Pseudomonas aeruginosa</i>
+655,hypothetical protein,6547634.0,6547525.0,<i>Pseudomonas aeruginosa</i>
+656,hypothetical protein,6547748.0,6547635.0,<i>Pseudomonas aeruginosa</i>
+657,hypothetical protein,6548619.0,6547749.0,<i>Pseudomonas aeruginosa</i>
+658,hypothetical protein,6548756.0,6548620.0,<i>Pseudomonas aeruginosa</i>
+659,hypothetical protein,6549768.0,6548757.0,<i>Pseudomonas aeruginosa</i>
+660,hypothetical protein,6550127.0,6549769.0,<i>Pseudomonas aeruginosa</i>
+661,hypothetical protein,6550966.0,6550128.0,<i>Pseudomonas aeruginosa</i>
+662,IS3 family transposase ISSen1,532041.0,531013.0,<i>Salmonella enterica</i>
+663,Phosphomannomutase/phosphoglucomutase,710277.0,710144.0,<i>Salmonella enterica</i>
+664,Phosphomannomutase/phosphoglucomutase,710767.0,710278.0,<i>Salmonella enterica</i>
+665,Phosphomannomutase/phosphoglucomutase,725751.0,725611.0,<i>Salmonella enterica</i>
+666,Phosphomannomutase/phosphoglucomutase,726241.0,725752.0,<i>Salmonella enterica</i>
+667,E3 ubiquitin-protein ligase SspH2,881884.0,881662.0,<i>Salmonella enterica</i>
+668,Cytochrome c-type biogenesis protein CcmH,888091.0,886183.0,<i>Salmonella enterica</i>
+669,Cytochrome c-type biogenesis protein CcmF,889595.0,888092.0,<i>Salmonella enterica</i>
+670,Cytochrome c biogenesis ATP-binding export protein CcmA,891929.0,891567.0,<i>Salmonella enterica</i>
+671,NAD(P)H-quinone oxidoreductase subunit 3,977905.0,977716.0,<i>Salmonella enterica</i>
+672,IS3 family transposase ISSen1,1055150.0,1054098.0,<i>Salmonella enterica</i>
+673,Phosphocarrier protein HPr,1085015.0,1084593.0,<i>Salmonella enterica</i>
+674,Lysozyme RrrD,1300455.0,1300338.0,<i>Salmonella enterica</i>
+675,Lysozyme RrrD,1301451.0,1300456.0,<i>Salmonella enterica</i>
+676,hypothetical protein,1301759.0,1301452.0,<i>Salmonella enterica</i>
+677,hypothetical protein,1304215.0,1302886.0,<i>Salmonella enterica</i>
+678,DNA damage-inducible protein I,1305097.0,1304693.0,<i>Salmonella enterica</i>
+679,23S ribosomal RNA,1340025.0,1337725.0,<i>Salmonella enterica</i>
+680,16S ribosomal RNA,1341444.0,1340026.0,<i>Salmonella enterica</i>
+681,IS3 family transposase ISSen1,1541520.0,1540468.0,<i>Salmonella enterica</i>
+682,IS3 family transposase ISSen1,1570386.0,1569351.0,<i>Salmonella enterica</i>
+683,IS3 family transposase ISSen1,1800840.0,1800074.0,<i>Salmonella enterica</i>
+684,Ribosome maturation factor RimP,1895865.0,1895631.0,<i>Salmonella enterica</i>
+685,50S ribosomal protein L13,1949176.0,1948957.0,<i>Salmonella enterica</i>
+686,Oxaloacetate decarboxylase beta chain,1956459.0,1954939.0,<i>Salmonella enterica</i>
+687,Oxaloacetate decarboxylase alpha chain,1957827.0,1956460.0,<i>Salmonella enterica</i>
+688,23S ribosomal RNA,2007933.0,2004300.0,<i>Salmonella enterica</i>
+689,DNA-directed RNA polymerase subunit alpha,2019244.0,2019094.0,<i>Salmonella enterica</i>
+690,DNA-directed RNA polymerase subunit alpha,2019823.0,2019245.0,<i>Salmonella enterica</i>
+691,DNA-directed RNA polymerase subunit alpha,2020636.0,2019899.0,<i>Salmonella enterica</i>
+692,30S ribosomal protein S4,2021643.0,2020637.0,<i>Salmonella enterica</i>
+693,50S ribosomal protein L36,2022372.0,2021652.0,<i>Salmonella enterica</i>
+694,Protein translocase subunit SecY,2022531.0,2022373.0,<i>Salmonella enterica</i>
+695,Protein translocase subunit SecY,2022759.0,2022532.0,<i>Salmonella enterica</i>
+696,Protein translocase subunit SecY,2022936.0,2022760.0,<i>Salmonella enterica</i>
+697,Protein translocase subunit SecY,2023270.0,2022937.0,<i>Salmonella enterica</i>
+698,50S ribosomal protein L15,2024137.0,2023271.0,<i>Salmonella enterica</i>
+699,30S ribosomal protein S5,2024691.0,2024138.0,<i>Salmonella enterica</i>
+700,50S ribosomal protein L6,2024883.0,2024692.0,<i>Salmonella enterica</i>
+701,50S ribosomal protein L6,2025399.0,2024884.0,<i>Salmonella enterica</i>
+702,30S ribosomal protein S8,2025801.0,2025400.0,<i>Salmonella enterica</i>
+703,30S ribosomal protein S14,2025940.0,2025802.0,<i>Salmonella enterica</i>
+704,50S ribosomal protein L5,2026264.0,2025941.0,<i>Salmonella enterica</i>
+705,50S ribosomal protein L5,2026844.0,2026265.0,<i>Salmonella enterica</i>
+706,50S ribosomal protein L14,2027130.0,2026845.0,<i>Salmonella enterica</i>
+707,30S ribosomal protein S17,2028336.0,2027463.0,<i>Salmonella enterica</i>
+708,30S ribosomal protein S3,2028508.0,2028337.0,<i>Salmonella enterica</i>
+709,30S ribosomal protein S3,2029704.0,2028509.0,<i>Salmonella enterica</i>
+710,50S ribosomal protein L2,2029965.0,2029705.0,<i>Salmonella enterica</i>
+711,50S ribosomal protein L2,2030091.0,2029966.0,<i>Salmonella enterica</i>
+712,50S ribosomal protein L2,2031297.0,2030092.0,<i>Salmonella enterica</i>
+713,50S ribosomal protein L3,2031791.0,2031561.0,<i>Salmonella enterica</i>
+714,50S ribosomal protein L3,2032229.0,2031912.0,<i>Salmonella enterica</i>
+715,Elongation factor Tu 1,2034760.0,2034452.0,<i>Salmonella enterica</i>
+716,Elongation factor Tu 1,2034947.0,2034825.0,<i>Salmonella enterica</i>
+717,Elongation factor G,2037299.0,2037150.0,<i>Salmonella enterica</i>
+718,Elongation factor G,2037764.0,2037300.0,<i>Salmonella enterica</i>
+719,30S ribosomal protein S7,2037975.0,2037765.0,<i>Salmonella enterica</i>
+720,30S ribosomal protein S12,2038350.0,2038204.0,<i>Salmonella enterica</i>
+721,IS3 family transposase ISSen1,2278563.0,2277526.0,<i>Salmonella enterica</i>
+722,IS3 family transposase ISSen1,2437671.0,2436642.0,<i>Salmonella enterica</i>
+723,Cytochrome c-type biogenesis protein CcmH,2442822.0,2441019.0,<i>Salmonella enterica</i>
+724,Cytochrome c-type biogenesis protein CcmF,2444406.0,2442823.0,<i>Salmonella enterica</i>
+725,Cytochrome c-type biogenesis protein CcmE,2444979.0,2444545.0,<i>Salmonella enterica</i>
+726,ATP synthase gamma chain,2498495.0,2498221.0,<i>Salmonella enterica</i>
+727,ATP synthase gamma chain,2499673.0,2498682.0,<i>Salmonella enterica</i>
+728,ATP synthase subunit alpha,2499787.0,2499674.0,<i>Salmonella enterica</i>
+729,ATP synthase subunit delta,2501077.0,2500584.0,<i>Salmonella enterica</i>
+730,ATP synthase subunit b,2501698.0,2501219.0,<i>Salmonella enterica</i>
+731,tRNA-Arg(ccg),2564416.0,2564283.0,<i>Salmonella enterica</i>
+732,5S ribosomal RNA,2622866.0,2622730.0,<i>Salmonella enterica</i>
+733,IS3 family transposase ISSen1,2727794.0,2726759.0,<i>Salmonella enterica</i>
+734,23S ribosomal RNA,2778123.0,2777889.0,<i>Salmonella enterica</i>
+735,tRNA-Thr(tgt),2781982.0,2781833.0,<i>Salmonella enterica</i>
+736,tRNA-Thr(ggt),2782407.0,2782134.0,<i>Salmonella enterica</i>
+737,Elongation factor Tu 1,2783337.0,2782408.0,<i>Salmonella enterica</i>
+738,50S ribosomal protein L1,2786351.0,2785845.0,<i>Salmonella enterica</i>
+739,50S ribosomal protein L10,2787086.0,2786491.0,<i>Salmonella enterica</i>
+740,50S ribosomal protein L7/L12,2787466.0,2787087.0,<i>Salmonella enterica</i>
+741,DNA-directed RNA polymerase subunit beta',2793270.0,2793162.0,<i>Salmonella enterica</i>
+742,DNA-directed RNA polymerase subunit beta',2793954.0,2793271.0,<i>Salmonella enterica</i>
+743,16S ribosomal RNA,2817090.0,2816193.0,<i>Salmonella enterica</i>
+744,16S ribosomal RNA,2818384.0,2817091.0,<i>Salmonella enterica</i>
+745,23S ribosomal RNA,2818492.0,2818385.0,<i>Salmonella enterica</i>
+746,23S ribosomal RNA,2820563.0,2818493.0,<i>Salmonella enterica</i>
+747,23S ribosomal RNA,2820687.0,2820564.0,<i>Salmonella enterica</i>
+748,23S ribosomal RNA,2821124.0,2820688.0,<i>Salmonella enterica</i>
+749,tRNA-Gly(gcc),3017891.0,3017755.0,<i>Salmonella enterica</i>
+750,Adenylosuccinate synthetase,3030582.0,3030209.0,<i>Salmonella enterica</i>
+751,Adenylosuccinate synthetase,3030701.0,3030583.0,<i>Salmonella enterica</i>
+752,Adenylosuccinate synthetase,3031269.0,3030702.0,<i>Salmonella enterica</i>
+753,Adenylosuccinate synthetase,3031464.0,3031270.0,<i>Salmonella enterica</i>
+754,Ascorbate-specific PTS system EIIC component,3047594.0,3047459.0,<i>Salmonella enterica</i>
+755,30S ribosomal protein S6,3051735.0,3051601.0,<i>Salmonella enterica</i>
+756,30S ribosomal protein S6,3052136.0,3051736.0,<i>Salmonella enterica</i>
+757,Primosomal replication protein N,3052352.0,3052137.0,<i>Salmonella enterica</i>
+758,IS3 family transposase ISSen1,3169757.0,3168681.0,<i>Salmonella enterica</i>
+759,Cystathionine beta-lyase MetC,3206953.0,3206787.0,<i>Salmonella enterica</i>
+760,Oxaloacetate decarboxylase beta chain,3209814.0,3206988.0,<i>Salmonella enterica</i>
+761,Sensor histidine kinase CitA,3339891.0,3339747.0,<i>Salmonella enterica</i>
+762,Oxaloacetate decarboxylase beta chain,3341591.0,3340034.0,<i>Salmonella enterica</i>
+763,Oxaloacetate decarboxylase alpha chain,3342838.0,3341592.0,<i>Salmonella enterica</i>
+764,16S ribosomal RNA,3568670.0,3567380.0,<i>Salmonella enterica</i>
+765,16S ribosomal RNA,3568844.0,3568671.0,<i>Salmonella enterica</i>
+766,23S ribosomal RNA,3570023.0,3569777.0,<i>Salmonella enterica</i>
+767,23S ribosomal RNA,3571091.0,3570057.0,<i>Salmonella enterica</i>
+768,23S ribosomal RNA,3571275.0,3571092.0,<i>Salmonella enterica</i>
+769,23S ribosomal RNA,3572208.0,3571276.0,<i>Salmonella enterica</i>
+770,23S ribosomal RNA,3572357.0,3572209.0,<i>Salmonella enterica</i>
+771,Prophage bactoprenol-linked glucose translocase ,3939508.0,3939175.0,<i>Salmonella enterica</i>
+772,Prophage bactoprenol glucosyl transferase ,3939936.0,3939509.0,<i>Salmonella enterica</i>
+773,Prophage bactoprenol glucosyl transferase ,3940214.0,3940032.0,<i>Salmonella enterica</i>
+774,Prophage bactoprenol glucosyl transferase ,3945945.0,3944905.0,<i>Salmonella enterica</i>
+775,tRNA-Lys(ttt),4126496.0,4126332.0,<i>Salmonella enterica</i>
+776,Oxaloacetate decarboxylase gamma chain,4137013.0,4136849.0,<i>Salmonella enterica</i>
+777,Oxaloacetate decarboxylase alpha chain,4139893.0,4137014.0,<i>Salmonella enterica</i>
+778,30S ribosomal protein S1,4327451.0,4327327.0,<i>Salmonella enterica</i>
+779,30S ribosomal protein S1,4327719.0,4327547.0,<i>Salmonella enterica</i>
+780,30S ribosomal protein S1,4327882.0,4327780.0,<i>Salmonella enterica</i>
+781,30S ribosomal protein S1,4328767.0,4327921.0,<i>Salmonella enterica</i>
+782,IS3 family transposase ISSen1,4329994.0,4328961.0,<i>Salmonella enterica</i>
+783,hypothetical protein,4367113.0,4362129.0,<i>Salmonella enterica</i>
+784,hypothetical protein,4373237.0,4372946.0,<i>Salmonella enterica</i>
+785,DNA damage-inducible protein I,4373842.0,4373350.0,<i>Salmonella enterica</i>
+786,hypothetical protein,4375215.0,4373940.0,<i>Salmonella enterica</i>
+787,hypothetical protein,4378114.0,4377807.0,<i>Salmonella enterica</i>
+788,hypothetical protein,4379228.0,4378115.0,<i>Salmonella enterica</i>
+789,hypothetical protein,4397111.0,4396892.0,<i>Salmonella enterica</i>
+790,hypothetical protein,4397838.0,4397187.0,<i>Salmonella enterica</i>
+791,hypothetical protein,4398837.0,4398429.0,<i>Salmonella enterica</i>
+792,Acyl carrier protein,4540044.0,4539928.0,<i>Salmonella enterica</i>
+793,Acyl carrier protein,4540170.0,4540062.0,<i>Salmonella enterica</i>
+794,IS3 family transposase ISSen1,4542677.0,4541645.0,<i>Salmonella enterica</i>
+795,hypothetical protein,4623813.0,4623622.0,<i>Salmonella enterica</i>
+796,hypothetical protein,4625556.0,4625201.0,<i>Salmonella enterica</i>
+797,ISNCY family transposase ISBli29,21733.0,21367.0,<i>Staphylococcus aureus</i>
+798,ISNCY family transposase ISBli29,22156.0,21734.0,<i>Staphylococcus aureus</i>
+799,hypothetical protein,22429.0,22201.0,<i>Staphylococcus aureus</i>
+800,hypothetical protein,22884.0,22430.0,<i>Staphylococcus aureus</i>
+801,hypothetical protein,22995.0,22885.0,<i>Staphylococcus aureus</i>
+802,hypothetical protein,23374.0,22996.0,<i>Staphylococcus aureus</i>
+803,16S ribosomal RNA,479180.0,478704.0,<i>Staphylococcus aureus</i>
+804,16S ribosomal RNA,479331.0,479181.0,<i>Staphylococcus aureus</i>
+805,16S ribosomal RNA,480594.0,479488.0,<i>Staphylococcus aureus</i>
+806,23S ribosomal RNA,482300.0,480848.0,<i>Staphylococcus aureus</i>
+807,23S ribosomal RNA,482579.0,482339.0,<i>Staphylococcus aureus</i>
+808,23S ribosomal RNA,483244.0,482605.0,<i>Staphylococcus aureus</i>
+809,23S ribosomal RNA,483650.0,483245.0,<i>Staphylococcus aureus</i>
+810,Deoxyribose-phosphate aldolase 2,518476.0,518337.0,<i>Staphylococcus aureus</i>
+811,Deoxyribose-phosphate aldolase 2,518609.0,518478.0,<i>Staphylococcus aureus</i>
+812,16S ribosomal RNA,592794.0,592032.0,<i>Staphylococcus aureus</i>
+813,16S ribosomal RNA,593812.0,592795.0,<i>Staphylococcus aureus</i>
+814,23S ribosomal RNA,596660.0,596034.0,<i>Staphylococcus aureus</i>
+815,23S ribosomal RNA,597055.0,596661.0,<i>Staphylococcus aureus</i>
+816,16S ribosomal RNA,729815.0,728053.0,<i>Staphylococcus aureus</i>
+817,23S ribosomal RNA,731737.0,730970.0,<i>Staphylococcus aureus</i>
+818,23S ribosomal RNA,731914.0,731738.0,<i>Staphylococcus aureus</i>
+819,23S ribosomal RNA,732974.0,731915.0,<i>Staphylococcus aureus</i>
+820,tRNA-Lys(ttt),733823.0,733316.0,<i>Staphylococcus aureus</i>
+821,Type I restriction enzyme EcoKI M protein,782750.0,782263.0,<i>Staphylococcus aureus</i>
+822,IS1182 family transposase ISSau3,910277.0,910163.0,<i>Staphylococcus aureus</i>
+823,ISNCY family transposase ISBli29,1135368.0,1135068.0,<i>Staphylococcus aureus</i>
+824,ISNCY family transposase ISBli29,1135856.0,1135369.0,<i>Staphylococcus aureus</i>
+825,hypothetical protein,1136214.0,1135900.0,<i>Staphylococcus aureus</i>
+826,hypothetical protein,1136680.0,1136215.0,<i>Staphylococcus aureus</i>
+827,hypothetical protein,1137073.0,1136681.0,<i>Staphylococcus aureus</i>
+828,5S ribosomal RNA (partial),2092567.0,2087661.0,<i>Staphylococcus aureus</i>
+829,16S ribosomal RNA,2093280.0,2092568.0,<i>Staphylococcus aureus</i>
+830,23S ribosomal RNA,2093908.0,2093281.0,<i>Staphylococcus aureus</i>
+831,23S ribosomal RNA,2095334.0,2094059.0,<i>Staphylococcus aureus</i>
+832,23S ribosomal RNA,2095441.0,2095335.0,<i>Staphylococcus aureus</i>
+833,23S ribosomal RNA,2095796.0,2095442.0,<i>Staphylococcus aureus</i>
+834,23S ribosomal RNA,2095929.0,2095797.0,<i>Staphylococcus aureus</i>
+835,23S ribosomal RNA,2140748.0,2139171.0,<i>Staphylococcus aureus</i>
+836,16S ribosomal RNA,2141304.0,2141012.0,<i>Staphylococcus aureus</i>
+837,16S ribosomal RNA,2141531.0,2141305.0,<i>Staphylococcus aureus</i>
+838,16S ribosomal RNA,2142367.0,2141532.0,<i>Staphylococcus aureus</i>
+839,Type I restriction enzyme EcoKI M protein,2194678.0,2194516.0,<i>Staphylococcus aureus</i>
+840,Type I restriction enzyme EcoKI M protein,2194819.0,2194715.0,<i>Staphylococcus aureus</i>
+841,Type I restriction enzyme EcoKI M protein,2195308.0,2194821.0,<i>Staphylococcus aureus</i>
+842,Type VII secretion system protein EsaG,2308273.0,2308101.0,<i>Staphylococcus aureus</i>
+843,Type VII secretion system protein EsaG,2308472.0,2308274.0,<i>Staphylococcus aureus</i>
+844,Deoxyribose-phosphate aldolase 1,2501072.0,2500941.0,<i>Staphylococcus aureus</i>
+845,Deoxyribose-phosphate aldolase 1,2501213.0,2501074.0,<i>Staphylococcus aureus</i>
+846,hypothetical protein,2578857.0,2574502.0,<i>Staphylococcus aureus</i>
+847,IS30 family transposase ISHahy10,2588811.0,2584456.0,<i>Staphylococcus aureus</i>
