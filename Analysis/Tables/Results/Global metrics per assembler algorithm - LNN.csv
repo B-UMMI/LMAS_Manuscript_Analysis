@@ -1,0 +1,3 @@
+Assembler Type,Ns,basepairs,contigs,filtered_Ns,filtered_basepairs,filtered_contigs,filtered_mapped_reads,filtered_n50,mapped_reads,max_contig,misassembled contigs,misassembly events,n50
+Single k-mer De Bruijn graph,0 [0;1347],19635512 [16401028;20132631],44619 [15000;44825],0 [0;400],13501500 [13397815;13573790],784 [762;1212],97 [97;98],33550 [31436;192306],99 [98;99],177038 [163543;851314],0 [0;2],0 [0;4],18682 [9569;26474]
+Multiple k-mer De Bruijn graph,0 [0;198470],14324920 [0;19638608],1987 [0;69092],0 [0;27980],13642314 [0;13704539],209 [0;3016],98 [0;99],140561 [0;242687],99 [0;99],632639 [0;1080013],1 [0;12],2 [0;25],122703 [0;242687]
