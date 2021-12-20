@@ -1,0 +1,13 @@
+	Staphylococcus_aureus_plasmid1	Staphylococcus_aureus_complete_genome	Listeria_monocytogenes_complete_genome	Escherichia_coli_plasmid	Escherichia_coli_complete_genome	Staphylococcus_aureus_plasmid3	Salmonella_enterica_complete_genome	Staphylococcus_aureus_plasmid2	Enterococcus_faecalis_complete_genome	Bacillus_subtilis_complete_genome	Pseudomonas_aeruginosa_complete_genome	Lactobacillus_fermentum_complete_genome
+Staphylococcus_aureus_plasmid1	6337.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Staphylococcus_aureus_complete_genome	0.0	2718780.0	206276.0	0.0	25889.0	0.0	23313.0	0.0	156514.0	167693.0	20116.0	44086.0
+Listeria_monocytogenes_complete_genome	0.0	199759.0	2992342.0	0.0	30859.0	0.0	31407.0	0.0	307153.0	244622.0	19265.0	67071.0
+Escherichia_coli_plasmid	0.0	0.0	0.0	110007.0	3804.0	0.0	2894.0	0.0	0.0	0.0	899.0	0.0
+Escherichia_coli_complete_genome	0.0	32317.0	38831.0	10884.0	4765434.0	0.0	2794521.0	0.0	29600.0	43453.0	323922.0	29429.0
+Staphylococcus_aureus_plasmid3	0.0	0.0	0.0	0.0	0.0	2993.0	0.0	871.0	0.0	0.0	0.0	0.0
+Salmonella_enterica_complete_genome	0.0	26439.0	35502.0	4754.0	2813081.0	0.0	4759746.0	0.0	28935.0	37704.0	340409.0	25894.0
+Staphylococcus_aureus_plasmid2	0.0	0.0	0.0	0.0	0.0	1194.0	0.0	2216.0	0.0	0.0	0.0	0.0
+Enterococcus_faecalis_complete_genome	0.0	149229.0	307778.0	0.0	20976.0	0.0	15929.0	0.0	2845392.0	121561.0	13283.0	89569.0
+Bacillus_subtilis_complete_genome	0.0	190435.0	259042.0	0.0	49425.0	0.0	47502.0	0.0	151913.0	4045677.0	38937.0	79752.0
+Pseudomonas_aeruginosa_complete_genome	0.0	13775.0	11816.0	1765.0	285921.0	0.0	320014.0	0.0	11483.0	16708.0	6792330.0	24651.0
+Lactobacillus_fermentum_complete_genome	0.0	44161.0	63408.0	0.0	18772.0	0.0	17859.0	0.0	90267.0	62300.0	25068.0	1905333.0
