@@ -9,7 +9,7 @@
 
 ## Overview
 
-To evaluate the performance of the assemblers in [LMAS](https://github.com/B-UMMI/LMAS), the eight bacterial genomes and four plasmids of the ZymoBIOMICS Microbial Community Standards](https://zenodo.org/record/4588970#.YEeA83X7RhE) as reference. 
+To evaluate the performance of the assemblers in [LMAS](https://github.com/B-UMMI/LMAS), the eight bacterial genomes and four plasmids of the [ZymoBIOMICS Microbial Community Standards](https://zenodo.org/record/4588970#.YEeA83X7RhE) as reference. 
 It contains complete sequences for the following species:
 
 - *Bacillus subtilis* 
