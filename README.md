@@ -60,7 +60,7 @@ The top result of each assembler for each sample was selected, based on the foll
 
 To obtain the worst value in each metric, the opposite criteria were used. The normalised score for each metric was obtained from the best result for each assembler in each sample through the equation below. For the assessment of assembler consistency, each contig for each assembler was considered the same as its size was exactly the same in each LMAS run. 
 
-![equation](https://imgur.com/a/N4AvpJx)
+![equation](https://i.imgur.com/GXE740f.png)
 
 ## Taxonomic composition
 
