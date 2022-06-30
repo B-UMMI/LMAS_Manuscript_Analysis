@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 Results/*/*/results/*/assembly/*/*.fasta
+
+# macOS
+*.DS_Store
