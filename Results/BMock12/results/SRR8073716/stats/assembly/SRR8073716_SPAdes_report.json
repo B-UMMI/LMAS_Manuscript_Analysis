@@ -1,0 +1,1 @@
+{"assembler":"SPAdes","sample_id":"SRR8073716","global":{"contigs":7501,"basepairs":49402011,"max_contig_size":1239293,"N50":67210,"mapped_reads":96.67003744204415,"Ns":0},"filtered":{"contigs":2750,"basepairs":47779053,"N50":76209,"mapped_reads":92.74062905343531,"Ns":0}}

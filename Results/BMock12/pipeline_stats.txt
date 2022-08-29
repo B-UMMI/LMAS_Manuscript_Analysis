@@ -1,0 +1,91 @@
+task_id	hash	process	tag	status	exit	start	container	cpus	time	disk	memory	duration	realtime	queue	%cpu	%mem	rss	vmem	rchar	wchar
+1	72/314b22	preprocessing_wf:PROCESS_REFERENCE	-	COMPLETED	0	2022-08-24 12:00:16.687	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	12.2s	2.5s	-	84.3%	0.1%	109.2 MB	393.3 MB	65.7 MB	170.3 MB
+7	b9/ec1030	preprocessing_wf:PROCESS_READS	SRR8073716	COMPLETED	0	2022-08-24 12:00:16.691	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	3m 42s	3m 28s	-	99.1%	0.0%	54.2 MB	337 MB	3.9 GB	481 B
+9	cb/430b08	assembly_wf:REFORMAT	SRR8073716	COMPLETED	0	2022-08-24 12:00:16.648	docker:pcerqueira/bbtools:38.44	16	3d	-	64 GB	4m 2s	3m 53s	-	263.9%	0.2%	251.7 MB	4.7 GB	7.9 GB	14.9 GB
+6	1b/332bd3	assembly_wf:SKESA	SRR8073716	COMPLETED	0	2022-08-24 12:00:16.681	docker:cimendes/skesa:2.5.0-1	16	3d	-	64 GB	40m 2s	39m 50s	-	823.3%	22.4%	56.3 GB	83.3 GB	3.9 GB	29.1 MB
+15	da/f9d4cb	mapping_wf:FILTER_ASSEMBLY	SKESA	COMPLETED	0	2022-08-24 12:40:16.868	docker:pcerqueira/bbtools:38.44	2	3d	-	8 GB	10.1s	1.2s	-	115.0%	0.0%	10.8 MB	58.9 MB	32.4 MB	26.8 MB
+17	d7/f2fc15	mapping_wf:ASSEMBLY_MAPPING	SKESA	COMPLETED	0	2022-08-24 12:40:46.870	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	39.6s	11.8s	-	651.5%	0.5%	1.4 GB	1.9 GB	197.1 MB	1.6 MB
+18	81/096092	mapping_wf:ASSEMBLY_MAPPING_MISASSEMBLY	SKESA	COMPLETED	0	2022-08-24 12:40:46.874	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.4s	14.8s	-	719.8%	0.5%	1.3 GB	1.9 GB	197.1 MB	482.4 KB
+22	2b/f208d3	postprocessing_wf:MISASSEMBLY	SKESA	COMPLETED	0	2022-08-24 12:41:16.884	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	14.7s	2.7s	-	91.3%	0.1%	78.1 MB	362.1 MB	14.2 MB	12.1 KB
+21	83/8ac4c3	postprocessing_wf:SNP_ASSESSMENT	SKESA	COMPLETED	0	2022-08-24 12:41:16.870	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	24.9s	8.2s	-	62.2%	0.1%	116.9 MB	398.2 MB	199.2 MB	56.3 KB
+20	4a/e90856	postprocessing_wf:GAP_ASSESSMENT	SKESA	COMPLETED	0	2022-08-24 12:41:16.875	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1m 25s	1m 4s	-	99.3%	0.3%	399.3 MB	681.3 MB	199.2 MB	200.9 KB
+19	59/629bb8	mapping_wf:ASSEMBLY_STATS_MAPPING	SKESA	COMPLETED	0	2022-08-24 12:41:16.879	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	2m 45s	2m 25s	-	99.7%	0.3%	375 MB	656.5 MB	227.6 MB	903.3 KB
+11	29/1cb1cb	assembly_wf:MEGAHIT	SRR8073716	COMPLETED	0	2022-08-24 12:00:16.670	docker:cimendes/megahit-assembler:1.2.9-1	16	3d	-	64 GB	50m 38s	50m 24s	-	1088.5%	8.0%	10 GB	10.9 GB	91.5 GB	33.9 GB
+23	1b/cc2b82	mapping_wf:FILTER_ASSEMBLY	MEGAHIT	COMPLETED	0	2022-08-24 12:51:16.927	docker:pcerqueira/bbtools:38.44	2	3d	-	8 GB	34.9s	1.3s	-	115.7%	0.0%	12.3 MB	125.9 MB	50.3 MB	46.9 MB
+24	2d/271ab0	mapping_wf:ASSEMBLY_MAPPING_MISASSEMBLY	MEGAHIT	COMPLETED	0	2022-08-24 12:51:46.936	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.6s	18.1s	-	828.9%	1.1%	2.7 GB	6.5 GB	217.3 MB	396.5 KB
+26	13/25b970	mapping_wf:ASSEMBLY_MAPPING	MEGAHIT	COMPLETED	0	2022-08-24 12:51:46.927	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	49.7s	24s	-	795.3%	1.8%	2.2 GB	5.8 GB	217.3 MB	1.7 MB
+27	dc/8d5e6c	postprocessing_wf:MISASSEMBLY	MEGAHIT	COMPLETED	0	2022-08-24 12:52:16.927	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	14.9s	1.8s	-	114.5%	0.1%	78.8 MB	361.3 MB	14.1 MB	17.6 KB
+30	52/f81140	postprocessing_wf:GAP_ASSESSMENT	MEGAHIT	COMPLETED	0	2022-08-24 12:52:16.931	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1m 35s	1m 27s	-	99.9%	0.5%	620.6 MB	902.9 MB	200.6 MB	45.3 KB
+28	a6/3e7b64	mapping_wf:ASSEMBLY_STATS_MAPPING	MEGAHIT	COMPLETED	0	2022-08-24 12:52:16.938	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	2m 50s	2m 40s	-	98.2%	0.4%	568.9 MB	850.9 MB	249.3 MB	525 KB
+29	00/e3eb34	postprocessing_wf:SNP_ASSESSMENT	MEGAHIT	COMPLETED	0	2022-08-24 12:52:16.935	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	22m 15s	22m 9s	-	101.0%	0.1%	144.3 MB	426.3 MB	200.6 MB	10.2 MB
+16	79/74b3fb	mapping_wf:READ_MAPPING	SKESA	COMPLETED	0	2022-08-24 12:40:46.878	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	40m 49s	40m 22s	-	179.6%	0.8%	2.1 GB	3.5 GB	35.1 GB	15.3 GB
+31	c0/cc1916	mapping_wf:ASSEMBLY_STATS_GLOBAL	SKESA	COMPLETED	0	2022-08-24 13:21:17.304	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	9.8s	958ms	-	122.1%	0.0%	8.3 MB	11.5 MB	36.9 MB	983 B
+25	1a/f9c863	mapping_wf:READ_MAPPING	MEGAHIT	COMPLETED	0	2022-08-24 12:51:46.932	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	43m 55s	43m 28s	-	184.3%	0.9%	2.3 GB	3.7 GB	37.1 GB	17.2 GB
+32	03/dbc832	mapping_wf:ASSEMBLY_STATS_GLOBAL	MEGAHIT	COMPLETED	0	2022-08-24 13:35:47.379	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	34.9s	1s	-	112.2%	0.0%	8.4 MB	11.5 MB	54.7 MB	998 B
+14	b6/fea08f	assembly_wf:IDBA	SRR8073716	COMPLETED	0	2022-08-24 12:04:18.585	docker:cimendes/idba:1.1.3-1	16	3d	-	64 GB	1h 48m 36s	1h 48m 31s	-	1255.3%	18.5%	23.2 GB	25.1 GB	21.2 GB	6.2 GB
+33	37/b02d37	mapping_wf:FILTER_ASSEMBLY	IDBA-UD	COMPLETED	0	2022-08-24 13:53:17.446	docker:pcerqueira/bbtools:38.44	2	3d	-	8 GB	34.9s	1.5s	-	142.1%	0.1%	94.3 MB	2.6 GB	52.6 MB	45.3 MB
+34	62/538852	mapping_wf:ASSEMBLY_MAPPING	IDBA-UD	COMPLETED	0	2022-08-24 13:53:47.452	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.9s	17.2s	-	829.4%	1.2%	1.5 GB	2.4 GB	215.6 MB	2.9 MB
+35	6e/549067	mapping_wf:ASSEMBLY_MAPPING_MISASSEMBLY	IDBA-UD	COMPLETED	0	2022-08-24 13:53:47.448	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	49.9s	19.1s	-	883.2%	1.4%	1.7 GB	3.7 GB	215.6 MB	838.4 KB
+40	31/c1e683	postprocessing_wf:MISASSEMBLY	IDBA-UD	COMPLETED	0	2022-08-24 13:54:17.463	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	9.9s	1.7s	-	117.0%	0.1%	76.5 MB	359.7 MB	14.5 MB	7.7 KB
+38	37/29bd7f	postprocessing_wf:GAP_ASSESSMENT	IDBA-UD	COMPLETED	0	2022-08-24 13:54:17.449	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	2m	1m 47s	-	97.7%	0.5%	607.6 MB	889.7 MB	216.4 MB	216.1 KB
+39	a0/ca26e0	mapping_wf:ASSEMBLY_STATS_MAPPING	IDBA-UD	COMPLETED	0	2022-08-24 13:54:17.458	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	4m 30s	4m 14s	-	99.3%	0.4%	564.8 MB	846.1 MB	264.7 MB	1.2 MB
+4	bd/7ab33a	assembly_wf:GATBMINIAPIPELINE	SRR8073716	COMPLETED	0	2022-08-24 12:00:16.654	docker:cimendes/gatb-minia-pipeline:31.07.2020-1	16	3d	-	64 GB	2h 5m 18s	2h 5m 7s	-	1073.9%	7.0%	8.8 GB	14.2 GB	189.2 GB	64.3 GB
+41	a3/a11d17	mapping_wf:FILTER_ASSEMBLY	GATBMiniaPipeline	COMPLETED	0	2022-08-24 14:05:47.522	docker:pcerqueira/bbtools:38.44	2	3d	-	8 GB	24.7s	1.5s	-	133.2%	0.1%	92.3 MB	2.6 GB	51.4 MB	46.1 MB
+42	bd/e2c644	mapping_wf:ASSEMBLY_MAPPING_MISASSEMBLY	GATBMiniaPipeline	COMPLETED	0	2022-08-24 14:06:17.523	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.9s	16.4s	-	765.5%	1.1%	1.4 GB	2.2 GB	216.5 MB	657.6 KB
+44	7b/c66d60	mapping_wf:ASSEMBLY_MAPPING	GATBMiniaPipeline	COMPLETED	0	2022-08-24 14:06:17.531	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	49.8s	18.8s	-	817.3%	0.6%	1.6 GB	2.7 GB	216.5 MB	2.3 MB
+45	ee/9dd798	postprocessing_wf:MISASSEMBLY	GATBMiniaPipeline	COMPLETED	0	2022-08-24 14:06:47.522	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	14.5s	1.7s	-	112.9%	0.1%	79.6 MB	362.4 MB	14.4 MB	3.2 KB
+48	6e/78cc23	postprocessing_wf:GAP_ASSESSMENT	GATBMiniaPipeline	COMPLETED	0	2022-08-24 14:06:47.531	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1m 35s	1m 28s	-	96.7%	0.5%	614.9 MB	896.6 MB	208.1 MB	179.4 KB
+46	42/589424	mapping_wf:ASSEMBLY_STATS_MAPPING	GATBMiniaPipeline	COMPLETED	0	2022-08-24 14:06:47.535	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	3m 40s	3m 31s	-	98.9%	0.4%	572 MB	853.2 MB	256.6 MB	1.2 MB
+47	2b/ec9a66	postprocessing_wf:SNP_ASSESSMENT	GATBMiniaPipeline	COMPLETED	0	2022-08-24 14:06:47.527	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	4m 30s	4m 21s	-	99.4%	0.1%	138 MB	419.6 MB	208.1 MB	2.6 MB
+36	0b/92d1ee	mapping_wf:READ_MAPPING	IDBA-UD	COMPLETED	0	2022-08-24 13:53:47.456	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	40m 40s	40m 8s	-	186.8%	0.9%	2.3 GB	3.8 GB	37.4 GB	17.5 GB
+49	22/5aaa91	mapping_wf:ASSEMBLY_STATS_GLOBAL	IDBA-UD	COMPLETED	0	2022-08-24 14:34:17.659	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	19.9s	1.2s	-	113.6%	0.0%	8.4 MB	11.6 MB	54.8 MB	1009 B
+37	b2/6b0bf2	postprocessing_wf:SNP_ASSESSMENT	IDBA-UD	COMPLETED	0	2022-08-24 13:54:17.454	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	43m 35s	43m 23s	-	100.4%	0.1%	136.2 MB	417.8 MB	216.4 MB	10 MB
+2	37/7bd162	assembly_wf:METASPADES	SRR8073716	COMPLETED	0	2022-08-24 12:00:16.660	docker:cimendes/spades:3.15.3-1	16	3d	-	64 GB	2h 44m 3s	2h 43m 52s	-	908.2%	17.4%	21.9 GB	24.5 GB	74.6 GB	132.9 GB
+50	39/b0013e	mapping_wf:FILTER_ASSEMBLY	metaSPAdes	COMPLETED	0	2022-08-24 14:44:17.707	docker:pcerqueira/bbtools:38.44	2	3d	-	8 GB	9.9s	1.8s	-	115.8%	0.1%	99.3 MB	2.6 GB	51.1 MB	46.8 MB
+53	3e/a41a2c	mapping_wf:ASSEMBLY_MAPPING	metaSPAdes	COMPLETED	0	2022-08-24 14:44:47.709	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.9s	17.2s	-	893.7%	1.3%	1.6 GB	2.2 GB	217.2 MB	1.7 MB
+52	66/f045b3	mapping_wf:ASSEMBLY_MAPPING_MISASSEMBLY	metaSPAdes	COMPLETED	0	2022-08-24 14:44:47.713	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.9s	16.3s	-	840.5%	1.3%	1.6 GB	2.1 GB	217.2 MB	385.3 KB
+57	50/171f10	postprocessing_wf:MISASSEMBLY	metaSPAdes	COMPLETED	0	2022-08-24 14:45:17.746	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	14.8s	1s	-	123.3%	0.0%	8.9 MB	11.9 MB	14.1 MB	3 KB
+43	9d/346c59	mapping_wf:READ_MAPPING	GATBMiniaPipeline	COMPLETED	0	2022-08-24 14:06:17.527	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	40m 5s	39m 34s	-	196.4%	1.8%	2.3 GB	3.8 GB	35.7 GB	15.8 GB
+58	cc/2228fd	mapping_wf:ASSEMBLY_STATS_GLOBAL	GATBMiniaPipeline	COMPLETED	0	2022-08-24 14:46:17.733	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	24.9s	1.3s	-	93.0%	0.0%	55.8 MB	338.4 MB	55.8 MB	1 KB
+54	bb/9ec52c	postprocessing_wf:GAP_ASSESSMENT	metaSPAdes	COMPLETED	0	2022-08-24 14:45:17.735	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1m 50s	1m 35s	-	97.1%	0.6%	721.5 MB	1010.1 MB	200.6 MB	55.3 KB
+55	e9/60e567	mapping_wf:ASSEMBLY_STATS_MAPPING	metaSPAdes	COMPLETED	0	2022-08-24 14:45:17.740	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	3m 30s	3m 15s	-	98.6%	0.4%	570.3 MB	914.1 MB	249.2 MB	710.4 KB
+8	d1/84e3e4	assembly_wf:SPADES	SRR8073716	COMPLETED	0	2022-08-24 12:00:16.665	docker:cimendes/spades:3.15.3-1	16	3d	-	64 GB	2h 49m 33s	2h 49m 23s	-	874.8%	8.5%	10.7 GB	20.5 GB	74.4 GB	217.5 GB
+59	ba/6b0927	mapping_wf:FILTER_ASSEMBLY	SPAdes	COMPLETED	0	2022-08-24 14:49:47.737	docker:pcerqueira/bbtools:38.44	2	3d	-	8 GB	9.9s	1.6s	-	140.3%	0.1%	102.5 MB	2.6 GB	51.6 MB	46.3 MB
+62	82/f044ee	mapping_wf:ASSEMBLY_MAPPING_MISASSEMBLY	SPAdes	COMPLETED	0	2022-08-24 14:50:17.751	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.9s	16.1s	-	808.4%	1.2%	1.6 GB	2.5 GB	216.6 MB	555.4 KB
+60	7e/3cce64	mapping_wf:ASSEMBLY_MAPPING	SPAdes	COMPLETED	0	2022-08-24 14:50:17.755	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.9s	15.2s	-	801.3%	1.3%	1.6 GB	2.8 GB	216.6 MB	2.1 MB
+63	85/9d62f9	postprocessing_wf:MISASSEMBLY	SPAdes	COMPLETED	0	2022-08-24 14:50:47.749	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	14.9s	2.1s	-	99.0%	0.1%	73.2 MB	356.4 MB	14.3 MB	4 KB
+64	df/53f02b	postprocessing_wf:GAP_ASSESSMENT	SPAdes	COMPLETED	0	2022-08-24 14:50:47.758	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1m 35s	1m 20s	-	97.5%	0.5%	618.7 MB	901.5 MB	205.9 MB	109.8 KB
+66	54/0c492b	mapping_wf:ASSEMBLY_STATS_MAPPING	SPAdes	COMPLETED	0	2022-08-24 14:50:47.761	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	2m 55s	2m 40s	-	97.8%	0.5%	587.5 MB	869.6 MB	254.4 MB	1.1 MB
+65	d7/f5e4e7	postprocessing_wf:SNP_ASSESSMENT	SPAdes	COMPLETED	0	2022-08-24 14:50:47.754	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	10m 35s	10m 20s	-	99.8%	0.1%	138.9 MB	420.5 MB	205.9 MB	3.9 MB
+61	a0/87d2ee	mapping_wf:READ_MAPPING	SPAdes	COMPLETED	0	2022-08-24 14:50:17.747	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	39m 25s	38m 57s	-	181.4%	1.7%	2.2 GB	3.7 GB	41 GB	21.2 GB
+67	8f/0da0c0	mapping_wf:ASSEMBLY_STATS_GLOBAL	SPAdes	COMPLETED	0	2022-08-24 15:29:47.913	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	34.9s	1.7s	-	103.9%	0.0%	56.4 MB	339 MB	56 MB	990 B
+51	2f/3278bf	mapping_wf:READ_MAPPING	metaSPAdes	COMPLETED	0	2022-08-24 14:44:47.716	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	49m 5s	48m 35s	-	184.9%	1.8%	2.3 GB	3.8 GB	41.4 GB	21.5 GB
+68	5c/797b60	mapping_wf:ASSEMBLY_STATS_GLOBAL	metaSPAdes	COMPLETED	0	2022-08-24 15:33:47.929	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	24.9s	1.7s	-	101.9%	0.0%	57.1 MB	339.6 MB	55.5 MB	1014 B
+56	ac/539826	postprocessing_wf:SNP_ASSESSMENT	metaSPAdes	COMPLETED	0	2022-08-24 14:45:17.728	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1h 50s	1h 36s	-	100.3%	0.1%	145.2 MB	426.5 MB	200.6 MB	12.3 MB
+10	9d/3b55b8	assembly_wf:UNICYCLER	SRR8073716	COMPLETED	0	2022-08-24 12:00:16.674	docker:cimendes/unicycler:0.4.9-1	16	3d	-	64 GB	1d 14h 8m 12s	1d 14h 8m	-	211.3%	10.8%	27.1 GB	30.8 GB	214.6 GB	1.2 TB
+69	19/f4c766	mapping_wf:FILTER_ASSEMBLY	Unicycler	COMPLETED	0	2022-08-26 02:08:36.883	docker:pcerqueira/bbtools:38.44	2	3d	-	8 GB	19.7s	1.4s	-	138.5%	0.1%	106.8 MB	2.6 GB	39.7 MB	35.1 MB
+70	fd/431b26	report_wf:COMPILE_VERSIONS	-	FAILED	1	2022-08-26 02:08:36.889	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	19.7s	5s	-	-	-	-	-	-	-
+74	e0/10cd2b	report_wf:COMPILE_VERSIONS	-	FAILED	1	2022-08-26 02:09:06.905	docker:cimendes/lmas-python-base:0.1	4	3d	-	16 GB	29.8s	5s	-	-	-	-	-	-	-
+73	65/19b269	mapping_wf:ASSEMBLY_MAPPING	Unicycler	COMPLETED	0	2022-08-26 02:09:06.887	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.9s	15.1s	-	697.4%	1.9%	2.3 GB	3.2 GB	205.4 MB	1.4 MB
+72	4d/b81280	mapping_wf:ASSEMBLY_MAPPING_MISASSEMBLY	Unicycler	COMPLETED	0	2022-08-26 02:09:06.892	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	44.9s	14.2s	-	713.2%	2.1%	2.6 GB	3.6 GB	205.4 MB	337.1 KB
+75	6a/e60e53	report_wf:COMPILE_VERSIONS	-	COMPLETED	0	2022-08-26 02:09:36.887	docker:cimendes/lmas-python-base:0.1	6	3d	-	24 GB	29.9s	1.3s	-	147.1%	0.0%	49.1 MB	589.9 MB	7.8 MB	693 B
+79	f7/9ed9c7	postprocessing_wf:MISASSEMBLY	Unicycler	COMPLETED	0	2022-08-26 02:09:36.906	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	14.8s	2.4s	-	86.4%	0.1%	77.7 MB	360.6 MB	14.1 MB	4.6 KB
+81	24/6dbb0c	postprocessing_wf:PROCESS_MISASSEMBLY	-	COMPLETED	0	2022-08-26 02:10:06.897	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	29.8s	2.1s	-	97.8%	0.1%	79.7 MB	362.7 MB	25.8 MB	3.5 MB
+80	03/31c8fd	postprocessing_wf:PLOT_MISASSEMBLY	-	COMPLETED	0	2022-08-26 02:10:06.893	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	39.8s	13s	-	98.6%	0.3%	372.2 MB	653.8 MB	84 MB	62.3 MB
+77	fc/5c854e	postprocessing_wf:GAP_ASSESSMENT	Unicycler	COMPLETED	0	2022-08-26 02:09:36.896	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1m 10s	57.7s	-	94.6%	0.3%	402.7 MB	685.3 MB	195.7 MB	93.2 KB
+78	7a/2965c5	mapping_wf:ASSEMBLY_STATS_MAPPING	Unicycler	COMPLETED	0	2022-08-26 02:09:36.900	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	2m 5s	1m 54s	-	96.1%	0.3%	373.8 MB	655.9 MB	232.2 MB	519.3 KB
+82	36/e9be25	postprocessing_wf:PLOT_GAP_BOXPLOT	-	COMPLETED	0	2022-08-26 02:11:06.911	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1m 5s	31.9s	-	100.6%	0.1%	80.5 MB	362.4 MB	25.4 MB	3.6 MB
+84	d0/a5fcdb	postprocessing_wf:PLOT_CONTIG_DISTRIBUTION	-	COMPLETED	0	2022-08-26 02:11:36.910	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	9.8s	1.8s	-	110.0%	0.1%	87.6 MB	369.6 MB	29.6 MB	4.1 MB
+88	8c/d2308b	postprocessing_wf:PROCESS_COMPLETNESS	-	COMPLETED	0	2022-08-26 02:11:36.917	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	9.8s	3s	-	107.1%	0.1%	116.5 MB	627.6 MB	68.1 MB	44.9 MB
+85	fc/6d58dd	postprocessing_wf:PLOT_NAX	-	COMPLETED	0	2022-08-26 02:11:36.921	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	9.8s	3.6s	-	101.3%	0.1%	102.5 MB	403.9 MB	66.8 MB	45 MB
+89	60/f78604	postprocessing_wf:PLOT_LX	-	COMPLETED	0	2022-08-26 02:11:36.925	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	9.8s	3s	-	101.2%	0.1%	101.8 MB	403.2 MB	66.8 MB	44.9 MB
+86	35/747618	mapping_wf:PROCESS_ASSEMBLY_STATS_MAPPING	-	COMPLETED	0	2022-08-26 02:11:36.932	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	9.8s	1.4s	-	87.2%	0.0%	45.8 MB	312.7 MB	7.8 MB	32 KB
+90	c5/e1c8d2	postprocessing_wf:PLOT_NGX	-	COMPLETED	0	2022-08-26 02:11:36.928	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	14.5s	4.8s	-	84.2%	0.1%	101.4 MB	403.7 MB	66.8 MB	45 MB
+83	af/5aa8fe	postprocessing_wf:PLOT_GAP_REFERENCE	-	COMPLETED	0	2022-08-26 02:11:06.916	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1m 35s	1m	-	100.0%	2.2%	2.7 GB	3 GB	67.6 MB	53.2 MB
+87	97/014ee9	postprocessing_wf:PROCESS_SHRIMP_PLOT	-	COMPLETED	0	2022-08-26 02:11:36.914	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	1m 15s	1m 9s	-	100.1%	0.1%	84.5 MB	367.1 MB	67.6 MB	46.8 MB
+76	58/86752b	postprocessing_wf:SNP_ASSESSMENT	Unicycler	COMPLETED	0	2022-08-26 02:09:36.892	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	12m 30s	12m 18s	-	100.1%	0.1%	160.2 MB	441.7 MB	195.7 MB	5.7 MB
+91	23/9c2643	postprocessing_wf:PLOT_SNP_REFERENCE	-	COMPLETED	0	2022-08-26 02:22:06.944	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	54.7s	41.5s	-	99.4%	0.2%	211 MB	512.4 MB	121.3 MB	91.8 MB
+71	c6/954dd6	mapping_wf:READ_MAPPING	Unicycler	COMPLETED	0	2022-08-26 02:09:06.899	docker:cimendes/minimap2:2.22-1	16	3d	-	64 GB	42m 45s	42m 13s	-	186.6%	1.7%	2.2 GB	3.7 GB	35.5 GB	15.7 GB
+92	61/384271	mapping_wf:ASSEMBLY_STATS_GLOBAL	Unicycler	COMPLETED	0	2022-08-26 02:51:37.048	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	14.9s	1.4s	-	105.2%	0.0%	57.2 MB	339.8 MB	44.1 MB	1008 B
+93	ce/d91e99	mapping_wf:PROCESS_ASSEMBLY_STATS_GLOBAL	-	COMPLETED	0	2022-08-26 02:52:07.049	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	29.7s	700ms	-	140.9%	0.0%	7.6 MB	11.2 MB	7.8 MB	3.1 KB
+94	c1/81cfaa	report_wf:COMPILE_REPORT	-	COMPLETED	0	2022-08-26 02:52:37.050	docker:cimendes/lmas-python-base:0.1	2	3d	-	8 GB	34.6s	5.4s	-	96.2%	0.1%	179.9 MB	462.7 MB	86.6 MB	45.8 MB
