@@ -134,4 +134,4 @@ Results/*/*/results/*/assembly/*/*.fasta
 *.DS_Store
 Results/GutMix/report/index.html
 Results/GutMix/report/pipeline_report_plots.json
-Results/GutMix/report/index.html
+Results/GutMix/results/
